@@ -1,0 +1,1260 @@
+id,name,neighbourhood,latitude,longitude,room_type,property_type,price,minimum_nights,number_of_reviews,reviews_per_month,availability_365,host_is_superhost,instant_bookable
+90676,Short North - Italianate Cottage,Neighborhood highlights,39.98366,-83.00252,Entire home/apt,Entire home,128,1,868,5.11,155,t,f
+591101,Bellows Studio Loft  Apartment,Neighborhood highlights,39.96041,-82.98005,Private room,Private room in loft,112,2,342,2.14,339,t,f
+927867,Full Private Room at the Hostel,Neighborhood highlights,40.01259,-83.00164,Private room,Private room in hostel,105,1,82,0.56,292,f,f
+1183297,Hannah's Haus**Prime location in German Village**,Neighborhood highlights,39.95164,-82.99434,Entire home/apt,Entire home,253,30,87,1.8,288,t,f
+1217678,Comfortable rooms in Clintonville 1,Neighborhood highlights,40.03869,-83.01728,Private room,Private room in home,74,1,283,1.9,342,t,f
+1286887,"The Red Stable German Village Airbnb, entire home!",Neighborhood highlights,39.94548,-82.99245,Entire home/apt,Entire home,181,3,196,1.33,269,t,f
+1321192,Downtown! Beautiful Historic Old Oaks Home!,Neighborhood highlights,39.95288,-82.96715,Entire home/apt,Entire home,270,1,68,0.47,352,f,f
+1336145,Comfortable rooms in Clintonville 2,Neighborhood highlights,40.0369,-83.01677,Private room,Private room in home,74,1,223,1.52,349,t,f
+2134901,Terrific Apt just south of OSU,Neighborhood highlights,39.98744,-83.01632,Entire home/apt,Entire rental unit,150,30,35,0.25,279,t,f
+2172026,Mid-Century Sweet Little Apartment,Neighborhood highlights,39.98576,-83.01092,Entire home/apt,Entire rental unit,155,30,42,0.3,40,t,f
+2227278,German Village Getaway,Neighborhood highlights,39.94092,-82.98748,Entire home/apt,Entire home,258,3,4,0.04,291,f,f
+2262958,Great apartment with extra rooms,Neighborhood highlights,39.98675,-83.01279,Entire home/apt,Entire rental unit,186,30,46,0.34,287,t,f
+2349920,Eclectic Short North Escape. FREE Parking!,Neighborhood highlights,39.98596,-83.00282,Entire home/apt,Entire home,206,2,231,1.63,324,f,f
+3193181,LUXURY LIVING on a budget,Neighborhood highlights,40.00681,-82.9734,Entire home/apt,Entire rental unit,70,30,163,1.18,60,t,f
+3731977,Relaxation Near Easton + Theater Room!,Neighborhood highlights,40.08947,-82.88701,Private room,Private room in home,56,30,60,0.48,273,t,f
+3750603,Private bedroom downtown! Historic Old Oaks,Neighborhood highlights,39.95175,-82.96688,Private room,Private room in home,72,1,21,0.15,10,f,f
+3940646,The Manor-  3rd FL. Loft Apt. - Close to Downtown,Neighborhood highlights,39.9659,-82.97557,Entire home/apt,Entire rental unit,80,1,567,5.52,213,t,f
+3975468,"Serial Entrepreneur-Ship (""S.E.S"")",Neighborhood highlights,40.00709,-82.97442,Private room,Private room in rental unit,60,30,68,0.51,90,t,f
+4679761,King Private Room at the Hostel,Neighborhood highlights,40.01257,-83.00159,Private room,Private room in hostel,116,1,87,0.77,279,f,f
+5297763,Family Friendly + Fairground/OSU + K9s Welcome,Neighborhood highlights,39.98849,-83.00129,Entire home/apt,Entire townhouse,114,2,491,3.91,241,t,f
+5820556,Pet Friendly Ext Stay Short North/OSU!,Neighborhood highlights,39.98992,-83.00427,Entire home/apt,Entire condo,130,5,171,1.35,350,f,f
+6214751,1 Bedroom Lower Level Apartment,Neighborhood highlights,39.96606,-82.96446,Entire home/apt,Entire rental unit,83,1,137,1.09,9,f,f
+6391158,"Your  Home in Columbus ,Ohio 43230",Neighborhood highlights,40.0636,-82.8546,Private room,Private room in home,60,1,259,2.06,361,t,f
+6416756,Your home in Columbus 43230,Neighborhood highlights,40.06335,-82.85319,Private room,Private room in villa,69,1,214,1.71,360,t,f
+6624355,Artist paradise by the River,Neighborhood highlights,40.02752,-83.02348,Entire home/apt,Entire home,76,1,108,0.93,332,t,f
+6805322,The Short S.T.O.P.P,Neighborhood highlights,40.00632,-82.97504,Shared room,Shared room in rental unit,43,30,47,0.38,90,t,f
+6883920,SERENITY in NW Columbus!,Neighborhood highlights,40.06479,-83.12121,Entire home/apt,Entire bungalow,267,2,86,0.69,346,t,f
+6924472,Quiet 3rd Flr Room Blocks to OSU Campus+Med Center,Neighborhood highlights,39.99228,-83.01179,Private room,Private room in home,56,1,455,3.81,354,t,t
+7061726,Fairground/OSU + K9s Welcome | Family Friendly,Neighborhood highlights,39.9883,-83.00101,Entire home/apt,Entire townhouse,131,2,495,3.99,253,t,f
+7474783,Private Bedroom/Bathroom Close to Downtown,Neighborhood highlights,39.96348,-82.9519,Private room,Private room in home,71,1,182,4.29,334,t,f
+7564891,Tulsa #3 Nicely Priced Bedroom,Neighborhood highlights,40.06467,-82.98839,Private room,Private room in home,26,30,16,0.13,165,f,f
+7617016,Tulsa #1 Shared House Master Bedroom,Neighborhood highlights,40.06467,-82.98839,Private room,Private room in home,29,30,21,0.17,171,f,f
+7637541,Tulsa #4 Nicely Priced Bedroom,Neighborhood highlights,40.06466,-82.98839,Private room,Private room in home,26,30,20,0.18,176,f,f
+7771588,1BR Apt. on Clintonville Ravine,Neighborhood highlights,40.0195,-83.00268,Entire home/apt,Entire rental unit,89,3,177,1.47,49,t,f
+8507146,Tulsa #6 Nicely Priced Bedroom,Neighborhood highlights,40.06467,-82.98839,Private room,Private room in home,26,30,22,0.2,179,f,f
+8578379,Beautiful Olde Towne East Home close to Downtown,Neighborhood highlights,39.96192,-82.97329,Private room,Private room in home,35,1,893,7.35,290,t,f
+8688424,Fabulous private apartment inside beautiful home,Neighborhood highlights,40.06375,-83.10037,Entire home/apt,Entire rental unit,108,2,142,1.17,356,t,f
+9169196,Victorian Home in the Short North/OSU,Neighborhood highlights,39.98942,-83.00859,Entire home/apt,Entire home,209,2,72,0.67,49,t,f
+9561460,Map Room - Olde Towne/Franklin Park-Historic,Neighborhood highlights,39.96034463228328,-82.95054054,Private room,Private room in home,82,1,807,6.79,356,t,f
+10016466,Modern Industrial Loft Space Fully Renovated,Neighborhood highlights,39.98234,-83.02128,Entire home/apt,Entire guest suite,320,2,105,0.88,90,f,f
+10383297,East Columbus Suburbs with private bath,Neighborhood highlights,39.9993,-82.78244,Private room,Private room in home,41,1,609,5.18,342,t,f
+10613716,Pet-friendly 4BD/2B 1/2 Duplex by Downtown/OTE,Neighborhood highlights,39.96971,-82.9764,Entire home/apt,Entire home,147,2,40,1.02,166,t,f
+11047105,Garden Manor Guest House Air BnB,Neighborhood highlights,39.96722,-82.97345,Entire home/apt,Entire guesthouse,136,2,293,2.5,111,t,f
+12631194,K9s Welcome-Fairground/OSU-Parking,Neighborhood highlights,39.98713,-83.00227,Entire home/apt,Entire townhouse,123,2,494,4.42,247,t,f
+12737365,Private Bedroom and Bath in Dublin/Hilliard Ohio,Neighborhood highlights,40.0599,-83.11814,Private room,Private room in home,74,1,696,6.15,350,t,f
+12751583,Heart of Olde Towne East Loft,Neighborhood highlights,39.96298,-82.97759,Entire home/apt,Entire condo,191,1,365,3.24,159,t,f
+12755075,Quaint 1920s Townhouse,Neighborhood highlights,39.92877,-82.9928,Entire home/apt,Entire townhouse,55,1,183,1.63,335,t,f
+12972937,Historic German Village Apartment,Neighborhood highlights,39.95,-82.99665,Entire home/apt,Entire rental unit,225,2,68,0.6,362,f,f
+13045810,Perfect for couples get away or singles traveling,Neighborhood highlights,40.09965,-82.97282,Private room,Private room in home,52,1,499,5.05,315,t,f
+13083807,OSU #B-3 Great Place!,Neighborhood highlights,40.00381,-82.99725,Private room,Private room in rental unit,27,30,7,0.29,179,f,f
+13223833,Welcome! Share my home on Columbus's Westside :),Neighborhood highlights,40.00983,-83.14662,Private room,Private room in condo,52,4,129,1.15,336,t,f
+13994248,"Rustic Townhouse by Mapfre, Osu, Short North & Downtown",Neighborhood highlights,40.0186,-82.99732,Entire home/apt,Entire townhouse,180,2,324,2.94,328,t,f
+14042295,Short North Carriage House,Neighborhood highlights,39.98457,-83.00239,Entire home/apt,Entire guesthouse,103,1,997,9.06,151,t,f
+14245905,Stunning Creek Front Retreat - Water Views - 2BR,Neighborhood highlights,39.97061,-82.94977,Entire home/apt,Entire guesthouse,126,1,184,1.91,179,t,f
+14356430,Cozy private bedroom-Monthly welcome,Neighborhood highlights,39.97412,-82.94917,Private room,Private room in home,29,30,54,0.54,248,t,t
+14401125,Lower level Studio Apt in residential home,Neighborhood highlights,39.90443,-82.98702,Private room,Private room in home,37,30,11,0.27,328,f,f
+14716920,"""Quiet Neighborhood, 10 min to the airport""",Neighborhood highlights,40.0719,-82.91689,Entire home/apt,Entire home,81,1,60,0.55,74,f,f
+14901086,Sweet little room/calm neighborhood,Neighborhood highlights,40.102318,-82.979515,Private room,Private room in home,42,3,280,2.79,52,t,f
+14928551,Fairground/OSU | K9s Welcome | Large Group Stay,Neighborhood highlights,40.0048,-82.99963,Entire home/apt,Entire townhouse,152,2,242,2.23,258,t,f
+14949691,Beautiful spacious suite with gym.,Neighborhood highlights,39.98189,-82.99833,Private room,Private room in home,77,2,272,2.48,334,t,f
+15008883,Chef Kitchen | 4 Queen | High St .2mi | Parking,Neighborhood highlights,39.97896,-83.00106,Entire home/apt,Entire home,175,2,347,3.17,246,t,f
+15017759,"Sweet Suite in Historic Woodland Park, downtown",Neighborhood highlights,39.97084,-82.96018,Entire home/apt,Entire loft,55,28,56,0.53,224,t,f
+15478932,Converted Historic Railroad House,Neighborhood highlights,39.93308,-82.99036,Entire home/apt,Entire home,77,30,316,2.91,323,t,f
+15551815,Centrally Located Modern Home with Private Bath,Neighborhood highlights,40.01603,-83.00991,Private room,Private room in home,65,30,31,0.29,150,f,f
+15552200,Short North Apartment just steps from ~EVERYTHING!,Neighborhood highlights,39.98721,-83.0074,Entire home/apt,Entire rental unit,110,30,138,1.28,298,t,f
+15929897,Guest Suite @ OSU & Short North Arts District,Neighborhood highlights,39.98976,-83.0109,Entire home/apt,Entire guest suite,72,2,578,5.48,169,t,f
+16299456,A Zen Art Oasis - Private Guest Room,Neighborhood highlights,39.98365,-83.01283,Private room,Private room in home,107,30,53,0.5,365,f,f
+16553536,Taste the REIGNbow,Neighborhood highlights,40.00842,-82.97403,Entire home/apt,Entire rental unit,72,30,52,0.49,180,t,f
+16754197,The Gallery (Short North/OSU/Downtown),Neighborhood highlights,39.98846,-83.0073,Entire home/apt,Entire rental unit,87,1,673,6.59,330,t,t
+17031250,3 Bed Vacant House in E. Franklinton near Downtown,Neighborhood highlights,39.95575,-83.01614,Entire home/apt,Entire home,67,14,3,0.03,65,t,f
+17071735,Historic Home overlooking Goodale Park,Neighborhood highlights,39.97792,-83.00915,Entire home/apt,Entire guest suite,207,2,220,2.11,149,t,f
+17265759,Loft Carriage House—Short North/Convention Center,Neighborhood highlights,39.97706,-83.00775,Entire home/apt,Entire loft,127,2,159,1.53,260,f,f
+17365804,K9 Welcome-Fairground/OSU-Parking,Neighborhood highlights,39.98807,-83.00207,Entire home/apt,Entire townhouse,99,2,452,4.33,244,t,f
+18155378,Private Room w/ Workspace in the Heart of Columbus,Neighborhood highlights,39.98181,-83.01353,Private room,Private room in home,68,2,71,0.69,340,t,f
+18577026,Cozy Townhome Next to OSU and Short North (B),Neighborhood highlights,39.99076,-83.00652,Entire home/apt,Entire rental unit,150,30,194,1.91,332,t,f
+18631993,Short North Studio Apt. w/Off-street Parking,Neighborhood highlights,39.98346,-83.0065,Entire home/apt,Entire rental unit,80,7,436,4.5,156,t,f
+18754945,Grandview Post-War Charmer,Neighborhood highlights,39.99031,-83.03687,Entire home/apt,Entire home,144,2,367,3.62,179,t,f
+18930516,Short North Carriage House next to Goodale Park,Neighborhood highlights,39.978,-83.00951,Entire home/apt,Entire guesthouse,143,1,577,5.73,151,t,t
+19177571,Cozy Room in Victorian Village Home,Neighborhood highlights,39.98357,-83.01179,Private room,Private room in home,71,2,79,0.78,356,f,f
+19183032,Triple Private Room at the Hostel,Neighborhood highlights,40.01257,-83.00159,Private room,Private room in hostel,144,1,22,0.23,193,f,f
+19183954,Family Room at the Hostel,Neighborhood highlights,40.01257,-83.00159,Private room,Private room in hostel,220,1,17,0.17,202,f,f
+19291780,Airport /Easton/Bedroom Suite,Neighborhood highlights,40.03322,-82.92499,Private room,Private room in home,63,1,30,0.3,85,f,f
+19469926,Short North/Central Italian Village Home,Neighborhood highlights,39.98146,-82.99968,Entire home/apt,Entire home,363,1,190,1.93,246,t,f
+19700416,Peaceful room in a quiet court,Neighborhood highlights,40.10234,-82.98126,Private room,Private room in home,42,5,127,1.28,64,t,f
+19768209,Almost Bexley Near Airport Cozy Guest Room,Neighborhood highlights,39.96605,-82.92349,Private room,Private room in home,52,30,25,0.51,132,t,f
+19840029,Historic Studio Loft - Primo Location,Neighborhood highlights,39.97467,-83.00347,Entire home/apt,Entire rental unit,82,2,453,4.64,280,t,f
+19861283,"Bright Modern Flat  -Long Term Discount, Inquire",Neighborhood highlights,39.96433,-82.9978,Entire home/apt,Entire rental unit,65,30,101,1.04,202,f,f
+19961055,Spacious home close to OSU ft. off street parking,Neighborhood highlights,40.01396,-83.00991,Entire home/apt,Entire home,287,2,56,0.57,238,t,f
+20047598,Beechwold Bungalow - Clean & Conveniently Located,Neighborhood highlights,40.05389,-83.01478,Entire home/apt,Entire home,111,2,178,4.51,138,t,f
+20469877,Fairground/OSU | K9s Welcome | Large Group Stay,Neighborhood highlights,40.00672,-82.99916,Entire home/apt,Entire townhouse,190,2,248,2.53,243,t,f
+20754302,Art at 185 German Village,Neighborhood highlights,39.94747,-82.99168,Entire home/apt,Entire guesthouse,88,1,755,7.73,136,t,f
+20871689,Short North 4BR 2 Bath FREE PARKING + WiFi,Neighborhood highlights,39.98072,-83.01231,Entire home/apt,Entire home,141,3,245,2.54,231,f,f
+21028711,Townhouse in University District,Neighborhood highlights,40.00779,-83.002296,Entire home/apt,Entire rental unit,75,2,30,1.22,229,f,f
+21028916,Sophia's Sunny Place Columbus Ohio,Neighborhood highlights,40.01904,-83.04461,Entire home/apt,Entire home,252,3,230,2.38,246,t,f
+21071138,Huge Downtown Apartment +Free Parking +300MB Wifi,Neighborhood highlights,39.9561,-82.99804,Entire home/apt,Entire rental unit,147,30,171,1.76,328,t,f
+21186596,Luxury three story apartment in SHORT NORTH,Neighborhood highlights,39.97945,-83.00499,Entire home/apt,Entire rental unit,209,30,99,1.02,363,f,f
+21475354,Newly Renovated Space,Neighborhood highlights,39.93208,-82.99704,Private room,Private room in home,43,30,30,0.31,180,f,f
+21477953,Comfy & Cozy 1 Bedroom,Neighborhood highlights,40.07625,-82.97169,Private room,Private room in home,51,7,178,2.12,45,f,f
+21526768,harrison haus,Neighborhood highlights,39.98022,-83.01461,Entire home/apt,Entire home,324,1,426,4.43,312,t,f
+21864282,*Closest* Airbnb to OSU Campus/Stadium/Med Center!,Neighborhood highlights,39.99251,-83.01203,Private room,Private room in home,43,28,188,1.97,321,t,f
+22016352,Weinland/Short North Modern & Rustic Townhome,Neighborhood highlights,39.98926,-82.99649,Entire home/apt,Entire home,135,1,909,9.63,344,t,f
+22060949,"Cozy, Convenient Short North 2BR/1.5B Free Parking",Neighborhood highlights,39.98212,-82.99892,Entire home/apt,Entire townhouse,125,2,352,3.74,165,t,f
+22481727,The Legacy House - Your Home Away From Home,Neighborhood highlights,39.98144,-82.99304,Entire home/apt,Entire home,115,3,144,1.56,365,f,t
+22829374,Walk to Stadium | Starbucks on Corner | Near Shops,Neighborhood highlights,39.98578,-83.03515,Entire home/apt,Entire rental unit,136,1,442,4.74,179,t,t
+22920809,Private Carriage House - Garage Parking,Neighborhood highlights,39.98522,-83.00095,Entire home/apt,Entire home,88,2,378,4.12,316,t,f
+23004939,Colorful Restored Red Brick with Backyard Patio,Neighborhood highlights,40.03151,-83.01084,Entire home/apt,Entire townhouse,203,1,213,2.29,328,t,f
+23005234,Tiny Blue House! Close to Short North & Downtown!,Neighborhood highlights,39.98345,-82.99742,Entire home/apt,Entire home,103,4,155,1.68,260,f,f
+23145906,Italian Village Carriage House + Parking,Neighborhood highlights,39.98264,-82.99845,Entire home/apt,Entire home,130,2,342,4.34,91,t,t
+23371418,Olde Towne East/Children's Hospital Historic House,Neighborhood highlights,39.95526,-82.97619,Entire home/apt,Entire condo,122,1,345,4.04,360,f,f
+23379800,Newly Renovated Short North Guesthouse,Neighborhood highlights,39.98316,-83.002,Entire home/apt,Entire guesthouse,83,1,488,5.3,251,t,t
+23462639,"8 Bedroom Short North Home, Large Groups Welcome",Neighborhood highlights,39.97672,-83.00161,Entire home/apt,Entire home,1897,3,6,0.07,235,f,t
+23469529,The White Brick Studio @ OSU & Short North,Neighborhood highlights,39.9907,-83.01131,Entire home/apt,Entire rental unit,77,2,522,5.7,169,t,f
+23521285,SOHUD Treetop Townhouse (C),Neighborhood highlights,40.01454,-83.00235,Entire home/apt,Entire rental unit,47,90,111,1.21,96,t,f
+23582919,Brewery District Homestead,Neighborhood highlights,39.9474,-82.99925,Entire home/apt,Entire home,160,2,436,4.76,180,t,f
+24036884,Valleyview Suite,Neighborhood highlights,39.95993,-83.08797,Entire home/apt,Entire guest suite,55,2,280,3.08,90,t,f
+24039394,Oasis in the City (Near Bexley),Neighborhood highlights,39.94292,-82.91537,Entire home/apt,Entire home,128,2,118,1.38,49,f,f
+24156011,The Short North Nest,Neighborhood highlights,39.974667,-83.003471,Entire home/apt,Entire loft,135,2,311,3.47,70,t,f
+24160659,Clintonville Contemporary 3 Bedroom Home,Neighborhood highlights,40.034386,-83.012741,Entire home/apt,Entire home,141,2,104,1.16,131,f,f
+24276483,Airport/ Mount Carmel East,Neighborhood highlights,39.97491,-82.84335,Private room,Private room in home,100,1,108,1.21,38,t,f
+24306117,Short North Modern & Rustic Downtown Townhome,Neighborhood highlights,39.98953,-82.99696,Entire home/apt,Entire home,135,1,903,10.19,340,t,f
+24467145,German Village Weekend Retreat on Schiller Park,Neighborhood highlights,39.94468,-82.99285,Entire home/apt,Entire home,500,2,35,0.39,52,f,f
+24599205,Michaelangelo's,Neighborhood highlights,40.01385,-83.00122,Entire home/apt,Entire rental unit,55,30,19,0.21,105,f,f
+24678009,Flowing King Lincoln Home Close to Downtown,Neighborhood highlights,39.96952,-82.9685,Entire home/apt,Entire home,255,30,206,2.32,265,t,f
+24943318,8 min drive to OSU | Free Laundry | Walk to Shops,Neighborhood highlights,39.98602,-83.03505,Entire home/apt,Entire rental unit,111,1,291,3.24,174,t,t
+25801573,"Lots of light! Walk to OSU, Short North (A)",Neighborhood highlights,39.9906,-83.00828,Entire home/apt,Entire rental unit,150,30,72,0.81,365,t,f
+25858734,Eclectic Carriage House in a Vibrant Neighborhood,Neighborhood highlights,39.9823,-83.00838,Entire home/apt,Entire home,135,7,235,2.65,10,t,f
+25917984,The Level Two Studio @ OSU & Short North,Neighborhood highlights,39.98948,-83.01094,Entire home/apt,Entire rental unit,79,2,422,4.76,165,t,f
+26368947,Private Room with Fireplace; Free Parking Near OSU,Neighborhood highlights,39.98744,-83.01339,Private room,Private room in home,74,1,79,0.91,355,t,f
+26428080,Private Room; Short North/OSU; Free Parking,Neighborhood highlights,39.98884,-83.01142,Private room,Private room in home,69,1,91,1.04,360,t,f
+26717456,Columbus Clean  Cozy Close to Everything sleeps 12,Neighborhood highlights,40.01673,-82.98686,Entire home/apt,Entire home,172,2,147,1.74,355,f,f
+27341208,Gem of German Village,Neighborhood highlights,39.95178,-82.98712,Entire home/apt,Entire condo,108,1,435,4.99,133,t,f
+27370485,Terry's Private Rustic Home/ Airport/City & Easton,Neighborhood highlights,39.992,-82.93106,Entire home/apt,Entire home,86,1,508,5.93,253,f,f
+27524416,Mike & Allen's Place on the Park,Neighborhood highlights,39.96269,-82.95391,Private room,Private room in home,161,1,105,1.24,340,t,t
+27720723,Mike & Allen's Place on the Park-Too,Neighborhood highlights,39.96375,-82.95444,Private room,Private room in home,161,1,196,2.27,360,t,t
+27786833,Historic Comfy German Village Haus sleeps6/petsOK,Neighborhood highlights,39.94562,-82.99091,Entire home/apt,Entire cottage,119,1,564,6.68,324,t,t
+27806768,Ocean View! - SNO,Neighborhood highlights,39.9855,-83.00446,Private room,Private room in townhouse,86,1,448,5.19,179,t,f
+27831822,Beachfront Property! - SNO,Neighborhood highlights,39.98408,-83.00328,Entire home/apt,Entire townhouse,104,2,18,0.21,148,t,f
+27907197,Welcome! | Shared Home | Private room |,Neighborhood highlights,40.00983,-83.14671,Private room,Private room in condo,53,3,93,1.08,284,t,f
+27927319,Vic Village *Great Location! *3 Queen *OSU 1/2mi,Neighborhood highlights,39.98791,-83.01242,Entire home/apt,Entire place,166,2,355,4.28,230,t,f
+28008219,Chic Urban Living near OSU and the Short North (D),Neighborhood highlights,39.99053,-83.00877,Entire home/apt,Entire rental unit,95,30,93,1.08,343,t,f
+28310651,The Short North Retreat - Private Parking!!!,Neighborhood highlights,39.98173,-83.00412,Entire home/apt,Entire rental unit,95,2,485,5.65,307,t,f
+28353911,The Clintonville Red House,Neighborhood highlights,40.05273,-83.01658,Entire home/apt,Entire home,152,2,228,2.69,68,f,f
+28506061,Gray Room - Olde Towne/Franklin Park-Historic,Neighborhood highlights,39.96031,-82.95052,Private room,Private room in home,67,1,401,4.76,348,t,f
+28540036,"Comfy near downtown, stadium, convention ctr",Neighborhood highlights,39.95532227,-83.03162384,Entire home/apt,Entire townhouse,105,2,43,0.51,266,t,f
+28544932,Wincott Place - A Clintonville Gem,Neighborhood highlights,40.0605,-83.00787,Entire home/apt,Entire home,187,1,257,3.01,328,f,f
+28563372,Refurbished Duplex Apartment in Historic Italian Village,Neighborhood highlights,39.98007,-83.00102,Entire home/apt,Entire rental unit,115,2,485,5.71,208,t,f
+28640445,Spacious 1BR - Great Location @ Grandview & OSU!,Neighborhood highlights,39.98985,-83.03976,Entire home/apt,Entire rental unit,75,2,351,4.13,170,t,f
+28960931,Cozy Short North Brick Condo - 1 block off High St,Neighborhood highlights,39.98042,-83.00834,Entire home/apt,Entire condo,252,2,100,1.21,70,t,t
+29030170,Cozy place nestled in the heart of short north,Neighborhood highlights,39.98229,-83.00763,Private room,Private room in guesthouse,138,2,66,0.91,176,f,f
+29059682,"Remodel+ 2 King Beds, 3 Min to OSU, Great Kitchen",Neighborhood highlights,40.03078,-83.02186,Entire home/apt,Entire home,179,2,138,1.63,331,t,f
+29213687,"4 bedrooms, walk to OSU and downtown (E)",Neighborhood highlights,39.9894,-83.0066,Entire home/apt,Entire rental unit,184,30,144,1.71,163,t,f
+29752166,Fantastic Hidden Gem In Quiet Neighborhood,Neighborhood highlights,40.06501,-83.01242,Entire home/apt,Entire home,88,1,408,4.97,343,t,f
+29801073,Spacious 3 BR | Walk to OSU | Good for Families!,Neighborhood highlights,40.00833,-83.00288,Entire home/apt,Entire home,155,2,130,1.68,228,t,f
+29900406,The Short North Carriage House-Private Parking!!!,Neighborhood highlights,39.97854,-83.00968,Entire home/apt,Entire loft,94,2,460,5.49,280,t,f
+29906924,Renovated Old Oaks Home Near Downtown & Nationwide,Neighborhood highlights,39.94856,-82.96987,Entire home/apt,Entire home,119,2,31,0.39,355,f,f
+29907600,Cozy Rear Single Room Near Downtown & Nationwide,Neighborhood highlights,39.95,-82.96854,Private room,Private room in home,34,1,90,1.1,355,f,f
+29941638,Traditional B&B Queen Room • Walk to Convention,Neighborhood highlights,39.97718,-83.00202,Private room,Private room in bed and breakfast,192,1,6,0.16,330,f,t
+29993076,Cozy and stylish getaway centrally located!!!!,Neighborhood highlights,40.08143,-82.9174,Entire home/apt,Entire rental unit,68,30,15,0.34,144,f,f
+30013525,Cozy & Comfy 1 Bedroom,Neighborhood highlights,40.07431,-82.97179,Private room,Private room in home,61,2,196,2.41,45,f,f
+30310415,1stFL Suite *High St .2mi  *GameRm *5 BR *Parking,Neighborhood highlights,39.97794,-83.0004,Entire home/apt,Entire home,208,1,208,2.78,233,t,f
+30338017,Large Groups *Game Rm *5 Queen/1 King *OSU 1/2mi,Neighborhood highlights,39.98745,-83.01163,Entire home/apt,Entire home,559,2,231,2.8,226,t,f
+30676426,Spacious Front Bedroom Near Nationwide & Downtown,Neighborhood highlights,39.9502,-82.96843,Private room,Private room in home,42,1,64,0.79,365,f,f
+30760809,Lovely room in a quiet court,Neighborhood highlights,40.10151,-82.98104,Private room,Private room in home,42,5,92,1.14,48,t,f
+30786971,"Livingston Hideaway - Off Street Parking, 3 BR",Neighborhood highlights,39.95005,-82.97323,Entire home/apt,Entire home,102,2,496,6.05,152,t,f
+31042220,Comfy Queen bed and full bed - four guests,Neighborhood highlights,39.95532227,-83.03162384,Private room,Private room in townhouse,52,2,5,0.06,40,t,f
+31042631,Comfy queen bed,Neighborhood highlights,39.95532227,-83.03162384,Private room,Private room in townhouse,40,2,14,0.17,40,t,f
+31058112,Comfortable Middle Room Near Nationwide & Downtown,Neighborhood highlights,39.94936,-82.97075,Private room,Private room in home,42,1,67,0.82,365,f,f
+31339875,“Exclusive 3 Bedroom” Historical Columbus Home,Neighborhood highlights,39.96831,-82.96539,Entire home/apt,Entire home,126,2,287,3.53,332,t,f
+31531402,Cheerful 3 Bedroom Home in Historic German Village,Neighborhood highlights,39.94744,-82.99131,Entire home/apt,Entire home,161,1,115,2.65,228,t,f
+31708577,2 Bedroom House - Short North / Italian Village,Neighborhood highlights,39.98119,-83.00052,Entire home/apt,Entire home,180,2,66,1.56,344,t,t
+31858701,"Newly renovated, spacious home in Central Columbus",Neighborhood highlights,40.07132,-83.06675,Entire home/apt,Entire home,419,2,215,2.67,337,t,f
+31900971,Minutes to OSU Stadium | Free Laundry | Quiet Area,Neighborhood highlights,39.9858,-83.03649,Entire home/apt,Entire rental unit,86,1,148,1.85,350,t,t
+32015969,Grab a Slice of History at a Characterful Industri,Neighborhood highlights,39.98497,-83.00011,Entire home/apt,Entire rental unit,94,2,391,4.83,308,t,f
+32035594,Enjoy Radiant Home and German Village,Neighborhood highlights,39.94496,-82.98802,Entire home/apt,Entire townhouse,179,2,114,1.43,148,t,f
+32041307,Industrial Chic Apartment in Re-Purposed Factory,Neighborhood highlights,39.98481,-83.00012,Entire home/apt,Entire rental unit,94,2,340,4.21,308,t,f
+32086535,Clintonville Ravine Cape Cod,Neighborhood highlights,40.04535,-83.00696,Private room,Private room in home,117,2,33,0.41,118,t,f
+32268423,Ravine Retreat,Neighborhood highlights,40.04654,-83.00662,Private room,Private room in home,59,2,97,1.21,115,t,f
+32288769,Angler Room,Neighborhood highlights,40.04698,-83.00549,Private room,Private room in home,59,2,83,1.04,120,t,f
+32338404,"Victorian Apt w/ Free Parking, Walk to Short North",Neighborhood highlights,39.98302,-83.01316,Entire home/apt,Entire condo,84,1,322,4.16,336,f,t
+32406632,Nice home near downtown Columbus,Neighborhood highlights,39.94709,-82.98642,Entire home/apt,Entire home,146,1,228,2.85,252,t,f
+32814973,The Aerie,Neighborhood highlights,39.9604,-82.97671,Entire home/apt,Entire rental unit,59,1,349,4.4,79,t,t
+33196934,Spacious 3BR Near OSU | New Kitchen & Luxe Showers,Neighborhood highlights,40.0139,-83.00074,Entire home/apt,Entire rental unit,88,2,245,3.3,75,f,f
+33290325,The Little Yellow House,Neighborhood highlights,40.06892,-83.07445,Entire home/apt,Entire home,151,2,192,2.51,243,t,f
+33544946,Small & Cozy Two Bedroom Urban Home,Neighborhood highlights,39.94703,-82.95486,Entire home/apt,Entire home,74,2,129,2.71,263,f,t
+33688809,TRENDY 3 Bd in German/Merion Village,Neighborhood highlights,39.93729,-82.99499,Entire home/apt,Entire home,151,1,462,5.89,167,t,f
+33908109,The Rock House,Neighborhood highlights,39.9858,-82.93472,Entire home/apt,Entire guest suite,91,2,187,2.4,327,t,t
+33957259,Victorian Downtown home in Olde Towne East,Neighborhood highlights,39.96068,-82.96569,Entire home/apt,Entire townhouse,136,2,175,2.24,339,t,t
+33965806,Renovated Historic House on Quiet Brick Street,Neighborhood highlights,39.98071,-82.99893,Entire home/apt,Entire home,221,2,64,1.72,325,t,f
+34055994,★King’s Landing Duplex close to OSU/Short North ★,Neighborhood highlights,39.99434,-82.99741,Entire home/apt,Entire townhouse,111,2,238,3.3,347,t,f
+34180725,Quaint gem in the heart of a vibrant hip community,Neighborhood highlights,39.93502,-82.98823,Private room,Private room in home,45,30,65,0.88,173,t,t
+34338841,Tulsa #2 Nicely Priced Bedroom,Neighborhood highlights,40.06441,-82.98791,Private room,Private room in home,26,30,7,0.09,143,f,f
+34349508,Huge 4 BED/2.5 BA home w/ big back yard and deck!!,Neighborhood highlights,40.06373,-82.98746,Entire home/apt,Entire home,168,2,326,4.21,315,t,f
+34442208,Lovely Lower Level within our home,Neighborhood highlights,40.09987,-82.96752,Entire home/apt,Entire rental unit,72,2,99,1.29,172,t,f
+34445753,Regan's Place: (Very Near Downtown),Neighborhood highlights,39.96301,-82.97408,Private room,Private room in home,34,1,532,6.87,296,t,f
+34468537,Big Grey | 3 Suites | 5 Queens | OSU 1/2mi,Neighborhood highlights,39.98584,-83.01156,Entire home/apt,Entire home,230,2,146,2.41,244,t,f
+34647802,Buckeye Gem - 3BR Townhome,Neighborhood highlights,40.00018,-82.99767,Entire home/apt,Entire rental unit,108,28,92,1.19,232,f,f
+34653410,🌟 Updated Grandview Townhome!-Central Downtown/OSU,Neighborhood highlights,39.98906,-83.04186,Entire home/apt,Entire townhouse,103,1,423,5.46,246,t,t
+34691154,"Modern Luxury Private Room, Mins to CMH airport",Neighborhood highlights,39.96662,-82.91328,Private room,Private room in home,38,1,92,1.19,150,f,t
+34725750,Ruby in the Village | The gem of downtown CBUS 💎,Neighborhood highlights,39.98301,-82.99677,Entire home/apt,Entire home,101,1,317,4.34,335,t,f
+34729209,"Modern Private Room, Minutes to Airport and Shops",Neighborhood highlights,39.96691,-82.91349,Private room,Private room in home,38,1,106,1.37,166,f,t
+34817039,Cozy SOHUD Second Floor Apartment With Parking Lot,Neighborhood highlights,40.01317,-83.00301,Entire home/apt,Entire rental unit,66,2,183,2.37,30,t,f
+35223461,Private Parking_OSU/ExpoCenter Renovated 2story 6C,Neighborhood highlights,39.99577,-82.99798,Entire home/apt,Entire rental unit,98,1,407,5.32,186,t,t
+35321049,Rare Downtown Apartment +Free Parking +300MB Wifi,Neighborhood highlights,39.9542,-82.99822,Entire home/apt,Entire rental unit,70,3,112,1.47,322,t,f
+35634056,Spacious Home Away From Home,Neighborhood highlights,40.07081,-82.97055,Entire home/apt,Entire home,246,2,146,1.91,166,t,f
+35687139,Free Laundry | Walkable to OSU | Free Parking,Neighborhood highlights,39.98757,-83.03596,Entire home/apt,Entire rental unit,117,1,211,2.78,175,t,t
+35916240,Luxe 4BR w/ Outdoor Living!,Neighborhood highlights,39.98035,-83.01565,Entire home/apt,Entire home,235,2,212,2.78,333,t,f
+36174639,Mohawk Masterpiece - German Village!,Neighborhood highlights,39.945297,-82.992607,Entire home/apt,Entire townhouse,85,30,202,2.67,318,t,f
+36302483,★ Caesar’s Palace ★ Old North Duplex near OSU★,Neighborhood highlights,40.01369,-82.99857,Entire home/apt,Entire home,180,2,71,1.5,348,t,f
+36302698,"★Easton Waterfront: Boat, Fish, Theatre, Barcade★",Neighborhood highlights,40.02605,-82.94229,Entire home/apt,Entire cabin,358,2,293,3.89,351,t,f
+36346074,LUXELOFT High St ShortNorth Free Park RooftopPatio,Neighborhood highlights,39.97467,-83.00347,Entire home/apt,Entire townhouse,135,1,361,4.8,213,t,f
+36409437,Two Bedroom Modern Apartment with Parking,Neighborhood highlights,40.01284,-83.00197,Entire home/apt,Entire rental unit,72,2,148,1.96,32,t,f
+36596947,Valley R- A private attached bathroom,Neighborhood highlights,40.06525,-82.98132,Private room,Private room in home,45,5,88,1.17,80,t,f
+36626866,Luxury Home @ Easton Town Center~2BR/2BA.,Neighborhood highlights,40.0471,-82.91477,Entire home/apt,Entire condo,142,2,73,1.02,117,f,f
+36764786,1BD Olde Town East Guesthouse Near Downtown,Neighborhood highlights,39.96075,-82.97292,Entire home/apt,Entire guest suite,53,30,147,1.95,171,t,f
+36811312,Majestic Mohawk I | German Village | Parking!,Neighborhood highlights,39.94622,-82.99295,Entire home/apt,Entire home,106,2,205,2.74,259,t,f
+36977254,Paradise R 1,Neighborhood highlights,40.06477,-82.98166,Private room,Private room in home,45,4,69,0.92,176,t,f
+37053393,Wonderbread Factory Loft- Short North-Free Parking,Neighborhood highlights,39.97762,-82.99849,Entire home/apt,Entire rental unit,123,2,440,5.89,276,t,f
+37053655,Wonderbread Loft - Short North - Free Parking!,Neighborhood highlights,39.97762,-82.99849,Entire home/apt,Entire rental unit,119,2,445,5.93,293,t,f
+37053853,Short North Industrial  Loft - Free Parking!,Neighborhood highlights,39.97762,-82.99849,Entire home/apt,Entire rental unit,123,2,385,5.14,297,t,f
+37154893,Italian Village Flat - Short North - Free Parking,Neighborhood highlights,39.98554,-82.99921,Entire home/apt,Entire rental unit,96,2,446,6.01,298,t,f
+37155054,Modern Flat - Short North - Free Parking,Neighborhood highlights,39.98502,-82.99915,Entire home/apt,Entire rental unit,121,2,390,5.28,305,t,f
+37159760,PrivateParking/Entrance_OSU/ExpoCentr 7D Renovated,Neighborhood highlights,39.9968,-82.99748,Entire home/apt,Entire rental unit,99,1,275,3.67,188,t,t
+37210104,Quite Stay near 270 and 670 to Downtown and OSU,Neighborhood highlights,40.06098,-82.88304,Entire home/apt,Entire home,294,2,27,0.37,263,f,t
+37347972,Fincastle,Neighborhood highlights,40.02181,-83.00858,Entire home/apt,Entire rental unit,45,30,7,0.1,0,f,f
+37357516,"Glenmont Inn-Whole House! Outdoor oasis-Pool,Fire",Neighborhood highlights,40.04479,-83.01173,Entire home/apt,Entire home,981,2,133,1.86,307,t,f
+37394149,German Village Point,Neighborhood highlights,39.95105,-82.98659,Entire home/apt,Entire condo,92,1,311,4.16,155,t,f
+37858782,OSU #B-1 Great Place!,Neighborhood highlights,40.0057,-82.99859,Private room,Private room in rental unit,27,30,10,0.14,179,f,f
+37928558,Historic North Market Loft—CONVENTION CENTER/ARENA,Neighborhood highlights,39.97153,-83.00321,Entire home/apt,Entire condo,109,2,147,2,237,f,f
+37929358,OSU #B-2 Great Place!,Neighborhood highlights,40.00553,-82.99848,Private room,Private room in rental unit,27,30,9,0.21,151,f,f
+38000925,PrivateParking/Entrance_OSU/ExpoCentr 7A Renovated,Neighborhood highlights,39.99653,-82.99694,Entire home/apt,Entire rental unit,99,1,268,3.61,184,t,t
+38047463,"Pristine Clean and Sanitized, 4beds, 3 bath home",Neighborhood highlights,40.08434,-82.93162,Entire home/apt,Entire home,1541,3,94,1.27,243,f,f
+38064211,"Cozy, clean, and quiet; easy access to everything!",Neighborhood highlights,40.07288,-83.0276,Entire home/apt,Entire home,118,2,204,2.82,322,t,f
+38073577,ARENA ROOM ★ Modern & Comfy - with free PARKING ★,Neighborhood highlights,40.01323,-83.00082,Private room,Private room in home,129,1,309,4.19,22,t,f
+38104535,★ Bright & Relaxing - Cleaned & Sanitized ❤️,Neighborhood highlights,40.01109,-83.00073,Private room,Private room in home,120,1,180,2.44,23,t,f
+38104611,"★ Large, Modern & Bright ❤️ CLEANED & SANITIZED!",Neighborhood highlights,40.01319,-83.0008,Private room,Private room in home,125,1,295,4,21,t,f
+38104632,★ Cozy & Comfortable Private Room ❤️ Stay Here!,Neighborhood highlights,40.01185,-83.00223,Private room,Private room in home,120,1,232,3.15,21,t,f
+38104661,EDGEWOOD ROOM ★ 2 Beds ★ Comfortable Private Room,Neighborhood highlights,40.01185,-83.00169,Private room,Private room in home,125,1,155,2.11,24,t,f
+38105884,Amherst Room - Modern and Spacious,Neighborhood highlights,40.01197,-83.00049,Private room,Private room in home,127,1,322,4.38,18,t,f
+38105885,"★Bright, Modern & Stylish-Great Value-Ultra Clean!",Neighborhood highlights,40.01259,-83.00149,Private room,Private room in home,120,1,221,3.02,21,t,f
+38105887,"CELINA ROOM ★Spacious, Bright & Private Room ❤️",Neighborhood highlights,40.01142,-83.00014,Private room,Private room in home,125,1,270,3.67,22,t,f
+38105890,★Comfortable & Cozy Room ❤️ Professionally Cleaned,Neighborhood highlights,40.01188,-83.00051,Private room,Private room in home,125,1,180,2.46,25,t,f
+38105891,"EATON ROOM ★ 2 Beds, Great For 2 People ★ Comfy",Neighborhood highlights,40.01269,-83.00237,Private room,Private room in home,120,1,162,2.2,22,t,f
+38352416,Ideally Located 1 Bdrm Stay | Parking & Laundry,Neighborhood highlights,39.98627,-83.00453,Entire home/apt,Entire condo,92,2,279,3.8,313,t,t
+38359601,Cozy south campus apartment!,Neighborhood highlights,39.98871,-83.01581,Entire home/apt,Entire rental unit,91,1,508,6.91,67,t,f
+38437430,The SoHo Patio Loft—CONVENTION CENTER/SHORT NORTH,Neighborhood highlights,39.97467,-83.00347,Entire home/apt,Entire condo,113,2,146,1.99,239,f,f
+38462075,Art House Retreat,Neighborhood highlights,40.07056,-83.0045,Entire home/apt,Entire home,343,2,68,0.97,24,f,f
+38646422,A Quaint and Quiet Retreat...,Neighborhood highlights,40.07695,-83.09722,Private room,Private room in home,63,30,12,0.19,269,t,f
+38648313,Enchanting  and Charming,Neighborhood highlights,40.0781,-83.09869,Private room,Private room in home,49,30,15,0.21,200,t,f
+38675404,Guest Suite with private entrance on 1.5 acres.,Neighborhood highlights,40.07025,-83.03864,Entire home/apt,Entire guest suite,76,1,600,8.38,45,t,t
+38868238,INDEPENDENT 4 Bdr Home Nr Downtown NO CLEANING FEE,Neighborhood highlights,39.95499,-83.14739,Entire home/apt,Entire home,174,1,428,5.88,86,f,f
+38900550,Corbett House Green Room Neil Ave VictorianVillage,Neighborhood highlights,39.9848,-83.01396,Private room,Private room in home,85,30,74,1.02,149,t,f
+38927976,"German Village Luxury, Charm and Relaxation",Neighborhood highlights,39.93983,-82.98867,Entire home/apt,Entire bungalow,103,1,352,4.9,232,t,f
+39003869,Walkable and Cozy German Village Haus/Pets OK,Neighborhood highlights,39.95061,-82.99384,Entire home/apt,Entire townhouse,108,1,382,6.08,333,t,t
+39063726,PrivateParking/Entrance_OSU/ExpoCentr 6E Renovated,Neighborhood highlights,39.99568,-82.99808,Entire home/apt,Entire rental unit,99,1,230,3.19,194,t,f
+39198166,2B 1.5BA Worthington Townhome - near 270,Neighborhood highlights,40.10943,-83.05672,Entire home/apt,Entire townhouse,72,1,248,3.44,266,f,t
+39338442,Gorgeous 4brm/3bath home in Old North,Neighborhood highlights,40.01377,-83.00739,Entire home/apt,Entire home,209,1,101,1.4,357,t,f
+39341198,Charming Loft in Historic German Village,Neighborhood highlights,39.9506,-82.9893,Entire home/apt,Entire home,115,1,351,4.87,223,t,f
+39369196,Cozy Home/Airport/Entire Place/contractor friendly,Neighborhood highlights,39.9913,-82.93103,Entire home/apt,Entire townhouse,82,1,457,6.34,326,f,f
+39416332,The Short North Retreat II - Free Private Parking,Neighborhood highlights,39.98173,-83.00412,Entire home/apt,Entire rental unit,94,2,374,5.21,303,t,f
+39548469,Columbus Corner Castle,Neighborhood highlights,39.99123,-82.99912,Entire home/apt,Entire home,546,1,65,0.94,118,f,f
+39590575,PrivateParking/Entrance_OSU/ExpoCentr 6A Renovated,Neighborhood highlights,39.99537,-82.9975,Entire home/apt,Entire rental unit,99,1,206,2.87,183,t,t
+39621898,COMPLETELY UPDATED 4 bed/2 bath home w/ deck+yard,Neighborhood highlights,40.09833,-82.96927,Entire home/apt,Entire home,148,2,267,3.74,337,t,f
+39648072,OSU & Riverside| Washer & Dryer| Fenced Backyard,Neighborhood highlights,40.02302,-83.00147,Entire home/apt,Entire home,285,3,86,1.38,333,t,f
+39668530,Earthy and Sunny room - Close to OSU,Neighborhood highlights,40.02765,-83.01806,Private room,Private room in home,32,30,6,0.09,331,t,f
+39732080,"Sweet Home in QUIET area near Airport, CU & DWTN",Neighborhood highlights,39.95883,-82.92331,Entire home/apt,Entire home,109,30,75,1.07,174,f,t
+39855489,Quaint Townhouse in Merion Village #2,Neighborhood highlights,39.92986,-82.99183,Entire home/apt,Entire townhouse,58,1,96,1.35,321,t,f
+39987327,Spacious & Comfy Home 1 Block from German Village!,Neighborhood highlights,39.94655,-82.98048,Entire home/apt,Entire home,101,1,288,4.08,342,f,f
+40150903,Almost Bexley Cozy Corner Room 2 Near Airport,Neighborhood highlights,39.96505,-82.92275,Private room,Private room in home,66,30,12,0.26,179,t,f
+40162695,Private Parking_OSU/ExpoCenter Renovated 2story 7C,Neighborhood highlights,39.99638,-82.99813,Entire home/apt,Entire rental unit,97,1,295,4.14,197,t,t
+40175552,Sparkling 3BR/Remodeled/Walk to Campus+Short North,Neighborhood highlights,39.99308395385742,-83.00061035,Entire home/apt,Entire home,80,1,137,1.96,57,t,f
+40260123,Short North Studio with off-street parking,Neighborhood highlights,39.98367,-83.00466,Entire home/apt,Entire rental unit,63,7,149,2.09,187,t,f
+40275467,PrivateParking/Entrance_OSU/ExpoCentr 9D Renovated,Neighborhood highlights,39.9971,-82.99578,Entire home/apt,Entire rental unit,98,1,208,2.92,197,t,t
+40347805,"#2 Near Mapfre, OSU, Hospitals, Arenas & Downtown",Neighborhood highlights,40.01772,-82.99801,Entire home/apt,Entire rental unit,161,2,96,1.38,348,t,f
+40397893,"#1 Near Mapfre, OSU, Hospitals, Arenas & Downtown",Neighborhood highlights,40.01617,-82.99976,Entire home/apt,Entire rental unit,163,2,74,1.1,296,t,f
+40430589,Private Parking_OSU/ExpoCenter Renovated 2story 9C,Neighborhood highlights,39.99646,-82.99689,Entire home/apt,Entire rental unit,98,1,223,3.22,200,t,t
+40430828,PrivateParking/Entrance_OSU/ExpoCentr 9E Renovated,Neighborhood highlights,39.99662,-82.99675,Entire home/apt,Entire rental unit,97,1,204,2.88,195,t,t
+40531348,The Short North Retreat III - Free Private Parking,Neighborhood highlights,39.98173,-83.00412,Entire home/apt,Entire rental unit,94,2,427,6.06,306,t,f
+40567974,Home Away from Home In Quiet Neighborhood,Neighborhood highlights,40.06528,-83.01095,Entire home/apt,Entire home,87,1,267,3.94,346,t,f
+40568031,Perfect for Families & Work - Clean & Spacious 3BR,Neighborhood highlights,40.06351,-83.01343,Entire home/apt,Entire home,100,1,276,4.05,351,t,f
+40756696,The Short North Urban Cottage - Private Parking,Neighborhood highlights,39.98267,-82.9972,Entire home/apt,Entire cottage,102,2,363,5.19,99,t,f
+40803264,Anderson Estate- Near Downtown- Fast Wi-Fi,Neighborhood highlights,39.95961,-82.96454,Entire home/apt,Entire home,158,4,105,1.53,117,f,t
+40952014,Downtown Luxury Apartment on the Columbus Commons,Neighborhood highlights,39.95923,-82.99987,Entire home/apt,Entire rental unit,152,2,164,2.35,323,t,f
+41090934,PrivateParking/Entrance_OSU/ExpoCentr 9A Renovated,Neighborhood highlights,39.99498,-82.99741,Entire home/apt,Entire rental unit,99,1,173,2.48,194,t,t
+41195989,Amazing Apartment in the Heart of Downtown,Neighborhood highlights,39.95921,-82.99984,Entire home/apt,Entire rental unit,95,2,242,3.47,297,t,t
+41211391,The City View Suite | Garage Parking | Top Floor!,Neighborhood highlights,39.95652,-83.01033,Entire home/apt,Entire rental unit,211,30,17,0.24,364,t,f
+41400755,Cozy North Columbus 10 min from Airport,Neighborhood highlights,40.01567,-82.95243,Entire home/apt,Entire home,158,1,114,1.68,177,t,f
+41510465,The Urban Oasis | Garage Parking | Walk-In Shower,Neighborhood highlights,39.95656,-83.01223,Entire home/apt,Entire rental unit,198,30,27,0.39,57,t,f
+41535653,Near OSU + Riverside | No Steps | Garage Parking!,Neighborhood highlights,39.95724,-83.01221,Entire home/apt,Entire rental unit,171,30,11,0.16,118,t,f
+41598713,River View Flat | Free Parking | Walk-In Shower!,Neighborhood highlights,39.95531,-83.0109,Entire home/apt,Entire rental unit,149,30,18,0.26,88,t,f
+41791927,"Remodeled Bungalow, 2 Kings, 3 min to OSU",Neighborhood highlights,40.03131,-83.02205,Entire home/apt,Entire home,160,2,101,1.48,340,t,f
+41836651,2BR/1BA Near OSU | Historic Charm & Modern Comfort,Neighborhood highlights,40.01512,-83.00108,Entire home/apt,Entire rental unit,94,2,190,2.77,56,f,f
+41911372,Paradise R 2,Neighborhood highlights,40.06445,-82.98281,Private room,Private room in home,44,4,55,0.81,89,t,f
+42013467,Historic B&B Queen Room • Short North • Breakfast,Neighborhood highlights,39.97696,-83.00095,Private room,Private room in bed and breakfast,208,1,7,0.12,316,f,t
+42014128,Traditional B&B King Room • Hot Breakfast Daily,Neighborhood highlights,39.97649,-83.00142,Private room,Private room in bed and breakfast,207,1,5,0.08,297,f,t
+42169704,Bexley Adjacent Master Suite,Neighborhood highlights,39.96364,-82.9216,Private room,Private room in home,82,2,22,0.9,52,t,f
+42203948,Modern Downtown Luxury Apartment,Neighborhood highlights,39.95923,-82.99987,Entire home/apt,Entire rental unit,114,2,156,2.31,336,t,t
+42366117,"Starling Station Historic Home Prem Garage, Locale",Neighborhood highlights,39.93819,-82.99273,Entire home/apt,Entire home,100,30,10,0.41,364,f,f
+42381001,"Campus Charm ♦️ Roku TV, Walk to High St Eats!",Neighborhood highlights,39.99746,-83.00708,Entire home/apt,Entire rental unit,65,1,222,3.26,234,f,t
+42383635,High Street OSU Retreat by Starbucks & Campus,Neighborhood highlights,39.99925,-83.00708,Entire home/apt,Entire rental unit,65,1,292,4.31,229,f,t
+42385110,"Easy Parking, Heart of Ohio State Walk to High St",Neighborhood highlights,39.99845,-83.00496,Entire home/apt,Entire rental unit,90,30,366,5.37,248,f,f
+42385659,The Barn Door Loft—DOWNTOWN/ARENA/CONV CENTER,Neighborhood highlights,39.964275,-82.99778,Entire home/apt,Entire condo,118,30,10,0.15,175,f,f
+42386189,Kitchen / Parking / Wifi /  Walk to High St Studio,Neighborhood highlights,39.99677,-83.00425,Entire home/apt,Entire rental unit,47,1,147,2.16,247,f,t
+42519931,GermanVillage_Private Parking Children'sHospital D,Neighborhood highlights,39.94778,-82.98332,Entire home/apt,Entire condo,95,1,248,3.65,196,t,t
+42584546,GermanVillage_Private Parking Children'sHospital C,Neighborhood highlights,39.94894,-82.98468,Entire home/apt,Entire condo,93,1,198,2.94,198,t,t
+42635466,German Village Pied à Terre,Neighborhood highlights,39.94372,-82.98988,Entire home/apt,Entire home,125,1,478,7.1,150,t,f
+42732936,The Ranch Place - Private Home Close to New Albany,Neighborhood highlights,40.06288,-82.86723,Entire home/apt,Entire home,135,30,16,0.24,237,f,f
+42761947,The Jazz and Blues Executive Mansion on Miami,Neighborhood highlights,39.96779709,-82.97508372,Entire home/apt,Entire home,401,3,19,0.61,252,f,f
+42973664,Victorian Castle - Elegant  - First Floor/ 2 BR,Neighborhood highlights,39.96089,-82.98483,Entire home/apt,Entire home,152,30,1,0.02,291,f,f
+43154301,Brand New Huge Luxury Home w/ Terrace! Must See!,Neighborhood highlights,39.98627,-82.99986,Entire home/apt,Entire home,264,2,181,2.72,355,t,f
+43156459,HUGE NEW LUXE HOME W/ TERRACE! BEST AIRBNB IN CBUS,Neighborhood highlights,39.9852,-83.00089,Entire home/apt,Entire home,288,2,222,3.34,335,t,f
+43770743,Cozy Room 4,Neighborhood highlights,39.98884,-82.94201,Private room,Private room in home,45,30,5,0.1,142,f,f
+43804124,Industrial Flat - EJ Thomas Factory - Short North,Neighborhood highlights,39.984802,-83.000122,Entire home/apt,Entire rental unit,96,2,406,6.35,306,t,f
+43806645,"Walk to Campus Studio High St, Free Parking",Neighborhood highlights,39.99685,-83.00543,Entire home/apt,Entire rental unit,68,1,133,2.12,248,f,t
+43859466,Garden Level | Tons of Entertaining Amenities,Neighborhood highlights,39.97845,-83.0122,Entire home/apt,Entire rental unit,100,1,238,3.79,29,t,f
+43872297,The Victorian Greenhouse - King Bd/Private Parking,Neighborhood highlights,39.98252,-83.0077,Entire home/apt,Entire rental unit,101,30,354,5.56,244,f,f
+43897658,Bohemian Flat - Short North - Free Parking,Neighborhood highlights,39.980816,-82.998802,Entire home/apt,Entire rental unit,83,2,355,5.58,307,t,f
+43911223,✨Travelers Paradise!✨-Central Downtown/Ohio State,Neighborhood highlights,39.989819,-83.042885,Entire home/apt,Entire townhouse,116,1,361,9.31,248,t,t
+43927680,Italian Village- Short North Home- private parking,Neighborhood highlights,39.98246,-82.99725,Entire home/apt,Entire townhouse,186,3,132,2.08,281,t,f
+44020582,Downtown Columbus home - Close to everything!,Neighborhood highlights,39.96038,-82.97563,Entire home/apt,Entire home,68,30,11,0.18,326,f,f
+44087254,Close to ShortNorth&OSU - Entire Residential House,Neighborhood highlights,39.99431,-82.9956,Entire home/apt,Entire home,157,2,58,1.38,238,t,t
+44121484,Cozy 2BR w/ Garage + Private Yard | German Village,Neighborhood highlights,39.95058,-82.99355,Entire home/apt,Entire home,153,1,344,5.52,190,t,t
+44204541,Cozy 2 bedroom basement apt. (see description),Neighborhood highlights,40.0623,-83.01661,Entire home/apt,Entire guest suite,68,2,113,1.85,68,f,f
+44493981,★ Under the Sea ★ Private Home with Game Room ★,Neighborhood highlights,39.94397,-82.96613,Entire home/apt,Entire home,107,2,153,2.45,346,t,f
+44534134,Cottage close to downtown Columbus,Neighborhood highlights,39.94029,-82.98364,Entire home/apt,Entire home,128,2,90,1.55,155,t,f
+44586892,The Playful London Flat—DOWNTOWN/ARENA/CONV CENTER,Neighborhood highlights,39.96374,-82.99803,Entire home/apt,Entire condo,75,30,21,0.34,365,f,f
+44588678,OSU High St Studio / Parking / 200Mb WIFI / KTCHN,Neighborhood highlights,39.99657,-83.00353,Entire home/apt,Entire rental unit,61,1,112,1.81,213,f,t
+44589731,"Ohio State Comfort * Free PRKG, Walk to High St!",Neighborhood highlights,39.99666,-83.00554,Private room,Private room in rental unit,62,30,205,3.3,242,f,f
+44595231,GermanVillage_Private Parking Children'sHospital B,Neighborhood highlights,39.9474,-82.98411,Entire home/apt,Entire condo,95,1,238,3.83,199,t,t
+44998711,★ Lion Safari ★ Private Home with Game Room ★,Neighborhood highlights,39.94193,-82.98111,Entire home/apt,Entire home,113,2,160,2.59,346,t,f
+45055935,Elegant Front Bedroom Olde Town East Near Downtown,Neighborhood highlights,39.95611,-82.96846,Private room,Private room in townhouse,57,1,54,0.88,363,f,f
+45177532,THE Closest Airbnb to OSU/Ohio Stadium/Short North,Neighborhood highlights,39.99218,-83.01102,Private room,Private room in home,56,5,196,3.85,350,t,t
+45224030,Walkable 3BR w/ Game Room & Yard | OSU,Neighborhood highlights,40.05262,-83.01859,Entire home/apt,Entire home,166,2,226,3.68,312,t,t
+45285595,PrivateParking/Entrance_OSU/ExpoCentr 9B Renovated,Neighborhood highlights,39.99539,-82.99576,Entire home/apt,Entire rental unit,99,1,198,3.23,193,t,t
+45302190,Housepitality - Top Choice Flat - Great Location,Neighborhood highlights,39.94923,-82.984375,Entire home/apt,Entire condo,94,1,109,1.78,358,f,f
+45733584,"*Cute* 3B Apt. Near Children's, Downtown, & OTE",Neighborhood highlights,39.94828,-82.97657,Entire home/apt,Entire rental unit,78,1,154,2.56,166,t,f
+45736134,Comfy 3B pet friendly near Children's/Downtown/OTE,Neighborhood highlights,39.94681,-82.97633,Entire home/apt,Entire rental unit,102,1,116,1.92,172,t,f
+45924545,★ Trendy Spot Newly Remodeled in the <3 of it all!,Neighborhood highlights,39.95674,-82.96916,Entire home/apt,Entire home,186,2,141,2.42,72,f,f
+45959021,Modern Downtown Luxury Apartment w/ View,Neighborhood highlights,39.95923,-82.99986,Entire home/apt,Entire rental unit,132,2,180,3.01,326,t,f
+45987335,CityWalk- Short North/Arena/Convention Center,Neighborhood highlights,39.97557,-83.00414,Entire home/apt,Entire condo,98,2,202,3.49,144,t,f
+46008624,Clintonville Charmer | Walk to Great Restaurants!,Neighborhood highlights,40.04825,-83.02441,Entire home/apt,Entire home,118,2,67,1.13,359,t,f
+46078953,Bexley Mid-Mod Masterpiece near Downtown & Airport,Neighborhood highlights,39.97016,-82.92291,Entire home/apt,Entire home,155,2,262,4.57,240,t,f
+46096380,Entire Carriage Home in  Historic German Village,Neighborhood highlights,39.94784,-82.99646,Entire home/apt,Entire home,164,1,369,6.65,248,t,t
+46137753,Quaint German Village Cottage with Parking Spot,Neighborhood highlights,39.94509,-82.98575,Entire home/apt,Entire cottage,133,1,185,3.11,153,t,f
+46429507,Cozy private bedroom with queen bed and workspace,Neighborhood highlights,39.93411,-82.98455,Private room,Private room in home,45,2,121,2.05,35,t,f
+46435988,Majestic Mohawk II • German Village •Schiller Park,Neighborhood highlights,39.94643,-82.99341,Entire home/apt,Entire home,124,2,235,4.03,245,t,f
+46453346,Private Chic Home - Downtown Columbus,Neighborhood highlights,39.96231,-82.97583,Entire home/apt,Entire home,61,30,5,0.09,233,f,t
+46569295,GermanVillage_Private Parking Children'sHospital E,Neighborhood highlights,39.94806,-82.98519,Entire home/apt,Entire condo,95,1,263,4.48,193,t,t
+46569296,PrivateParking/Entrance_OSU/ExpoCentr 6D Renovated,Neighborhood highlights,39.99492,-82.99792,Entire home/apt,Entire rental unit,98,1,235,4.3,192,t,t
+46580387,"Nice 3 bd 1 bth just minutes from OSU, CMH, DWNTWN",Neighborhood highlights,39.97566,-82.96571,Entire home/apt,Entire home,120,14,14,0.28,329,f,f
+46600463,Carriage House | High St .2 mi | K9s Welcome,Neighborhood highlights,39.97947,-82.99999,Entire home/apt,Entire rental unit,73,2,203,3.48,255,t,f
+46731073,💫 Cali Style Townhouse - Mins to Everything💫,Neighborhood highlights,39.9891,-83.04566,Entire home/apt,Entire townhouse,140,1,401,6.87,284,t,f
+46732672,💫Coastal Style in the City - Close to Everything!💫,Neighborhood highlights,39.98988,-83.04567,Entire home/apt,Entire townhouse,105,1,454,7.77,310,t,f
+46812621,"Quaint 1 Bedroom, Furnish Apt. Near OSU",Neighborhood highlights,39.98562,-83.01228,Entire home/apt,Entire guest suite,61,30,13,0.23,328,t,f
+46835467,Majestic Mohawk III • German Village • Nationwide,Neighborhood highlights,39.9463,-82.99297,Entire home/apt,Entire home,97,2,199,3.42,260,t,f
+46893593,🌲 Mtn Mod Townhome w/City Views-Unmatched Location,Neighborhood highlights,39.98854,-83.04402,Entire home/apt,Entire townhouse,105,1,434,7.43,311,t,f
+46894154,★ Puppy Christmas  ★ Private Home Near OSU ★,Neighborhood highlights,40.01305,-83.00647,Entire home/apt,Entire home,116,2,160,2.75,334,t,f
+46925721,Elegant Townhome In Olde Towne East Near Downtown,Neighborhood highlights,39.95416,-82.97511,Entire home/apt,Entire townhouse,109,2,18,0.31,363,f,f
+47078613,The Fenimore Flat | No Steps | Patio| King Bed!,Neighborhood highlights,40.09806,-82.85032,Entire home/apt,Entire rental unit,158,30,2,0.06,89,t,f
+47157263,The Elegant Urban Flat—DOWNTOWN/ARENA/CONV CENTER,Neighborhood highlights,39.964275,-82.99778,Entire home/apt,Entire condo,118,30,9,0.16,226,f,f
+47158027,The Paper White Flat—DOWNTOWN/ARENA/CONV CENTER,Neighborhood highlights,39.964275,-82.99778,Entire home/apt,Entire condo,138,30,5,0.09,266,f,f
+47161040,The Skyline Bike Condo—DOWNTOWN/ARENA/CONV CENTER,Neighborhood highlights,39.964275,-82.99778,Entire home/apt,Entire condo,99,30,5,0.09,176,f,f
+47356226,Downtown Columbus | Historic | Sleeps 14 | Arcade,Neighborhood highlights,39.96862,-82.9671,Entire home/apt,Entire home,212,1,309,5.43,347,f,f
+47368600,Chateau Raneisha Easton Area,Neighborhood highlights,40.00557,-82.94292,Entire home/apt,Entire home,85,30,29,0.51,54,f,f
+47445384,10 Min To OSU Stadium~Upscale Urban Home~Garage,Neighborhood highlights,39.96128,-82.95952,Entire home/apt,Entire home,203,2,112,2.32,95,t,f
+47548308,The Velvet Skyline Flat—DOWNTOWN/ARENA/CONV CENTER,Neighborhood highlights,39.96457,-82.99805,Entire home/apt,Entire condo,118,30,10,0.18,263,f,f
+47900223,The Gallerie Loft | German Village | Nationwide,Neighborhood highlights,39.94425,-82.99362,Entire home/apt,Entire home,93,1,146,2.6,262,t,f
+47939552,EJ Thomas Apt. - Short North w/ Free Parking,Neighborhood highlights,39.984879,-83.000198,Entire home/apt,Entire rental unit,98,2,265,4.71,327,t,f
+47980687,Walking distance to the SHOE+ Short North-Hot Tub!,Neighborhood highlights,39.98168,-83.0116,Entire home/apt,Entire townhouse,265,2,199,3.57,310,t,t
+48028382,Modern Downtown Luxury Apartment,Neighborhood highlights,39.95923,-82.99986,Entire home/apt,Entire rental unit,105,2,189,3.35,332,t,t
+48036833,Healthy body & soul bnb,Neighborhood highlights,40.0107,-82.97047,Entire home/apt,Entire home,75,30,12,0.25,117,f,f
+48042823,PERFECT CONVENTION CENTER  location! LUXURY UNIT,Neighborhood highlights,39.97197,-83.00286,Entire home/apt,Entire condo,221,2,141,2.58,287,f,f
+48067388,Carriage House near Franklin Park,Neighborhood highlights,39.96927,-82.96011,Entire home/apt,Entire guesthouse,93,2,49,0.89,349,t,f
+48213301,"Newly Refreshed, Spacious Stay Near Polaris Mall",Neighborhood highlights,40.13745,-82.9701,Entire home/apt,Entire serviced apartment,140,2,48,0.88,285,f,f
+48287901,Cozy One Bedroom Condo,Neighborhood highlights,39.95574,-83.08235,Entire home/apt,Entire condo,106,1,299,7.29,242,t,f
+48439121,Home Away/Airport/Easton/contractor friendly,Neighborhood highlights,39.99104,-82.93098,Entire home/apt,Entire townhouse,82,1,336,6.14,339,f,f
+48493058,The Frog Cabin,Neighborhood highlights,40.04898,-83.02382,Entire home/apt,Entire cabin,348,1,62,1.16,167,t,f
+48500322,Cozy and Modern Short North Carriage House,Neighborhood highlights,39.98132,-83.00839,Entire home/apt,Entire home,140,3,4,0.08,329,f,f
+48526356,Short North Condo - Close to Everything!,Neighborhood highlights,39.97424,-83.00385,Entire home/apt,Entire condo,99,1,296,8.47,205,t,f
+48545679,"Modern 2BR near DT, 8min walk to Park&Conservatory",Neighborhood highlights,39.95823,-82.95667,Entire home/apt,Entire townhouse,85,2,81,1.52,294,t,f
+48737232,★McGonagall’s Mansion ★ Private Home w/ Gameroom★,Neighborhood highlights,39.93891,-82.97684,Entire home/apt,Entire home,114,2,203,3.69,339,t,f
+48787562,"Ohio Hideaway- 3BR, King bed, Washer/Dryer",Neighborhood highlights,39.95269,-82.97156,Entire home/apt,Entire home,84,2,395,7.23,145,t,f
+48848058,Modern Chic in Old Town East,Neighborhood highlights,39.95945,-82.96533,Entire home/apt,Entire rental unit,159,3,2,0.07,268,f,f
+49041299,ShortNorth Studio Rooftop patio ConvCentr Nightlfe,Neighborhood highlights,39.97363,-83.0038,Entire home/apt,Entire loft,169,1,245,4.69,314,t,f
+49070114,★ Hook’s Lair ★ Four Bedroom House with Arcade ★,Neighborhood highlights,39.939,-82.98005,Entire home/apt,Entire home,113,2,145,2.67,341,t,f
+49120625,Trendy Loft | Close to OSU Campus,Neighborhood highlights,39.97996,-83.01211,Entire home/apt,Entire rental unit,118,1,101,1.9,83,t,f
+49135716,German Village retreat with wonderful outdoor area,Neighborhood highlights,39.94944,-82.99609,Entire home/apt,Entire home,199,1,211,4.15,217,t,f
+49144569,"McAllister Townhouse: clean, modern, comfort!",Neighborhood highlights,39.957062,-82.973869,Entire home/apt,Entire townhouse,81,30,19,0.37,240,t,f
+49396878,"Chic 2BR near DT, 8 min walk to Park&Conservatory",Neighborhood highlights,39.95854,-82.9569,Entire home/apt,Entire townhouse,87,2,82,1.54,358,t,f
+49463767,Main Street Retreat,Neighborhood highlights,39.95846,-82.94997,Entire home/apt,Entire home,84,2,143,3.02,308,t,f
+49539548,Entire Cottage W Parking - Historic German Village,Neighborhood highlights,39.94365,-82.99412,Entire home/apt,Entire home,285,30,206,3.91,297,t,t
+49638097,Great Victorian in Olde Towne East,Neighborhood highlights,39.96045,-82.96438,Entire home/apt,Entire townhouse,121,2,116,2.21,342,t,t
+49986754,Steps from High St. WALK to everything.,Neighborhood highlights,39.92301,-82.98466,Entire home/apt,Entire townhouse,185,30,8,0.16,358,f,f
+50187639,Apartment on the River,Neighborhood highlights,39.95604,-83.01033,Entire home/apt,Entire rental unit,109,2,137,2.61,339,t,t
+50277597,Luxury Short North Home!  Amazing Location,Neighborhood highlights,39.98575,-83.00464,Entire home/apt,Entire home,150,1,137,4.33,331,t,t
+50283266,The Charm House -- Secret Garden,Neighborhood highlights,39.9405,-82.98582,Entire home/apt,Entire home,125,1,225,4.3,82,t,f
+50345056,"Texan 2bd Loft + Workspace, King Bds, by Starbucks",Neighborhood highlights,39.9509,-82.98801,Entire home/apt,Entire rental unit,69,30,112,2.16,238,f,f
+50547148,"Cheerful 2-Bed, 2-Bath House in a Great Location",Neighborhood highlights,39.93631,-82.97721,Entire home/apt,Entire home,115,30,3,0.19,240,t,f
+50699091,The Little House - a 1910 cottage,Neighborhood highlights,39.96097,-82.9671,Entire home/apt,Entire home,135,2,51,3,324,t,f
+50751062,Mon Chateau  -Brand new urban studio apartment,Neighborhood highlights,39.96244,-82.97711,Entire home/apt,Entire loft,108,1,196,3.87,74,t,f
+50826595,Glitter & Glam  Stay in the heart of EASTON,Neighborhood highlights,40.04723,-82.91518,Entire home/apt,Entire rental unit,126,2,37,0.74,178,f,f
+50897093,The Clintonville Casita | Walkable & Inspiring,Neighborhood highlights,40.03732,-83.00716,Entire home/apt,Entire home,126,2,147,2.98,156,t,f
+50943505,Julie’s Buckeye Cozy Condo w/ hot tub!,Neighborhood highlights,40.13329,-83.07275,Entire home/apt,Entire townhouse,180,1,126,2.55,342,t,f
+51043079,The Cottage | Parking + Private Patio + Fast WiFi,Neighborhood highlights,39.98085,-83.01358,Entire home/apt,Entire home,98,2,119,2.48,360,t,f
+51047429,"The Webster on Weber, Quaint Cottage, Koi pond",Neighborhood highlights,40.02218,-82.98242,Entire home/apt,Entire home,87,30,65,1.27,345,t,f
+51175433,Entire new residential home by the pond,Neighborhood highlights,39.90206,-82.80745,Entire home/apt,Entire home,154,4,23,0.48,178,f,t
+51193772,"LRG Private Boho Room near Nationwide, CMH, Dwntwn",Neighborhood highlights,39.974,-82.96519,Private room,Private room in home,36,14,24,0.52,234,f,f
+51230670,"Vintage style in the city. 3BRs, lounge, enclosed porches and fenced yard.",Neighborhood highlights,40.00958,-82.97294,Entire home/apt,Entire home,47,30,4,0.08,62,f,f
+51288697,"Clean Quiet Home Close OSU, Downtown, Hospital",Neighborhood highlights,40.02896,-83.02091,Entire home/apt,Entire home,79,30,6,0.14,149,f,f
+51385683,"Charming Family & Dog-Friendly Home, Close to OSU",Neighborhood highlights,40.02194,-83.00675,Entire home/apt,Entire home,166,1,203,4.03,345,t,t
+51439233,Tiny Home at Central Point,Neighborhood highlights,40.06169,-83.01475,Entire home/apt,Entire guest suite,79,2,98,1.98,63,f,f
+51577004,Private Queen Room NEAR NATIONWIDE/AIRPORT/DOWNTWN,Neighborhood highlights,39.97552,-82.96549,Private room,Private room in home,39,14,20,0.44,254,f,f
+51578043,Cozy Private Room near Nationwide/CMH AIRPT/DWNTWN,Neighborhood highlights,39.97505,-82.96733,Private room,Private room in home,39,14,14,0.28,249,f,f
+51679942,Clean Quiet Comfortable Home,Neighborhood highlights,40.02063,-82.99257,Entire home/apt,Entire home,73,30,2,0.07,268,f,f
+51682618,Olde Towne East Luxurious Castle,Neighborhood highlights,39.96223,-82.96495,Entire home/apt,Entire home,267,30,48,0.97,308,t,t
+51682628,Spacious Modern Luxurious Home Near Downtown,Neighborhood highlights,39.95311,-82.96689,Entire home/apt,Entire home,490,2,55,1.12,116,t,f
+51713907,5 Bedrooms Home at Mt Camel East great neigborhood,Neighborhood highlights,39.98614,-82.84116,Entire home/apt,Entire home,227,2,26,0.62,185,f,f
+51717344,"*Cape Cod*  *2 guests rooms, 3 full beds & fit 6*",Neighborhood highlights,40.02004,-82.98549,Private room,Private room in home,78,1,175,3.61,223,t,f
+51803616,Mike & Allen's Lower-level guest Suite,Neighborhood highlights,39.96395,-82.95457,Private room,Private room in home,161,1,56,1.13,349,t,t
+51835268,⭐️ Sam’s Spot ⭐️ Near Short North & OSU & ExpoCenter,Neighborhood highlights,39.99054,-82.99674,Entire home/apt,Entire home,163,1,162,3.29,228,t,f
+51840051,Bed and bath with a beautiful relaxing view.,Neighborhood highlights,39.96934271959008,-82.85132438,Private room,Private room in home,60,1,119,2.47,255,f,t
+51842325,"Huge 3bd 1 bth just minutes from DWNTWN, CMH, OSU",Neighborhood highlights,39.9751,-82.96701,Entire home/apt,Entire home,122,14,8,0.16,226,f,f
+51848672,Clintonville MCM Charmer-Low Tox/Allergy Friendly,Neighborhood highlights,40.0392,-83.02021,Entire home/apt,Entire home,202,2,66,1.35,212,t,f
+51865518,The Short North Nook,Neighborhood highlights,39.974667,-83.003471,Entire home/apt,Entire loft,135,2,130,2.63,75,t,f
+52001843,"Chic 3 BR Townhouse by Mapfre, OSU & Short North",Neighborhood highlights,40.01797,-82.99778,Entire home/apt,Entire townhouse,166,2,105,2.14,314,t,f
+52029309,Cali Modern Studio  at FOUR X FIVE,Neighborhood highlights,39.9862,-83.00086,Entire home/apt,Entire guest suite,79,1,82,1.67,339,f,f
+52037940,Modern 3 bdrm home in Short North/ Italian Village,Neighborhood highlights,39.98084,-83.00129,Entire home/apt,Entire home,280,3,95,1.99,315,t,f
+52086736,Cali Modern Townhome at FOUR x FIVE,Neighborhood highlights,39.98547,-82.9988,Entire home/apt,Entire condo,160,1,92,1.95,357,f,f
+52144816,💫 Grandview Getaway 💫 - Central Downtown/OSU,Neighborhood highlights,39.989861,-83.042915,Entire home/apt,Entire townhouse,101,1,411,8.36,252,t,t
+52300743,(H) spacious 2 bdr  in the heart of Short North,Neighborhood highlights,39.979847,-83.003784,Entire home/apt,Entire rental unit,124,3,22,0.46,361,f,f
+52337388,(G) Boutique apt steps to convention Center,Neighborhood highlights,39.979847,-83.003784,Entire home/apt,Entire rental unit,106,2,11,0.25,361,f,t
+52427292,"Digital nomads: Dedicated workspace w/24"" monitor!",Neighborhood highlights,39.99721,-82.99494,Entire home/apt,Entire rental unit,72,1,129,4.28,61,t,f
+52459316,GermanVillage_Private Parking Children'sHospital A,Neighborhood highlights,39.94794,-82.98386,Entire home/apt,Entire condo,96,1,143,2.97,194,t,t
+52528714,Historic German Village home | fenced yard,Neighborhood highlights,39.94455,-82.991882,Entire home/apt,Entire townhouse,105,21,127,3.27,165,f,t
+52551707,"Jim's Place, cozy convenient pet-friendly cape cod",Neighborhood highlights,40.02687,-82.967,Entire home/apt,Entire home,80,30,1,0.02,165,t,f
+52555443,Cozy Cape Cod with FREE parking!,Neighborhood highlights,39.9331,-82.95022,Entire home/apt,Entire home,131,2,23,0.48,101,f,f
+52876832,"Cozy Suite next to local winery, near Easton",Neighborhood highlights,40.06843,-82.89361,Entire home/apt,Farm stay,77,1,206,7.36,322,t,f
+52898287,Pet-Friendly 2BR On 1st Floor | Parking | W/D!,Neighborhood highlights,40.09798,-82.85083,Entire home/apt,Entire rental unit,169,30,1,0.03,119,t,f
+52904534,"Ohio State University/Fairgrounds  2 BR, 3 Bd/1 Ba",Neighborhood highlights,40.00095,-82.99908,Entire home/apt,Entire rental unit,129,2,80,1.94,242,t,t
+53076622,The Modern Metro Triplex—COLUMBUS ITALIAN VILLAGE,Neighborhood highlights,39.98568,-82.9992,Entire home/apt,Entire condo,195,2,32,0.68,241,f,f
+53095950,Private★Modern★Cozy★ Amazing Location★Walkable,Neighborhood highlights,39.93862,-82.98753,Entire home/apt,Entire home,97,1,228,4.84,340,t,f
+53166486,Comfy King Bed | Family Items | Games | Dogs ok,Neighborhood highlights,40.06932,-83.0168,Entire home/apt,Entire home,129,1,149,3.34,354,t,f
+53201731,Clean | Convenient Location | High Fashion Design,Neighborhood highlights,40.06113,-83.00387,Entire home/apt,Entire home,121,1,186,3.95,328,t,f
+53216054,DOWNTOWN OASIS -Short North- FREE STARBUCKS MACHNE,Neighborhood highlights,39.98774,-83.00344,Entire home/apt,Entire rental unit,87,30,9,0.2,347,f,f
+53253268,(E) Short north Large bedroom with separate office,Neighborhood highlights,39.97973251342773,-83.00395966,Entire home/apt,Entire rental unit,138,2,24,0.51,362,f,f
+53277773,The Pearl St Cottage | Parking & Patio,Neighborhood highlights,39.9453,-82.9954,Entire home/apt,Entire home,118,1,391,8.34,207,t,f
+53307614,Game room~Minutes to the Zoo~Near Powell/Dublin,Neighborhood highlights,40.12933,-83.07204,Entire home/apt,Entire home,261,2,134,2.94,87,t,f
+53313193,Moody Haven near OSU campus,Neighborhood highlights,40.00867,-83.00106,Entire home/apt,Entire home,340,30,49,1.57,356,t,f
+53347570,Welcome to Little Viet Nam!!! Room I,Neighborhood highlights,39.952404,-82.955093,Private room,Private room in home,38,1,12,0.27,344,f,f
+53431855,New Luxe Reno W/Hot Tub & Roof Top Terrace!,Neighborhood highlights,39.982,-83.02074,Entire home/apt,Entire home,429,2,107,2.34,354,t,t
+53480716,(C) Large 1 bdr apt next to Convention center,Neighborhood highlights,39.98043,-83.00459,Entire home/apt,Entire rental unit,140,2,19,0.41,362,f,t
+53494597,Downtown Columbus | Historic Luxury | Sleeps 14,Neighborhood highlights,39.97299,-82.97877,Entire home/apt,Entire home,228,1,191,4.13,347,f,f
+53563346,Wine Down Room in Large Centrally Located Home,Neighborhood highlights,39.97467,-82.96587,Private room,Private room in home,39,14,8,0.28,343,f,f
+53575122,OSU & Riverside |King Beds| Fenced Backyard,Neighborhood highlights,40.02102,-83.00021,Entire home/apt,Entire home,285,3,66,1.45,321,t,f
+53604552,Clean 2 Bedroom House Surrounded by Entertainment,Neighborhood highlights,39.984024,-83.015091,Entire home/apt,Entire home,206,2,48,1.13,337,t,f
+53613455,PrivateParking/Entrance_OSU/ExpoCentr 7E Renovated,Neighborhood highlights,39.99678,-82.99628,Entire home/apt,Entire rental unit,98,1,164,3.62,222,t,t
+53620565,Short North Villager,Neighborhood highlights,39.98044,-83.01367,Entire home/apt,Entire condo,158,2,73,1.6,258,t,f
+53713600,Walkable | Private Yard | Fireplaces Throughout!,Neighborhood highlights,39.97973,-83.01154,Entire home/apt,Entire home,780,1,62,1.37,61,t,f
+53731136,Penthouse Rooftop Loft (No Shared Walls!),Neighborhood highlights,39.96738,-83.00391,Entire home/apt,Entire loft,130,30,3,0.08,298,f,f
+53785202,Large Private Yard | Hot Tub | Chefs Kitchen!,Neighborhood highlights,39.97959,-83.0121,Entire home/apt,Entire home,878,1,87,1.93,61,t,f
+53799913,The Palace - 2 bedroom entire apartment,Neighborhood highlights,40.04102,-83.01733,Entire home/apt,Entire townhouse,99,30,111,2.48,172,t,f
+53816272,Luxurious Cozy Escape in Short North! Free Parking,Neighborhood highlights,39.98301,-83.00452,Entire home/apt,Entire rental unit,100,30,149,3.24,265,t,f
+53827913,Stately Executive Home with Modern Amenities,Neighborhood highlights,39.95989,-82.97824,Entire home/apt,Entire home,241,30,48,1.11,185,f,t
+53881803,The Columbus Manor - 2 min from German Village!,Neighborhood highlights,39.94665,-82.97526,Entire home/apt,Entire home,125,2,54,1.19,359,t,t
+53943296,Charming Victorian Home | Close to OSU & Downtown,Neighborhood highlights,39.98165,-83.01455,Entire home/apt,Entire townhouse,137,14,22,0.51,67,t,f
+54005053,Cozy Short North Loft - Best Location,Neighborhood highlights,39.97555,-83.00393,Entire home/apt,Entire condo,99,1,335,7.37,139,t,f
+54043341,Cozy place in the short north just off high street,Neighborhood highlights,39.98304,-83.00997,Entire home/apt,Entire condo,122,1,31,0.91,84,f,f
+54122981,The Goodale Park Flat,Neighborhood highlights,39.97758,-83.00841,Entire home/apt,Entire rental unit,104,2,124,2.8,346,t,f
+54137252,Olde Town East 2nd Floor Private Unit - 1 BD,Neighborhood highlights,39.959374985526416,-82.96857803,Entire home/apt,Entire rental unit,105,1,221,6.97,176,t,f
+54137255,Spacious Olde Town East 1st Floor Private Unit,Neighborhood highlights,39.95929,-82.96996,Entire home/apt,Entire rental unit,132,1,341,9.33,349,t,f
+54174690,Entire Home | Downtown | Parking | King bed,Neighborhood highlights,39.9581,-83.0256,Entire home/apt,Entire home,144,2,54,1.27,258,t,f
+54229081,Modern 1BR Near OSU & Short North | Free Parking,Neighborhood highlights,39.98898,-83.00732,Entire home/apt,Entire home,101,1,249,5.59,313,t,t
+54282384,Lion's Lair Historic Home Premium Garage & Locale,Neighborhood highlights,39.93949,-82.99184,Entire home/apt,Entire home,107,30,118,2.69,364,f,f
+54318604,Cozy & Well-Equipped 1BR | New Kitchen + Workspace,Neighborhood highlights,40.01406,-83.00773,Entire home/apt,Entire rental unit,68,1,133,3.08,229,f,t
+54339453,★Best of Airbnb★  Parkview Pueblo • A+ Location!,Neighborhood highlights,40.01912,-82.99004,Entire home/apt,Entire home,82,2,56,1.27,86,f,f
+54397455,Cheerful Room in a Large Centrally Located Home,Neighborhood highlights,39.9738,-82.96537,Private room,Private room in home,39,14,12,0.29,331,f,f
+54404156,Exposed Brick 4 Bedroom - 5 minutes from downtown,Neighborhood highlights,39.95718,-82.96603,Entire home/apt,Entire home,181,1,142,3.29,299,t,f
+54404562,(A)Boutique studio full kitchen walk to Convention,Neighborhood highlights,39.9798475,-83.0037816,Entire home/apt,Entire rental unit,134,2,21,0.47,363,f,f
+517689727497327207,Historic Renovated True Loft House—German Village,Neighborhood highlights,39.940258,-82.993141,Entire home/apt,Entire home,111,2,82,1.87,258,f,f
+519639073681859527,Historic Patio Loft—CONVENTION CENTER/SHORT NORTH,Neighborhood highlights,39.974667,-83.003471,Entire home/apt,Entire condo,95,2,73,1.66,256,f,f
+545399852141397588,OSU and Short North 4 BR- Patio and Garage w/EV,Neighborhood highlights,39.98834,-83.00918,Entire home/apt,Entire home,212,1,124,2.78,353,f,t
+548403459413089109,Charming Merion Village 2 Bd • King Bed • Patio ✨,Neighborhood highlights,39.93837,-82.99607,Entire home/apt,Entire townhouse,107,2,95,2.42,326,t,f
+548450072718440227,*Must See* Cozy & Clean 2 Bedroom Clintonville Gem,Neighborhood highlights,40.02474,-83.01871,Entire home/apt,Entire home,80,1,173,3.91,351,t,f
+550105100990883244,Polaris 3 bed 2.5 bath + quick access i71 & i270,Neighborhood highlights,40.14729,-82.99987,Entire home/apt,Entire home,148,30,112,2.59,333,t,f
+554328076314246097,Entire Condo near Downtown/Franklinton,Neighborhood highlights,39.95537,-83.03563,Entire home/apt,Entire condo,112,1,162,4.6,349,t,f
+556994002815140616,Central Cottage Ranch w/ Pond View & Private Patio,Neighborhood highlights,40.10034,-82.85398,Entire home/apt,Entire home,135,30,7,0.17,268,f,f
+557378340093271412,The Carriage House at The Circus House,Neighborhood highlights,39.97717,-83.00962,Entire home/apt,Entire home,244,2,92,2.31,243,t,f
+557867793249370021,Lovely 3-bedroom 1.5 bath condo! Heart of the city,Neighborhood highlights,39.99913,-82.97476,Entire home/apt,Entire condo,97,2,60,1.71,84,f,f
+560636811769108480,"The cozy ""Gaming House""",Neighborhood highlights,40.02051,-82.9729,Entire home/apt,Entire home,100,2,58,1.34,142,t,f
+561646907540506319,The Sunset,Neighborhood highlights,40.06846,-82.9609,Private room,Private room in home,52,5,22,0.51,365,f,f
+562178227941475396,"Shalom Cottage - Walk2ConvCtr, Downtown &ShortNth!",Neighborhood highlights,39.98128,-83.00405,Entire home/apt,Entire home,130,2,132,3.03,327,t,f
+563920716613840867,Beautiful family home with large finished basement,Neighborhood highlights,40.04228,-82.99638,Entire home/apt,Entire home,177,2,145,3.57,76,t,f
+563991021727392325,S02-Tetris -Private Bedroom in Shared Home - 1 Bed,Neighborhood highlights,39.94735,-82.95048,Private room,Private room in home,47,1,172,3.93,4,f,t
+564524003956614284,S03-Atari-Private Bedroom in Shared Home - 1 Bed,Neighborhood highlights,39.94766,-82.95072,Private room,Private room in home,46,1,163,3.72,4,f,f
+564541740449844487,S01-Jumanji - Private Room in shared home w/ desk,Neighborhood highlights,39.94777,-82.95199,Private room,Private room in home,49,1,125,2.85,5,f,f
+564671818455773238,S04-Pinball-Private Basement Room in Shared House,Neighborhood highlights,39.94601,-82.95172,Private room,Private room in home,52,1,171,3.9,5,f,f
+568281420873336557,O03-Sapphire-Private Room in Shared Home-1 Bed,Neighborhood highlights,39.9433,-82.96979,Private room,Private room in home,50,1,124,2.9,360,f,f
+568283510674588928,O01-The Suite Private Room Only with Own Bathroom,Neighborhood highlights,39.94506,-82.96965,Private room,Private room in home,70,1,95,2.21,365,f,f
+568286115303879563,O02-Plum-Private Room in Shared Home - 2 Beds,Neighborhood highlights,39.94511,-82.96949,Private room,Private room in home,59,1,95,2.23,364,f,f
+568294167260930740,O05-Mint-Private Room in Shared Home-1 Bed,Neighborhood highlights,39.9434,-82.96882,Private room,Private room in home,47,1,40,0.92,365,f,f
+569115106466759151,"Entire, elegant, upscale home near Bexley",Neighborhood highlights,39.952,-82.92183,Entire home/apt,Entire home,102,3,81,1.87,108,f,f
+569911276599572373,"Sunny 1BR w/ Queen Bed, DT Cbus (Queer Owned)",Neighborhood highlights,39.95483,-83.02388,Private room,Private room in home,47,30,11,0.26,236,t,f
+570328924265693051,Board Game Bungalow of Grandview- Close to OSU,Neighborhood highlights,39.987839,-83.041992,Entire home/apt,Entire home,171,1,169,3.97,53,t,f
+573364686268783275,Downtown | Fenced Yard | Pet Friendly,Neighborhood highlights,39.97131,-82.97196,Entire home/apt,Entire home,239,2,96,2.21,1,t,f
+574458793731697962,Retro Retreat | Historic Home in Short North | Sle,Neighborhood highlights,39.98400115966797,-83.00413513,Entire home/apt,Entire rental unit,151,1,4,0.1,349,t,t
+574481423640679553,Big Brick 2 Bedroom apartment in Victorian Village,Neighborhood highlights,39.99073,-83.01357,Entire home/apt,Entire rental unit,128,1,38,0.89,352,t,f
+575582592117725666,C01-Poe-Private Room in Shared Home-2 Full beds,Neighborhood highlights,39.94377,-82.97465,Private room,Private room in home,56,1,96,2.24,356,f,f
+575584828003494807,C02-Alcott-Private Room in Shared Home-2 Beds,Neighborhood highlights,39.94494,-82.97426,Private room,Private room in home,53,1,95,2.23,365,f,f
+575586720649594515,C03-Angelou-Private Room in Shared Home-1 Full Bed,Neighborhood highlights,39.94354,-82.97568,Private room,Private room in home,51,1,167,3.86,363,f,f
+575588747288140949,C04-Hemingway-Private Room in Shared Home-1 Bed,Neighborhood highlights,39.94347,-82.97463,Private room,Private room in home,50,1,147,3.43,365,f,f
+575590771552583237,C05-Capote-Private Economy Basement Room,Neighborhood highlights,39.9451,-82.97509,Private room,Private room in home,39,1,152,3.79,76,f,f
+578729121365012551,Modern Peaceful 1BR near DT-Historic St,Neighborhood highlights,39.96121,-82.97375,Entire home/apt,Entire townhouse,97,2,62,1.54,358,t,f
+578729169995891317,Urban Loft 2-story 1BR Near DT on Historic Street,Neighborhood highlights,39.96115,-82.97423,Entire home/apt,Entire townhouse,90,2,107,3.02,353,t,f
+580147427622115239,Modern Boho Stylish 1BR Near DT on Historic Street,Neighborhood highlights,39.9617,-82.973,Entire home/apt,Entire townhouse,84,2,54,1.31,346,t,f
+581933877357049763,Lovely 2 bedroom apt. with pool & Alexa enabled!!,Neighborhood highlights,39.89318,-82.88265,Entire home/apt,Entire rental unit,91,30,10,0.23,328,f,f
+584623197569673553,Downtown Apt in the Heart of Columbus,Neighborhood highlights,39.95928,-82.99976,Entire home/apt,Entire rental unit,109,2,81,1.89,337,t,t
+586935057426011239,Private room in eclectic home near Short North/OSU,Neighborhood highlights,39.99284,-83.01224,Private room,Private room in home,49,7,75,1.76,332,t,t
+588369097185627071,Cozy Room in Large Centrally Located Home,Neighborhood highlights,39.97488,-82.96693,Private room,Private room in home,39,14,8,0.19,321,f,f
+588432213240413188,"Solitude in the City, quiet & beautiful inside",Neighborhood highlights,40.05175,-82.98805,Entire home/apt,Entire home,141,2,119,2.95,328,t,t
+588586238211818990,The Buckeye Bungalow - Walk 2 Campus&Short North!,Neighborhood highlights,39.99078,-83.01505,Entire home/apt,Entire rental unit,105,30,41,0.98,280,t,t
+589346213753115080,Downtown Columbus Apartment,Neighborhood highlights,39.95923,-82.99976,Entire home/apt,Entire rental unit,116,2,106,2.49,331,t,f
+593373492153415128,The Buckeye Bungalow | Garage | Walk-In Shower!,Neighborhood highlights,40.01844,-83.02704,Entire home/apt,Entire rental unit,171,30,4,0.11,0,t,t
+593930365878917704,Historic  home in Olde Towne East,Neighborhood highlights,39.96031,-82.96783,Entire home/apt,Entire home,303,2,110,2.64,339,t,t
+595446722091850100,OSU Campus/Fairgrounds 1 BR 2 BD 2 BA efficiency,Neighborhood highlights,40.00164,-83.00059,Entire home/apt,Entire rental unit,100,2,106,2.51,197,t,t
+595635111449528008,2-BR w/ adjustable bed near German Village,Neighborhood highlights,39.93507,-82.96921,Entire home/apt,Entire rental unit,68,30,2,0.05,67,f,f
+599547888529837110,Cheerful 1-Ensuite Master bedroom in lovely home,Neighborhood highlights,39.94658,-82.97707,Private room,Private room in home,90,2,14,0.34,268,f,f
+602902840770562471,Arena District Suite w/FREE Parking & Rooftop Deck,Neighborhood highlights,39.96618,-83.00047,Entire home/apt,Entire condo,167,1,145,3.46,337,t,f
+603676852473797594,Walkable to Cafes | Fenced in Patio | King Bed,Neighborhood highlights,39.93845,-82.99621,Entire home/apt,Entire townhouse,146,1,204,4.92,178,t,t
+604540492594395631,The Pondview Perch | Fast WiFi | Washer/Dryer!,Neighborhood highlights,40.05482,-82.8444,Entire home/apt,Entire rental unit,129,30,2,0.09,0,t,f
+606507404364534915,Private Patio/Parking/Printer/Office/Laundry,Neighborhood highlights,39.9812,-83.01208,Entire home/apt,Entire townhouse,117,30,16,0.39,169,f,f
+606576471842152533,Schumacher's Gem Historic Home wth Hot Tub & Study,Neighborhood highlights,39.9447,-82.98956,Entire home/apt,Entire home,206,1,380,9.2,332,t,f
+607427676599550187,Updated home w/chef's kitchen! All new inside!,Neighborhood highlights,40.02609,-82.96681,Entire home/apt,Entire home,80,30,2,0.06,238,t,f
+607807831903509934,Beautiful Fully Equipped 5BR Home for Big Group,Neighborhood highlights,40.01489,-83.00375,Entire home/apt,Entire townhouse,177,2,153,3.67,72,f,f
+607854544774497337,"Hot Tub, King Beds, Foosball, Firepit, Cornhole",Neighborhood highlights,39.98723,-83.00163,Entire home/apt,Entire home,240,2,89,3.1,350,t,f
+608078312537046461,"Pristine Home by OSU, Schott, Hospital & Downtown",Neighborhood highlights,40.0218386,-83.0401443,Entire home/apt,Entire home,189,2,64,2.02,343,t,t
+608804981238969185,Welcome to the Tecumseh! Prime Short North Living!,Neighborhood highlights,39.98247,-83.00401,Entire home/apt,Entire home,228,1,195,4.7,46,t,t
+609691426245170842,Spectacular 2-Bedroom in a 4-Bedroom House,Neighborhood highlights,39.94713,-82.9771,Private room,Private room in home,117,30,22,0.53,268,f,f
+614539857859692107,2 car garage-Village brick/big yard/art lovers!,Neighborhood highlights,39.948082,-82.992607,Entire home/apt,Entire home,146,1,163,3.93,56,t,f
+615904477566369237,"Cozy 1BD Tiny Home near German V., Dntn Columbus",Neighborhood highlights,39.94182,-82.98523,Entire home/apt,Entire home,101,2,250,6.12,142,t,f
+617891776877375563,Cheerful 4-Bedroom- Walking Distance to The Shoe,Neighborhood highlights,40.00744,-83.015891,Entire home/apt,Entire townhouse,121,2,86,2.09,128,f,t
+618381152624748980,"BuckeyeHaven-FullKitchen, WasherDryer, 2 Bedroom",Neighborhood highlights,39.94403,-82.95161,Entire home/apt,Entire rental unit,102,30,8,0.24,365,t,f
+619127397362361124,"A Royal Suite near Downtown Columbus, Ohio",Neighborhood highlights,39.94681167602539,-82.97806549,Private room,Private room in home,99,30,4,0.1,268,f,f
+619570942802920697,Centrally located near High St,Neighborhood highlights,39.990479,-83.010895,Entire home/apt,Entire rental unit,106,2,72,1.82,155,f,t
+619587040858777398,Luxury Apartment in Grandview,Neighborhood highlights,39.988078,-83.032529,Entire home/apt,Entire rental unit,122,2,109,2.7,84,f,t
+623078277333941166,3 Bedroom Centrally Located,Neighborhood highlights,39.9880784,-83.0325291,Entire home/apt,Entire rental unit,142,2,106,2.61,124,f,t
+623085539138343797,Studio Near High St and Campus,Neighborhood highlights,39.9981222,-83.0063841,Entire home/apt,Entire rental unit,78,2,38,0.93,109,f,t
+623828800804318430,"2 bed Luxury Condo, smart home and 2 work station",Neighborhood highlights,39.978,-82.99775,Entire home/apt,Entire condo,83,30,62,1.53,333,t,f
+624477186104826995,The Loft on Lundy | Short North Arts District,Neighborhood highlights,39.97787,-83.007,Entire home/apt,Entire guesthouse,76,2,130,3.19,172,t,f
+624733571125264241,Garage - Fenced in Yard - Walkable to High Street,Neighborhood highlights,39.98255,-83.01099,Entire home/apt,Entire condo,257,2,91,2.22,353,t,f
+626191054389084854,The Buckeye Retreat - Walk to OSU & Short North.,Neighborhood highlights,39.99076,-83.01453,Entire home/apt,Entire rental unit,112,2,30,0.74,342,t,t
+626376636652403372,"Spacious 4Bdm Home | Backyard, Garage/Parking",Neighborhood highlights,39.95542,-82.96297,Entire home/apt,Entire home,152,2,48,1.24,327,t,t
+627364856952455190,The Cozy Carriage House of Montrose Way,Neighborhood highlights,40.03534,-83.01949,Entire home/apt,Entire guest suite,176,2,67,1.67,46,t,t
+629718367290578813,Modern ~Fire Pit~Near German Village&DTWN Columbus,Neighborhood highlights,39.94655,-82.9793,Entire home/apt,Entire home,219,2,109,2.78,341,t,f
+629854982841186398,Scarlet & Grey Getaway! Walk to Campus+ High St.,Neighborhood highlights,39.99154,-83.01334,Entire home/apt,Entire rental unit,100,2,40,1.03,359,t,t
+630452898020063612,"COZY, LUXURY APARTMENT, DOWNTOWN COLUMBUS- KITCHEN",Neighborhood highlights,39.959229,-82.999756,Entire home/apt,Entire rental unit,108,1,116,2.84,172,t,f
+631093085996602353,Skyline View 2BR w/Balcony + Free Parking + W/D!,Neighborhood highlights,39.95553,-83.01232,Entire home/apt,Entire rental unit,159,30,1,0.06,117,t,f
+635299124605060346,Spacious Victorian Home in Downtown Columbus!,Neighborhood highlights,39.96346,-82.97963,Entire home/apt,Entire home,248,2,31,0.86,336,f,f
+638433240524450905,Julia Childs,Neighborhood highlights,40.01403,-83.00112,Entire home/apt,Entire rental unit,45,30,2,0.05,301,f,f
+639901767828062825,The Neil Ave. Nest! Walk to OSU,Neighborhood highlights,39.9924,-83.01381,Entire home/apt,Entire rental unit,84,2,29,0.73,348,t,t
+640782879030564172,"Historic Home With Parking, Next to Schiller Park",Neighborhood highlights,39.94112459661832,-82.99535522,Entire home/apt,Entire home,194,30,157,4.01,350,t,f
+641973279872873321,"Luxury Stay Near Easton, Airport & OSU",Neighborhood highlights,40.04680167252752,-82.91607666,Entire home/apt,Entire home,368,2,39,1.06,179,t,f
+642542882074751702,Skylight Studio in Brownstone Mansion,Neighborhood highlights,39.96562,-82.96379,Entire home/apt,Entire rental unit,71,2,165,4.31,243,t,f
+642687120987350031,Steps from Franklin Park in Historic Mansion Unit,Neighborhood highlights,39.96539,-82.96369,Entire home/apt,Entire rental unit,157,2,73,2.32,76,t,f
+642690322062294733,Minutes to Franklin Park Conservatory,Neighborhood highlights,39.96715,-82.9632,Entire home/apt,Entire rental unit,175,2,89,2.39,241,t,f
+643178522251567611,Lovely 2-bedroom townhome in the heart of Columbus,Neighborhood highlights,39.95781015540096,-82.97352366,Entire home/apt,Entire condo,80,2,131,3.4,365,f,t
+644899162933283569,The Shores | K Bed | Hot Tub | Heart of Grandview,Neighborhood highlights,39.9904,-83.04178,Entire home/apt,Entire home,157,1,112,3,94,t,f
+645160371813931633,"The Victorian Villager, Lovely Campus Studio, OSU.",Neighborhood highlights,39.99225,-83.01327,Entire home/apt,Entire rental unit,80,2,18,0.46,362,t,t
+645517813181227864,The Dakota | King Bed | Hot Tub | Walk to Eateries,Neighborhood highlights,39.99082,-83.04349,Entire home/apt,Entire home,122,1,74,1.95,90,t,f
+645537884317280649,The Carolina | Hot Tub | Grill | Near OSU,Neighborhood highlights,39.98882,-83.0437,Entire home/apt,Entire home,125,1,125,3.23,84,t,f
+645543989922978813,The Avalon | King Bed | Hot Tub | Gem of Grandview,Neighborhood highlights,39.9894,-83.04169,Entire home/apt,Entire home,139,1,104,2.74,72,t,f
+645568162665334007,The Gatsby  Hot Tub  King Bed  Patio. OSU  5th Ave,Neighborhood highlights,39.9905,-83.05281,Entire home/apt,Entire rental unit,116,1,115,2.97,363,t,f
+645584549753917158,The Charleston  Hot Tub  Patio  King Bed  OSU  5th,Neighborhood highlights,39.98999,-83.05296,Entire home/apt,Entire rental unit,126,1,88,2.34,361,t,f
+645597910629541447,The Broadway  Hot Tub  King Bed  Patio OSU 5th Ave,Neighborhood highlights,39.99012,-83.05262,Entire home/apt,Entire rental unit,115,1,111,2.88,361,t,f
+645603264613200849,The Avenue  Hot Tub  Patio  King Bed  5th Ave  OSU,Neighborhood highlights,39.99201,-83.05345,Entire home/apt,Entire rental unit,142,1,111,2.87,356,t,f
+645646305864914465,Charming Apt. with Hot Tub and Balcony | Sleeps 6,Neighborhood highlights,39.99059,-82.99877,Entire home/apt,Entire home,173,1,69,1.85,87,t,f
+645650623259658703,Modern Apt. w/ Hot Tub and Balcony | Sleeps 8,Neighborhood highlights,39.99067,-82.99963,Entire home/apt,Entire home,204,1,138,3.63,85,t,f
+645653132997368350,Charming Apt. w/ Hot tub and King Beds | Sleeps 6,Neighborhood highlights,39.99192,-83.00019,Entire home/apt,Entire home,203,1,107,2.8,85,t,f
+647647367296353031,Rustic Treetop Apartment w/ Off Street Parking,Neighborhood highlights,40.01428,-83.00276,Entire home/apt,Entire rental unit,72,2,178,4.52,27,t,f
+649994284139630997,Gorgeous 5BR/10Bed | Large Private Outdoor Space!,Neighborhood highlights,39.98956,-83.00893,Entire home/apt,Entire home,440,2,103,2.89,250,t,f
+650959984813400709,PrivateParking/Entrance_OSU/ExpoCentr 7B Renovated,Neighborhood highlights,39.99682,-82.99649,Entire home/apt,Entire rental unit,100,1,190,4.81,181,t,t
+653835942783806111,Private APT w/Historic Charm in OTE. Near FPC,Neighborhood highlights,39.9653,-82.9659,Entire home/apt,Entire rental unit,92,1,43,1.09,358,t,t
+654509731647218720,Cozy Private Suite with Private Entrance,Neighborhood highlights,40.0286218,-83.0189964,Private room,Private room in home,58,2,132,3.33,14,t,f
+655063661166837578,"Room • Childrens Hospital, Downtown, OSU Medical 3",Neighborhood highlights,39.94935,-82.95713,Private room,Private room in home,36,21,8,0.21,49,t,f
+657129871465951560,"Columbus Private Home: BBQ Deck, Game & Movie Room",Neighborhood highlights,39.97499,-82.97319,Entire home/apt,Entire home,235,3,146,3.78,236,t,f
+657581693626961842,"Room • Childrens Hospital, Downtown, OSU Medical 4",Neighborhood highlights,39.95022,-82.95729,Private room,Private room in home,37,21,13,0.34,75,t,f
+658577106575323999,"Room • Childrens Hospital, Downtown, OSU Medical 5",Neighborhood highlights,39.94937,-82.95556,Private room,Private room in home,38,21,10,0.26,44,t,f
+658839157821172358,The Yellow Porch House | Charm & Location,Neighborhood highlights,39.98293,-83.01143,Entire home/apt,Entire home,151,2,53,1.39,185,t,f
+658866246564903146,Spacious Top Floor 1BR Apt in OTE Historic Mansion,Neighborhood highlights,39.96465,-82.96614,Entire home/apt,Entire rental unit,84,1,27,0.69,357,t,t
+659254581498545695,The Broad | Queen Bed | Luxury Furnish | Pet Haven,Neighborhood highlights,39.96466,-82.98418,Entire home/apt,Entire rental unit,71,30,6,0.17,190,f,f
+659450997111656360,AMAZING MODERN NEW BUILD IN ITALIAN VILLAGE!,Neighborhood highlights,39.9842,-82.99656,Entire home/apt,Entire home,277,2,88,2.36,356,t,f
+659539236082321856,Feels like Summer Bedroom,Neighborhood highlights,39.91356,-82.83844,Private room,Private room in home,44,5,14,0.36,265,f,f
+659553972038501773,Alluring Fall Bedroom,Neighborhood highlights,39.91415,-82.84009,Private room,Private room in home,48,5,13,0.33,363,f,f
+660002934194974558,"The Werner House w/ Gym, Spa & Speakeasy",Neighborhood highlights,39.9675222,-82.9571712,Entire home/apt,Entire villa,1122,1,14,0.76,320,f,f
+661662470414885400,Welcome to the Tranquility Room- Near everything,Neighborhood highlights,39.96942,-82.91199,Private room,Private room in home,44,31,10,0.27,179,f,t
+662102996027466268,Stately 1BR Corner Suite in Historic Mansion,Neighborhood highlights,39.96326,-82.96562,Entire home/apt,Entire rental unit,90,1,100,2.55,351,t,t
+662383627611136591,The Victorian Vacation Home 3BD/3.5BA,Neighborhood highlights,39.9852226,-83.0098469,Entire home/apt,Entire home,220,1,77,1.96,360,f,t
+662879489784997063,Parkside Tower- cozy bungalow on a dead-end street,Neighborhood highlights,40.0268,-82.96592,Entire home/apt,Entire home,68,30,5,0.15,202,t,f
+663795632400350628,The Broad | 15 min away to Ohio State University,Neighborhood highlights,39.96335,-82.9849,Entire home/apt,Entire rental unit,96,30,2,0.06,211,f,f
+664427339139312182,Space to Unwind-Family Friendly Near OSU & Dowtown,Neighborhood highlights,40.03368,-83.0374,Entire home/apt,Entire home,202,2,142,4.16,330,t,f
+668076842337329867,Spacious 4-bedroom home perfect for families,Neighborhood highlights,40.0807,-82.95962,Entire home/apt,Entire home,166,3,86,2.22,206,t,f
+670186224856488380,Modern Convenience ! Near Franklin Park! 1 BR Apt!,Neighborhood highlights,39.96149,-82.96187,Entire home/apt,Entire rental unit,68,2,64,1.72,332,t,f
+671195264937732201,The Retreat Room is spacious comfort.,Neighborhood highlights,39.96764,-82.91246,Private room,Private room in home,44,31,21,0.55,169,f,t
+673922300980700182,"Peace Place! Updated 3bdrm home, finished basement",Neighborhood highlights,39.87764,-82.83389,Entire home/apt,Entire home,249,2,67,1.74,114,t,f
+675244807029089386,"4BR Luxury, Spacious, Big driveway, Best location",Neighborhood highlights,40.02176,-83.10339,Entire home/apt,Entire home,336,2,126,3.3,238,f,f
+677875414643165996,Highly Rated Private Room on OSU Campus,Neighborhood highlights,40.0099,-83.00582,Private room,Private room in home,57,7,20,0.6,183,t,f
+677997005051675407,Stylish Loft in the center of it all-Short North!,Neighborhood highlights,39.98617,-83.00466,Entire home/apt,Entire condo,85,30,4,0.14,299,t,f
+678245677581049518,THE SKYSCRAPER IN HEART OF COLUMBUS,Neighborhood highlights,39.971926,-83.0028161,Entire home/apt,Entire serviced apartment,217,1,133,3.45,301,f,t
+678476340057205840,Elegant Rear Bedroom Olde Towne East Near Downtown,Neighborhood highlights,39.95591,-82.97417,Private room,Private room in townhouse,60,1,9,0.23,268,f,f
+680434803097462443,Lovely Space in the Grandview! 100% Walkable!,Neighborhood highlights,39.99067705643102,-83.04302133,Entire home/apt,Entire rental unit,85,30,9,0.25,329,t,f
+680889823297155169,Peace & Privacy Home/3 BR/Airport/Easton/Gameroom,Neighborhood highlights,40.01647,-82.92872,Entire home/apt,Entire home,120,1,156,4.32,344,f,f
+682602072714041934,3 BR Home Close to Children's/GV/Grant/Downtown,Neighborhood highlights,39.93488,-82.9721,Entire home/apt,Entire home,117,30,11,0.32,329,f,f
+685609079499433346,Short North | Walkable | Cozy & Spacious,Neighborhood highlights,39.98255,-83.01099,Entire home/apt,Entire condo,170,2,72,1.9,344,t,f
+687895433895085663,"Cozy 2bd, 1 bth near OSU, downtown, I-70 and I-270",Neighborhood highlights,40.0747,-83.00471,Entire home/apt,Entire home,79,30,9,0.24,117,f,f
+688271481810009041,Modern Ohio State Oasis Parking Included!,Neighborhood highlights,39.9923,-83.01325,Entire home/apt,Entire rental unit,99,30,24,0.63,357,t,t
+690340804199274462,Short North Victorian Gem | Ohio St. & Downtown!,Neighborhood highlights,39.98121711798365,-83.01392511,Entire home/apt,Entire townhouse,96,2,10,0.27,258,t,f
+690530992676247974,HARRISON STUDIO IN HEART OF COLUMBUS,Neighborhood highlights,39.980749,-83.014687,Entire home/apt,Entire serviced apartment,107,30,58,1.53,365,f,t
+692647713922462392,"Cozy Cottage:15 minutes to Easton, OSU, & downtown",Neighborhood highlights,40.02954,-82.9654,Entire home/apt,Entire home,120,30,5,0.14,364,f,f
+693541822290988080,Columbus St Haus German Village/PetsOK,Neighborhood highlights,39.94602,-82.99753,Entire home/apt,Entire rental unit,108,1,164,4.57,350,t,t
+693551787773497002,Cute German Village Lil’Haus/City Park/PetsOK,Neighborhood highlights,39.94621,-82.99507,Entire home/apt,Entire rental unit,80,1,361,9.87,312,t,t
+695840813016401638,cozy park free parking free Wi-Fi,Neighborhood highlights,40.08512572473731,-82.97139533,Entire home/apt,Entire condo,66,1,99,3.31,253,t,f
+696928377234398001,Katie's House A Columbus/Clintonville Airbnb House,Neighborhood highlights,40.0301176,-82.9995208,Entire home/apt,Entire home,126,2,87,2.32,282,t,f
+696946275947695840,Lux house to unwind near downtown w/ fenced yard,Neighborhood highlights,39.94995,-82.97181,Entire home/apt,Entire home,133,2,69,1.98,357,t,f
+696976692562125793,Elegant 3 bedroom - Free Parking,Neighborhood highlights,39.9711426,-82.9603026,Entire home/apt,Entire home,115,30,21,0.59,336,t,f
+696980857108883235,THE Ohio State University/ Fairgrounds 2 BR 1BA,Neighborhood highlights,40.00088,-83.00019,Entire home/apt,Entire rental unit,124,2,99,2.64,240,t,f
+697000354541844507,The Big Blue House—5BR w/ New Kitchens & Bathrooms,Neighborhood highlights,40.01555,-83.0022,Entire home/apt,Entire home,172,1,37,1.02,229,f,f
+697331612052826507,Modern Deco Flat - Mins to Everything,Neighborhood highlights,39.9903894,-83.0432907,Entire home/apt,Entire rental unit,70,1,144,3.86,334,t,f
+698282487425326387,Convenient Ohio State Campus 3 Bedroom House,Neighborhood highlights,40.00692820760546,-83.00381094,Entire home/apt,Entire home,209,2,40,1.09,246,t,t
+698751370581142890,Bold & Beautiful Flat - Unmatched location!,Neighborhood highlights,39.9903894,-83.0432907,Entire home/apt,Entire rental unit,70,1,278,7.37,259,t,f
+699471684906727782,Cozy ranch | near airport & DWTN | work & families,Neighborhood highlights,39.95019,-82.86617,Entire home/apt,Entire home,163,2,102,2.96,350,t,f
+701491972647395675,"Oasis—Single Family Gem w/ garage, huge backyard!",Neighborhood highlights,39.92468,-82.90703,Entire home/apt,Entire home,139,2,101,2.83,175,t,f
+702832812583267354,Hidden Oak Writer’s Lair,Neighborhood highlights,39.94383,-82.96955,Entire home/apt,Entire rental unit,91,2,6,0.2,317,f,f
+702846138291299875,Cozy Home in heart of German Village (w/parking!),Neighborhood highlights,39.95063,-82.99363,Entire home/apt,Entire home,177,3,129,3.57,6,f,f
+704227482623323383,Central Townhouse | Walk to Convention Center,Neighborhood highlights,39.97743,-83.00138,Entire home/apt,Entire townhouse,145,2,66,1.93,0,t,f
+704272644482868483,Charming Townhouse | Short North Arts District,Neighborhood highlights,39.97745,-83.00137,Entire home/apt,Entire townhouse,137,2,74,2,4,t,f
+704952462674331178,Your Oasis Minutes to Downtown/Other Attractions,Neighborhood highlights,39.95116,-83.08409,Entire home/apt,Entire home,130,2,51,1.43,88,t,t
+705058944756814703,Alice Room - Quiet guests only,Neighborhood highlights,40.00895,-83.00768,Private room,Private room in home,71,2,64,1.73,246,t,t
+706313987792740135,Vintage Boutique Motel [Eco-Friendly],Neighborhood highlights,39.943147,-82.9973379,Private room,Room in boutique hotel,211,1,75,2.06,364,t,f
+707031346641370559,"Park Free Walk to Short North, OSU, Arena District",Neighborhood highlights,39.981922,-83.010354,Entire home/apt,Entire condo,150,1,191,5.19,332,t,f
+707412969580287536,"Quiet space, Beautiful details!  BEST location!",Neighborhood highlights,39.98970064956756,-83.04469933,Entire home/apt,Entire condo,85,30,2,0.06,266,t,f
+709216761536648235,Boutique GV Townhome Steps from Schiller Park,Neighborhood highlights,39.9394277,-82.9899908,Entire home/apt,Entire townhouse,126,1,103,3.53,167,f,f
+709446640086177715,The High Street Hideaway,Neighborhood highlights,39.9735,-83.00264,Entire home/apt,Entire condo,99,2,97,2.69,306,f,t
+711472902665673103,1BR Downtown Penthouse w/Luxury Amenities,Neighborhood highlights,39.96284,-83.00076,Entire home/apt,Entire condo,82,30,6,0.2,260,t,t
+711700590232870995,Luxury New Build w/ Theater Room & Rooftop Terrace,Neighborhood highlights,39.98374,-83.01832,Entire home/apt,Entire home,448,2,188,5.12,316,t,f
+715315461959833471,"Pink Chalet Downtown | Themed 2Bed Home, Fire Pit",Neighborhood highlights,40.06052317808346,-83.00292645,Entire home/apt,Entire home,123,1,97,2.65,32,t,f
+716539520775333066,Bungalow in the Heart of Victorian Village,Neighborhood highlights,39.9826394,-83.0192901,Entire home/apt,Entire home,318,1,107,2.93,88,t,f
+719375273844356971,"Fully updated w/Large great rm, Close to Zoo!",Neighborhood highlights,40.12766,-83.06621,Entire home/apt,Entire home,148,2,90,2.51,110,t,f
+719758428460095764,The Icons of Glamour Penthouse—Downtown Columbus,Neighborhood highlights,39.9642762,-82.9977787,Entire home/apt,Entire condo,113,30,1,0.07,253,f,f
+720995652943445074,2BR w/Firepit walk to OSU campus & hospital,Neighborhood highlights,40.01205,-83.01076,Entire home/apt,Entire home,155,2,63,1.72,48,t,f
+722475422056343822,The Cozy Lark Inn,Neighborhood highlights,40.06795,-82.9437,Entire home/apt,Entire home,140,3,33,1.02,106,t,t
+722494761208266141,Home in Columbus,Neighborhood highlights,39.9471,-82.95459,Entire home/apt,Entire home,112,2,65,2.54,347,t,f
+723744905409870922,Renovated Historic Home in the Brewery District,Neighborhood highlights,39.94608,-82.99961,Entire home/apt,Entire home,344,3,32,0.9,223,t,f
+726184223616882338,ComfyCozy 2br home priv.parking 10min to dntwn,Neighborhood highlights,39.9827392,-82.9497987,Entire home/apt,Entire home,126,2,71,2.02,333,t,f
+726690205191535680,Pretty Pink & Gray 1BR Suite in Heart of Columbus,Neighborhood highlights,39.9566106,-82.9940932,Entire home/apt,Entire serviced apartment,77,1,47,1.29,354,f,t
+726705503725800571,#BeachHouseLife in Downtown Columbus | 7 guests,Neighborhood highlights,39.94249,-82.96951,Entire home/apt,Entire home,179,30,24,0.69,72,f,f
+726847631056630660,The Boho Chic Suite in Prime Location of Columbus,Neighborhood highlights,39.9566106,-82.9940932,Entire home/apt,Entire serviced apartment,95,1,35,1.01,344,f,t
+726914461129033236,Charming 3BR Cape Cod with Free Off-Street Parking,Neighborhood highlights,40.03707,-82.9829,Entire home/apt,Entire home,134,30,8,0.25,176,t,f
+728090645405321237,Blue Bliss: Cozy Apartment with Gym Amenities,Neighborhood highlights,39.9566106,-82.9940932,Entire home/apt,Entire serviced apartment,94,1,52,1.44,333,f,t
+728304092223611347,Lovely Blue Seas Suite in Heart of Col l 24/7 Gym,Neighborhood highlights,39.9566106,-82.9940932,Entire home/apt,Entire serviced apartment,88,1,40,1.12,337,f,t
+728329047491267489,Shades of Blue Elegant Suite l Free Parking + Gym,Neighborhood highlights,39.9566106,-82.9940932,Entire home/apt,Entire serviced apartment,85,1,65,1.81,341,f,t
+728364757930062239,Luxury Gray & Gold Executive Suite in Heart of Col,Neighborhood highlights,39.9566106,-82.9940932,Entire home/apt,Entire serviced apartment,108,1,69,1.92,336,f,t
+728441976885020344,The Modern Chic 1BR Executive Suite l 24/7 Gym,Neighborhood highlights,39.9566106,-82.9940932,Entire home/apt,Entire serviced apartment,81,1,48,1.33,361,f,t
+731128686322846191,Short North Hideaway/Fast Wifi,Neighborhood highlights,39.98711038,-83.01417,Entire home/apt,Entire home,166,30,126,3.51,308,f,t
+732579277812272644,"Cozy OSU/Short North 2B Condo, Walkable w/ Parking",Neighborhood highlights,39.98796,-83.0119,Entire home/apt,Entire condo,140,1,75,2.19,348,t,f
+734043324480904776,The Lux Pad. Steps to OSU & High Street,Neighborhood highlights,39.99031,-83.0132,Entire home/apt,Entire rental unit,85,30,18,0.51,359,t,f
+734139214032565522,Comfy 3-bedroom home,Neighborhood highlights,39.98281676669662,-83.11033385,Entire home/apt,Entire home,150,2,94,2.66,260,t,f
+739239113901630335,Clara's room - Quiet guests only,Neighborhood highlights,40.010068,-83.0069927,Private room,Private room in home,61,2,33,0.93,246,t,t
+741382245974234708,Downtown Columbus Luxury Apartment,Neighborhood highlights,39.95923,-82.99976,Entire home/apt,Entire rental unit,133,2,101,2.83,340,t,f
+741393654587229347,OSU Retreat: 5BR Boho Home with Free Parking,Neighborhood highlights,40.0098333,-83.0017877,Entire home/apt,Entire home,223,1,56,1.59,355,f,t
+742632091765743375,Livingston Flat - A German Village Gem,Neighborhood highlights,39.95154,-82.99322,Entire home/apt,Entire rental unit,92,1,177,5.2,312,t,t
+742676662412685084,Condo 2 bedroom with 2 Free Parking Spots,Neighborhood highlights,40.00001,-82.97457,Entire home/apt,Entire condo,64,2,116,3.27,333,t,t
+743416151124719258,Storybook Village home off st parking garden oasis,Neighborhood highlights,39.9470866,-82.9911664,Entire home/apt,Entire home,142,1,130,3.72,59,t,f
+744403836881095606,Updated 1 bdrm apt. in central Grandview location,Neighborhood highlights,39.98949,-83.0487,Entire home/apt,Entire rental unit,80,30,2,0.07,364,t,f
+745556632346151264,Vintage/Modern One Bedroom Condo,Neighborhood highlights,39.95663,-83.08282,Entire home/apt,Entire condo,106,1,201,5.75,252,t,f
+745769385798874125,Trolley District Treasure 1 BR Apt!,Neighborhood highlights,39.96086,-82.96197,Entire home/apt,Entire rental unit,77,2,52,1.46,360,t,f
+745794164411299154,Old Towne East  - 1 BR Apt - Steps from E Market,Neighborhood highlights,39.96188,-82.96217,Entire home/apt,Entire rental unit,66,2,35,0.98,361,t,f
+746229499418756984,"Charming, Newly Updated Home!",Neighborhood highlights,39.92878,-82.99153,Entire home/apt,Entire home,79,30,4,0.15,92,f,f
+746384934820892121,The House of Cards - Beautiful Home in Columbus !,Neighborhood highlights,39.9374681,-82.9609726,Entire home/apt,Entire home,333,1,55,1.55,330,f,t
+746908626527719494,Clintonville Cottage- Close to OSU & Downtown,Neighborhood highlights,40.04414,-83.01221,Entire home/apt,Entire home,160,2,70,2.47,327,t,f
+749244020807392254,Modern Home - Explore Downtown - 3 BR,Neighborhood highlights,39.96838,-82.97154,Entire home/apt,Entire home,143,1,286,8.16,161,t,f
+750943571070955687,The Gathering House - Spacious & Stylish w/ Garage,Neighborhood highlights,39.94911,-82.9698,Entire home/apt,Entire home,316,2,115,3.29,250,t,f
+752493984480363782,Cozy Brick-Short North Condo - (fenced yard) - OSU,Neighborhood highlights,39.97956616717232,-83.00797199,Entire home/apt,Entire condo,93,2,90,2.55,170,f,t
+755110185881961259,Jenny's Palace In The Heart of Columbus!,Neighborhood highlights,39.9559846,-83.0316708,Entire home/apt,Entire home,194,30,58,1.66,361,f,t
+756375684920348782,Welcome to The Fulton Cottage!,Neighborhood highlights,40.0601,-83.01249,Entire home/apt,Entire home,105,1,178,6.54,172,t,t
+757220077691724343,THE Plush Place #2 - Steps to OSU Medical Center.,Neighborhood highlights,39.9912751,-83.0142539,Entire home/apt,Entire serviced apartment,81,2,26,0.75,337,t,f
+757220580648912943,"Short North + Ohio State area! Clean, easy parking",Neighborhood highlights,39.99085,-82.99904,Entire home/apt,Entire townhouse,126,1,120,3.68,329,t,f
+758392518577290624,"THE Plush Place! Lux Studio. Walk to Campus, OSU.",Neighborhood highlights,39.99181760565635,-83.01417793,Entire home/apt,Entire serviced apartment,88,2,41,1.2,350,t,t
+758882671083839347,"Spacious, 4Bd/2B Townhome by Downtown/OTE, Pets OK",Neighborhood highlights,39.96928,-82.97586,Entire home/apt,Entire townhouse,90,1,44,1.37,169,t,f
+759530663691679611,The Erb House,Neighborhood highlights,39.9854401,-83.0002345,Entire home/apt,Entire home,200,30,21,0.63,332,f,f
+760142840908628788,Clintonville | OSU | Entire Home,Neighborhood highlights,40.028,-83.00157,Entire home/apt,Entire home,295,30,20,0.61,269,t,f
+761649332170885119,The Parsonage,Neighborhood highlights,40.0241,-83.00447,Entire home/apt,Entire home,544,2,56,1.79,259,t,f
+763628153849759310,Wall of Windows - Luxe Flat,Neighborhood highlights,39.98107,-82.99913,Entire home/apt,Entire rental unit,85,27,16,0.48,243,t,f
+765085402854478211,Timeless Tulane 1Bed 1 Bath Apt. Mins 2 High,Neighborhood highlights,40.0243608,-83.0151353,Entire home/apt,Entire rental unit,121,2,64,1.86,353,t,t
+765435526481427299,NEW BUILD Short North Home w/Rooftop Terrace!,Neighborhood highlights,39.9832831,-83.0207311,Entire home/apt,Entire home,530,2,124,3.7,333,t,f
+765446622926547161,Lovely home in historic Old Oaks! Great location!,Neighborhood highlights,39.9519363,-82.9684069,Entire home/apt,Entire home,90,2,26,0.78,358,t,f
+767613127649479778,"Cozy 3BR | Walk to Parks, Near Airport & Downtown",Neighborhood highlights,39.9684,-82.95339,Entire home/apt,Entire home,193,3,30,0.89,257,f,f
+768930575097658199,Short North Condo | Walkable + Parking | Laundry,Neighborhood highlights,39.9871768,-83.0111282,Entire home/apt,Entire condo,135,1,92,2.7,345,t,f
+773153002951863592,"Clintonville Cozy Haven! Near Parks, Shops & OSU!",Neighborhood highlights,40.0521024,-83.0206408,Entire home/apt,Entire rental unit,72,2,32,0.99,346,t,t
+773203560367862318,RetroChic Clintonville Cozy Escape Near Top Sights,Neighborhood highlights,40.0521161,-83.0207071,Entire home/apt,Entire rental unit,77,2,33,0.99,339,t,t
+773751205828249133,Spacious Luxury Downtown Loft (Free Parking!),Neighborhood highlights,39.9560944,-82.9952743,Entire home/apt,Entire loft,105,1,143,4.4,164,f,f
+775638980076669751,Downtown Lux Suite- Short North- Starbucks Machine,Neighborhood highlights,39.98679,-83.0041,Entire home/apt,Entire rental unit,110,30,2,0.12,365,f,t
+779722438698139740,2bdr Townhouse in Franklinton | Fenced in Backyard,Neighborhood highlights,39.9598606,-83.0361166,Entire home/apt,Entire townhouse,106,2,53,1.85,31,t,f
+780597666151919049,(F) Boutique airbnb next to Convention center,Neighborhood highlights,39.97998,-83.00396,Entire home/apt,Entire rental unit,153,2,16,0.56,360,f,f
+780778206109436137,2 full beds. Free WI-FI. Free parking.,Neighborhood highlights,39.96653,-82.91321,Private room,Private room in home,35,2,40,1.2,176,t,f
+780789669497743854,Twin and full bunk bed. Free WI-FI. Free parking.,Neighborhood highlights,39.96638,-82.91313,Private room,Private room in home,37,2,70,2.08,77,t,f
+780988627342552426,Downtown Columbus Studio w/ Free Parking,Neighborhood highlights,39.95523,-82.99593,Entire home/apt,Entire rental unit,84,1,116,3.49,239,t,f
+781208451593806536,The Getaway - Centrally Located!,Neighborhood highlights,39.96334,-82.97036,Entire home/apt,Entire guest suite,87,1,52,1.77,258,f,f
+782624361578725247,Red Brick Getaway - Columbus,Neighborhood highlights,39.9376025,-82.9877867,Entire home/apt,Entire rental unit,59,30,41,1.21,343,f,t
+782824556968380685,Cozy 3 bedroom house w/garage,Neighborhood highlights,39.94619,-83.04349,Entire home/apt,Entire home,106,2,88,2.68,358,f,f
+783525476980404129,NEW Elegant Home w/ Themed Rooms,Neighborhood highlights,39.91046,-82.83995,Entire home/apt,Entire home,200,30,5,0.15,145,f,f
+784277326049568978,Lux Cape Cod by TyKen. Minutes to Downtown CO,Neighborhood highlights,40.03009,-82.97833,Entire home/apt,Entire home,180,2,18,0.72,89,t,f
+785353797091228689,Downtown apartment,Neighborhood highlights,39.9629,-83.00005,Entire home/apt,Entire rental unit,61,30,5,0.26,161,f,f
+786399947367593370,Palace Ramses - OSU/SOHUD Prvt Barcade/Gym/Throne,Neighborhood highlights,40.01392,-83.00688,Entire home/apt,Entire home,128,2,62,1.95,322,t,f
+787095681330417801,"Luxury Downtown Condo | Fast Wi-Fi, Gym, Pool",Neighborhood highlights,39.96236,-82.99616,Entire home/apt,Entire rental unit,124,30,1,0.03,330,f,t
+791261651967509504,Spectacular Space -1BR- Columbus,Neighborhood highlights,40.0089301,-82.9977367,Entire home/apt,Entire loft,168,30,43,1.46,237,f,t
+791339936508118840,Gorgeous Getaway -1BR- Columbus!,Neighborhood highlights,40.0089301,-82.9977367,Entire home/apt,Entire rental unit,119,30,33,1,345,f,t
+791874947680975233,Relaxing Retreat! - Central Downtown/OSU,Neighborhood highlights,39.9899218,-83.0429103,Entire home/apt,Entire townhouse,101,1,254,7.85,251,t,t
+792194276530894828,SuperHost: Private room on OSU Campus,Neighborhood highlights,40.01014,-83.005,Private room,Private room in home,58,5,7,0.22,236,t,f
+792993588056946373,King bed.  Free WI-FI. Free parking.,Neighborhood highlights,39.96787,-82.91384,Private room,Private room in home,41,2,58,1.75,145,t,f
+795479838867913879,Historic German Village Industrial Masterpiece.,Neighborhood highlights,39.95054,-82.98666,Entire home/apt,Entire condo,232,2,61,1.87,28,f,t
+798489366824514441,The Famous Brewery District Bear House | Perfectly,Neighborhood highlights,39.9455,-82.99975,Entire home/apt,Entire home,281,30,35,1.07,72,f,f
+799473995571640216,Entire Mansion with Fireplaces,Neighborhood highlights,39.97872,-83.01136,Entire home/apt,Entire home,1241,2,39,1.26,57,t,f
+800649148832341112,•Melina Rm on KING• Central CBUS,Neighborhood highlights,39.98987,-83.00897,Private room,Private room in home,54,2,32,1.02,0,t,t
+801636431143402930,"Cozy 3-Bdrm2-Bath Home, Sleeps6",Neighborhood highlights,39.9978537,-82.9810647,Entire home/apt,Entire home,85,1,60,1.84,327,t,f
+803546686211305565,Urban Clean Close to Downtown-Highway-Hospitals,Neighborhood highlights,39.95513,-83.02114,Entire home/apt,Entire rental unit,83,30,1,0.2,74,t,f
+804209692662515326,"<3mi to Med Centers, OSU, Stadiums & Short North",Neighborhood highlights,40.0182911,-83.0061838,Entire home/apt,Entire townhouse,99,30,10,0.32,167,t,f
+805632698575944965,Private Room near Easton Shopping area & Airport,Neighborhood highlights,39.96646,-82.9147,Private room,Private room in home,38,1,12,0.41,154,f,t
+805825435548215088,Blenkner Bungalow/GVillage/PetsOK,Neighborhood highlights,39.95147,-82.99618,Entire home/apt,Entire cottage,89,1,115,3.55,326,t,f
+806409687730492892,2 Bedroom Condo w/ 2 Free Parking Spots,Neighborhood highlights,39.99964,-82.97512,Entire home/apt,Entire home,61,2,119,3.66,311,t,t
+806722867307211519,The Broad Apt | Downtown | Pool Table Pet-friendly,Neighborhood highlights,39.96307,-82.98441,Entire home/apt,Entire rental unit,64,30,3,0.11,337,f,f
+807210908895813508,Stylish Haus | Heart of German Village | Parking,Neighborhood highlights,39.95129,-82.99213,Entire home/apt,Entire rental unit,142,2,102,3.28,155,t,f
+807722868531393426,Nova Bexley Villas,Neighborhood highlights,39.9742073,-82.9130087,Entire home/apt,Entire rental unit,148,3,6,0.36,60,f,f
+810933415364899755,Cozy/Spacious Room in Victorian Village,Neighborhood highlights,39.98258,-83.01241,Private room,Private room in home,89,2,69,2.27,349,f,f
+811025708499167750,Centrally Located 2BR,Neighborhood highlights,40.076223,-83.01471032,Entire home/apt,Entire home,77,10,47,1.46,133,t,f
+813768283203499016,Stunning home Downtown free street parking,Neighborhood highlights,39.97313,-82.97953,Entire home/apt,Entire home,165,2,48,1.51,353,f,f
+814670697230522144,The Broad | Modern Design kitchen & Pet Friendly,Neighborhood highlights,39.96258,-82.98405,Entire home/apt,Entire rental unit,71,30,2,0.09,319,f,f
+816185109316171479,The Broad | Luxury Fully Furnish Downtown Columbus,Neighborhood highlights,39.96254,-82.98498,Entire home/apt,Entire rental unit,64,30,2,0.07,269,f,f
+816218834091659708,Mid-Century Downtown Loft (Free Parking),Neighborhood highlights,39.956105,-82.995137,Entire home/apt,Entire loft,103,1,118,3.69,206,f,f
+816566225615732267,Perfect for Nurse's near 5 Hospital in Downtown,Neighborhood highlights,39.96408,-82.98485,Entire home/apt,Entire rental unit,71,30,1,0.04,189,f,f
+816578451376642244,The Broad | Cozy Affordable Luxury in Downtown,Neighborhood highlights,39.96368,-82.98464,Entire home/apt,Entire rental unit,83,30,1,0.36,310,f,f
+816859051883319999,The Broad | Modern Sleek Design w/ Private Parking,Neighborhood highlights,39.96305,-82.98348,Entire home/apt,Entire rental unit,71,30,2,0.11,103,f,f
+817216477469473078,Heart of Columbus - Private Parking & Yard,Neighborhood highlights,39.9827721,-83.0133795,Entire home/apt,Entire home,203,2,101,3.25,356,t,t
+817392309398021829,Modern unit in Short North/OSU,Neighborhood highlights,39.98205,-83.00401,Entire home/apt,Entire rental unit,83,30,82,2.6,270,t,t
+823370714039997890,Magnolia Modern 1BR Near DT on Historic Street,Neighborhood highlights,39.96286,-82.97379,Entire home/apt,Entire rental unit,85,2,101,3.28,332,t,f
+829187241889763632,Short North Retreat off High St!,Neighborhood highlights,39.9804599,-83.0015593,Entire home/apt,Entire home,121,2,58,1.9,338,t,f
+830664191030564769,Spacious 4BD 2BA Home Near OSU & Fairgrounds,Neighborhood highlights,40.0114092,-82.998166,Entire home/apt,Entire home,124,1,170,5.38,148,t,t
+831050468508168359,The Short North Arches Overlook,Neighborhood highlights,39.97477416168007,-83.00322707,Entire home/apt,Entire rental unit,95,2,67,2.15,251,f,f
+831853286219350588,4 Bed Townhome near Goodale Park,Neighborhood highlights,39.97826269999999,-83.0074235,Entire home/apt,Entire home,259,1,55,1.89,330,t,t
+833378141562863210,Newly Renovated 1 Bedroom,Neighborhood highlights,40.023858,-83.0287375,Entire home/apt,Entire rental unit,72,2,53,1.7,107,f,t
+833405951944559002,Upland Bedroom#4,Neighborhood highlights,40.0654901,-82.9888387,Private room,Private room in home,28,30,3,0.11,56,f,f
+834078261853006687,"OSU Football, Privacy fence, Close to downtown",Neighborhood highlights,39.98022,-83.01822,Entire home/apt,Entire home,350,2,75,2.46,27,f,f
+835627960871138774,Quiet & close to everything,Neighborhood highlights,39.9611049,-83.0271456,Entire home/apt,Entire home,95,30,3,0.1,301,t,f
+835685347908206906,"•The House on KING• Central CBUS, OSU Med, Dwntwn",Neighborhood highlights,39.99064,-83.0085,Entire home/apt,Entire home,501,2,15,0.56,230,t,t
+837033020572776135,Newly Renovated 2 Bedroom,Neighborhood highlights,40.0030854,-83.0013498,Entire home/apt,Entire rental unit,75,2,47,1.54,167,f,t
+837219984885154503,PrivateParking/Entrance_OSU/ExpoCentr 6B Renovated,Neighborhood highlights,39.99677,-82.99836,Entire home/apt,Entire rental unit,98,2,104,3.33,183,t,t
+839141433192990824,Cozy Corner: A Modern Townhome,Neighborhood highlights,39.9439929,-82.9716448,Entire home/apt,Entire home,106,2,27,0.96,33,t,f
+839742931581654915,"Stylish 3BR Historic Charm, Walk to Franklin Park",Neighborhood highlights,39.96831,-82.95469,Entire home/apt,Entire home,147,1,49,1.59,230,f,t
+840461397125310005,"Great Location Downtown, Close to Everything!",Neighborhood highlights,39.96056,-82.99548,Entire home/apt,Entire home,102,30,2,0.09,268,f,f
+840682366320281429,Housepitality - Franklinton Manor - Spacious,Neighborhood highlights,39.95783,-83.02695,Entire home/apt,Entire home,134,1,8,0.26,365,f,t
+840682863259564941,The Retro Sleepover Pad- 2 BR/1.5BA,Neighborhood highlights,39.9849,-82.9995,Entire home/apt,Entire home,113,1,30,0.97,343,f,f
+840698544842469721,"•Rennala Rm on KING• CBUS, OSU",Neighborhood highlights,39.98939,-83.00903,Private room,Private room in home,54,2,36,1.17,2,t,t
+841307565119301374,Best deal that sleeps a lot and centrally located,Neighborhood highlights,39.94452,-82.95092,Entire home/apt,Entire home,145,3,99,3.21,303,f,f
+841340531853877308,Living Lavish - 3 Bedrooms with 2 Car Garage,Neighborhood highlights,39.94869,-82.97433,Entire home/apt,Entire home,101,2,114,3.73,326,t,t
+841358523797552289,Undeniably Perfect Location!,Neighborhood highlights,39.9903668,-83.0435192,Entire home/apt,Entire rental unit,85,30,4,0.14,284,t,f
+841410723600460827,German Village Getaway w/ Grill: 4 Mi to OSU!,Neighborhood highlights,39.94757,-82.98861,Entire home/apt,Entire home,235,2,36,1.32,357,f,t
+844193240965578140,Luxury New Build - Rooftop Patio! - Columbus!,Neighborhood highlights,39.9626112,-82.965743,Entire home/apt,Entire home,183,30,58,1.9,349,f,t
+844206603274297683,Private Room w/ King Bed in the Heart of Columbus,Neighborhood highlights,39.98143,-83.0155,Private room,Private room in home,59,2,95,3.41,245,t,f
+844934158683240918,The Dream Stay on Neil Parking Included,Neighborhood highlights,39.99011,-83.01486,Entire home/apt,Entire rental unit,96,2,15,0.49,343,t,t
+845895493834179724,High Rated 10 beds•OSU•Stadium•1 Parking•Fencd Yrd,Neighborhood highlights,40.01086,-83.00793,Entire home/apt,Entire townhouse,173,2,113,3.7,90,f,f
+846263205777248847,Stylish Stay on Oak - Columbus!,Neighborhood highlights,39.9626145,-82.9658189,Entire home/apt,Entire home,184,1,42,1.38,355,f,t
+846479691151428673,"Cozy & Modern Home, Free Parking",Neighborhood highlights,40.017,-83.00941,Entire home/apt,Entire home,97,1,200,6.7,165,f,f
+847056756366090637,Urban 1BD 1BA Apartment Near OSU FREE Parking,Neighborhood highlights,39.9976064,-82.9985436,Entire home/apt,Entire rental unit,96,1,170,5.53,118,t,t
+847088026764275169,Cozy Home in Heart of Columbus - Gym!,Neighborhood highlights,39.9710354,-82.9713047,Entire home/apt,Entire home,259,1,40,1.31,358,f,t
+848487697704786874,Bright Apartment close to THE OSU University,Neighborhood highlights,39.98728,-83.04649,Entire home/apt,Entire home,104,4,5,0.23,190,t,f
+849179625754725953,2 BR Totally Renovated and Chic,Neighborhood highlights,39.99073,-83.01358,Entire home/apt,Entire rental unit,117,1,42,1.75,360,t,f
+849340771125091455,Woodward Park Charmer - 2 Ba 5 Bed - Fenced yard,Neighborhood highlights,40.069692,-82.9854983,Entire home/apt,Entire home,235,1,15,0.6,149,f,f
+849926778795667204,Walkable German Village home w/ fenced yard,Neighborhood highlights,39.94401,-82.99301,Entire home/apt,Entire townhouse,112,21,87,2.87,333,f,t
+851580481804392486,Historic German Village Abode 1,Neighborhood highlights,39.9443075,-82.9921381,Entire home/apt,Entire home,86,2,49,1.71,259,f,f
+852148176404452449,Oak Street Rooftop - Columbus!,Neighborhood highlights,39.9626222,-82.9659683,Entire home/apt,Entire home,169,30,43,1.41,339,f,t
+852192989726014033,Luxurious Experience - Columbus!,Neighborhood highlights,39.9626172,-82.9658924,Entire home/apt,Entire home,199,1,20,0.69,341,f,t
+854385843218469095,Dublin Getaway - Near Columbus!,Neighborhood highlights,40.0824579,-83.0974068,Entire home/apt,Entire home,198,1,50,1.65,356,f,t
+855328293073646731,A dedicated workspace for digital nomads with pets,Neighborhood highlights,39.99756,-82.99664,Entire home/apt,Entire rental unit,73,1,142,4.68,56,t,f
+855391049223539513,"Dedicated workspace w/24"" monitor, lux king bed",Neighborhood highlights,39.99763,-82.99649,Entire home/apt,Entire rental unit,73,1,130,4.39,73,t,f
+855436457807788122,Centrally located studio; pet-friendly; workspace,Neighborhood highlights,39.99544,-82.99625,Entire home/apt,Entire rental unit,64,1,166,5.48,71,t,f
+856548105297158367,King Beds+Games | HUGE Downtown Retreat | Dogs ok,Neighborhood highlights,39.95644,-83.02677,Entire home/apt,Entire home,242,1,85,2.8,282,t,f
+856624018805207416,Historic German Village Abode 2,Neighborhood highlights,39.9443044,-82.9921738,Entire home/apt,Entire home,92,2,73,2.53,264,f,f
+857856824390795667,"Quiet Comfy 3Bd/2B Home w/Hot Tub, Deck & Fire Pit",Neighborhood highlights,39.9327256,-82.9068077,Entire home/apt,Entire home,158,1,91,3.05,345,t,f
+858225057313265991,New Albany / Westerville Home,Neighborhood highlights,40.10377,-82.85648,Entire home/apt,Entire home,131,105,2,0.09,204,f,f
+858490616076981896,Stunning 1 Bedroom near Short North,Neighborhood highlights,39.9868726,-83.0034668,Entire home/apt,Entire rental unit,84,2,68,2.35,152,f,t
+858490891657022095,Beautiful 1 Bedroom Steps From The Short North,Neighborhood highlights,39.9866624,-83.0034624,Entire home/apt,Entire rental unit,88,2,48,1.73,212,f,t
+858666475816778847,Stylish 1BD 1BA Near OSU Fairgrounds FREE Parking,Neighborhood highlights,39.9975749,-82.9986014,Entire home/apt,Entire rental unit,95,1,122,4.05,137,t,t
+859845313720748944,3 bed+2.5 bath townhome close to downtown,Neighborhood highlights,39.92995885189664,-82.9931119,Entire home/apt,Entire townhouse,70,31,37,1.23,300,f,f
+860192892447918862,Modern City Retreat - Free Parking,Neighborhood highlights,40.01615,-83.01121,Entire home/apt,Entire home,82,2,155,5.14,157,f,f
+860293477744397731,10 Min to Airport | Modern | Workspace | Unit D,Neighborhood highlights,39.962999,-82.9730686,Entire home/apt,Entire townhouse,108,2,141,4.8,256,f,f
+861512600863185997,Luxury 2-Bed in Grandview,Neighborhood highlights,39.9880784,-83.0325291,Entire home/apt,Entire rental unit,116,2,75,2.64,124,f,t
+863626267283261533,207B | Luxury 1 Bedroom Suite | Downtown Columbus,Neighborhood highlights,39.95814,-82.99961,Entire home/apt,Entire rental unit,139,1,30,1.01,0,t,f
+865518436368299093,Short North just off High | OSU |The Century House,Neighborhood highlights,39.98683219999999,-83.0080841,Entire home/apt,Entire home,249,2,101,3.44,331,t,f
+866921154124919032,218B | Pet friendly | Urban Retreat | DT CBUS,Neighborhood highlights,39.95838,-83.00069,Entire home/apt,Entire rental unit,137,1,40,1.37,0,t,f
+867571914944436749,Downtown Tranquil Stay w/ parking,Neighborhood highlights,39.9615,-83.03938,Entire home/apt,Entire townhouse,136,2,40,1.37,32,t,f
+868017239651041397,213B | Cozy DT Retreat | Gym + Bar + Coffee Shop,Neighborhood highlights,39.95763,-83.00077,Entire home/apt,Entire rental unit,137,1,18,0.61,0,t,f
+868140193939718649,110B | Cozy Winter Retreat DT Cbus,Neighborhood highlights,39.95759,-83.00096,Entire home/apt,Entire rental unit,133,1,27,0.91,57,t,f
+868145238674184699,214B | Luxury Studio Suite | Downtown Columbus,Neighborhood highlights,39.95628,-82.99962,Entire home/apt,Entire rental unit,136,1,28,0.97,0,t,f
+868148246033612548,210B | 1 Bedroom with Balcony | Downtown Columbus,Neighborhood highlights,39.95645,-83.00037,Entire home/apt,Entire rental unit,139,1,47,1.58,0,t,f
+868151495277954498,114B | Studio Suite with Patio | Downtown Columbus,Neighborhood highlights,39.95773,-83.00118,Entire home/apt,Entire rental unit,139,1,19,0.66,0,t,f
+868155449573971065,112B| Luxury Studio Suite |Downtown Columbus,Neighborhood highlights,39.95661,-83.00097,Entire home/apt,Entire rental unit,149,1,19,0.64,0,t,f
+871966357029094951,"Modern unit close to OSU, Downtown and Hospitals",Neighborhood highlights,39.9850341,-82.9805819,Entire home/apt,Entire rental unit,70,3,7,0.3,145,f,f
+874674970413679661,Carriage House @ The Manor,Neighborhood highlights,39.9659387,-82.9754623,Entire home/apt,Entire rental unit,82,1,104,3.54,214,t,t
+875611506436569047,New Loft-Quiet Spot- Private Deck-Driveway Parking,Neighborhood highlights,40.03896,-83.03128,Entire home/apt,Entire rental unit,145,60,66,2.3,96,t,f
+876868837471344495,Cozy & Stylish Apt  Grandview!,Neighborhood highlights,39.9908,-83.04391,Entire home/apt,Entire rental unit,85,30,8,0.31,346,t,f
+878180751245459080,Highland House: Three Private Rooms w/ Onsite Host,Neighborhood highlights,39.98435,-83.01104,Private room,Private room in home,212,3,6,0.63,63,f,f
+878769702660407466,New OTE home -4bds/2.5b-pets OK!,Neighborhood highlights,39.96561,-82.96709,Entire home/apt,Entire home,154,30,37,1.31,173,t,f
+878984772892729595,Luxury Living!  3-Story Home with Rooftop Patio!,Neighborhood highlights,39.9627354,-82.9661239,Entire home/apt,Entire home,420,30,38,1.33,365,f,t
+880393926641547118,The Sapphire Haus on Mohawk,Neighborhood highlights,39.9459,-82.99284,Entire home/apt,Entire townhouse,114,1,172,6.31,79,t,f
+880487461070262162,Luxury Room Rental - Denali - Walk to OSU,Neighborhood highlights,39.99238,-83.00185,Private room,Private room in home,48,30,2,0.15,313,f,f
+881809126151279642,"German Village Serenity, Steps to Schiller Park",Neighborhood highlights,39.9434587,-82.9945671,Entire home/apt,Entire home,242,2,88,3.17,68,t,t
+883984182238260534,Cozy 2-Bed Unit in Grandview,Neighborhood highlights,39.9880784,-83.0325291,Entire home/apt,Entire rental unit,111,2,58,2.22,146,f,t
+884063038772022297,Centrally located renovated home,Neighborhood highlights,39.94619,-82.96823,Entire home/apt,Entire home,113,2,60,2.06,5,t,t
+884199385545532892,Quaint One Bedroom Condo,Neighborhood highlights,39.95713,-83.08343,Entire home/apt,Entire condo,98,1,126,4.44,255,t,f
+886888483771202009,Fairgrounds Flat Located in across fairgrounds,Neighborhood highlights,39.99918,-82.98207,Entire home/apt,Entire home,138,30,11,0.39,259,f,f
+887098839860951962,Mohawk Flat - A Unique + Cozy Getaway,Neighborhood highlights,39.95277,-82.99263,Entire home/apt,Entire rental unit,97,1,200,7.14,209,t,t
+891531799849531219,"Cozy escape w/ Hot Tub, ideal for family & friends",Neighborhood highlights,39.95369,-82.96205,Entire home/apt,Entire home,191,2,174,6.22,251,t,f
+892768636901833330,Entire Duplex | Fenced Backyard | Garage | Grill,Neighborhood highlights,39.98256,-83.01099,Entire home/apt,Entire condo,344,2,12,0.44,344,t,f
+894301792450605374,Modern Long Stay 2BR | Walk-In Shower | No Steps,Neighborhood highlights,40.05884,-83.15776,Entire home/apt,Entire rental unit,180,30,1,0.07,365,t,f
+896966725478765365,2 Cozy Condos In The Heart Of Short North/OSU,Neighborhood highlights,39.9878,-83.01081,Entire home/apt,Entire condo,307,1,5,0.18,336,t,f
+899302351936193729,Quirky 1 BR Short North Loft w/ Private Courtyard,Neighborhood highlights,39.98335911555516,-83.00085494,Entire home/apt,Entire place,102,1,97,4.36,327,t,f
+902762021938728062,9 Min to Short North | Convenient & Cozy | Unit B,Neighborhood highlights,39.9629955,-82.9730703,Entire home/apt,Entire townhouse,91,2,89,3.38,262,f,f
+902822108997131593,The Duke of Dublin | Walk-In Shower | Gated!,Neighborhood highlights,40.05691,-83.15646,Entire home/apt,Entire rental unit,212,30,1,0.04,351,t,f
+908087584601677540,Franklin Conservatoire Mansion- Free Parking!,Neighborhood highlights,39.96722,-82.95393,Entire home/apt,Entire home,239,2,14,0.5,341,t,f
+908536416328015788,Stylish Getaway!-Columbus-3 Bedroom Masterpiece!,Neighborhood highlights,39.9519,-82.98677,Entire home/apt,Entire rental unit,279,2,25,0.91,5,f,t
+909368416669747709,Perfect Stay - 2 Bedrooms - Columbus!,Neighborhood highlights,39.9690838,-82.9726906,Entire home/apt,Entire home,154,1,25,0.91,337,f,t
+909429921312742309,Minutes to OSU - German Village Large & Luxurious,Neighborhood highlights,39.94142,-82.98813,Entire home/apt,Entire home,227,2,64,2.33,23,t,t
+910240546971267911,Home in Columbus - Grandview!,Neighborhood highlights,39.99586,-83.03005,Entire home/apt,Entire home,182,1,28,1.4,1,t,f
+911862107626766484,Castle style red brick house,Neighborhood highlights,39.94214,-82.95982,Entire home/apt,Entire home,135,3,17,0.7,251,t,f
+912365946070581653,The Clintonville Nest,Neighborhood highlights,40.02382,-83.01437,Entire home/apt,Entire rental unit,72,30,8,0.3,339,t,f
+912864011222281450,Work Of Art!-3 Bedroom Elegant Townhome-Columbus,Neighborhood highlights,39.94938,-82.98656,Entire home/apt,Entire rental unit,257,2,43,1.6,28,f,t
+913387860559577849,The Goodale Overlook - 2 Bed 3 Bath,Neighborhood highlights,39.97482,-83.00949,Entire home/apt,Entire rental unit,151,1,37,1.33,353,f,t
+913827695030964354,Luxury 1 Bedroom in Grandview,Neighborhood highlights,39.9880784,-83.0325291,Entire home/apt,Entire rental unit,89,2,59,2.32,86,f,t
+913829924242302587,Cozy 2-Bed Near OSU Campus,Neighborhood highlights,40.023858,-83.0287377,Entire home/apt,Entire rental unit,73,2,62,2.32,234,f,t
+914621090122165675,Spacious Studio - Historic Woodland,Neighborhood highlights,39.96834,-82.95432,Entire home/apt,Entire rental unit,73,2,10,0.39,339,t,f
+915081033862875838,Newly Remodel Near Downtown 4 Bedroom/GAME ROOM!,Neighborhood highlights,39.9562329,-82.95631314,Entire home/apt,Entire home,98,21,8,0.3,247,f,t
+915892791792699682,The Goodale Retreat - 2 BR 2Bath,Neighborhood highlights,39.9748239,-83.009485,Entire home/apt,Entire rental unit,127,1,22,0.84,351,f,t
+915952871960587476,Chic | Townhome | Fenced Yard | Columbus | NCH,Neighborhood highlights,39.93321,-82.98348,Entire home/apt,Entire townhouse,111,30,5,0.2,357,t,f
+915965419896138976,Updated | Townhome | Columbus | NCH,Neighborhood highlights,39.93353,-82.98189,Entire home/apt,Entire townhouse,111,30,6,0.23,268,t,f
+916472903840948641,The Cozy Cape Cod,Neighborhood highlights,40.02054,-82.98912,Entire home/apt,Entire home,197,2,47,1.89,70,f,t
+916905348666918959,Tranquil Dublin Bungalow 4 min from Bridgepark,Neighborhood highlights,40.08367,-83.10207,Entire home/apt,Entire home,327,3,100,3.83,287,t,t
+918038315299588841,The Slate Estate,Neighborhood highlights,39.98742,-83.00118,Entire home/apt,Entire home,435,2,26,0.99,265,t,f
+918602397876885114,A Smooth Penthouse,Neighborhood highlights,39.9642762,-82.9977787,Entire home/apt,Entire loft,106,30,10,0.4,356,t,f
+918760807123795229,Highland House Columbus,Neighborhood highlights,39.98074,-83.01105,Entire home/apt,Entire home,128,30,35,1.32,358,t,f
+920437919845558849,The City Cottage - Unique and Cozy,Neighborhood highlights,39.95834,-83.02548,Entire home/apt,Entire home,89,1,35,1.31,365,f,t
+922762159799418019,Full House mins to NCH & OSU!,Neighborhood highlights,39.9458,-82.95698,Entire home/apt,Entire home,205,30,16,0.71,265,t,f
+923130742740778032,204B | Luxury Studio Suite | Downtown Columbus,Neighborhood highlights,39.9583,-83.00046,Entire home/apt,Entire rental unit,142,1,25,0.95,0,t,f
+923842161427320194,203B | Urban Escape with Gym + Coffee Shop + Bar,Neighborhood highlights,39.95726519999999,-83.0000025,Entire home/apt,Entire rental unit,136,1,27,1.04,0,t,f
+923862826124666095,117B | Luxury Studio Suite | Downtown Columbus,Neighborhood highlights,39.95761,-82.99937,Entire home/apt,Entire rental unit,138,1,19,0.75,0,t,f
+923880283490901188,Beechwold Retreat - Clean & Conveniently located,Neighborhood highlights,40.05591,-83.01738,Entire home/apt,Entire home,98,2,91,3.71,148,t,f
+924827246152456894,Stunning 1 Bedroom Luxury unit with a Pool,Neighborhood highlights,39.9880784,-83.0325291,Entire home/apt,Entire rental unit,132,2,46,1.75,176,f,t
+928812508638916200,Relaxing Royal York Apartment,Neighborhood highlights,39.96661,-82.96212,Entire home/apt,Entire rental unit,153,2,1,0.04,363,f,f
+929209590515316487,The Hideout - Centrally Located!,Neighborhood highlights,39.96285,-82.96919,Entire home/apt,Entire guesthouse,101,2,40,1.54,236,f,t
+930398265352256729,Convenient Stay Downtown! Pets are Welcome!,Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,235,1,45,2.42,288,f,t
+930400753690271402,"You Found it! Pet-Friendly, Near Victorian Village",Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,256,1,1,0.07,299,f,t
+930409809868801463,Vacation is Calling! Pets are Welcome Here!,Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,50028,1,4,0.24,303,f,t
+930412199737112272,Affordable Getaway! Pets are Allowed Here!,Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,40028,1,1,0.17,302,f,t
+930424044162950990,Look No More! Pets are Welcome Here!,Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,50028,1,1,0.07,273,f,t
+930449600936947428,Enjoy 2 Posh Units Downtown! Pet are Welcome Here!,Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,469,1,4,0.15,287,f,t
+932625493336905975,The Schumacher Townhouse - 2 BR,Neighborhood highlights,39.9481495,-82.9874882,Entire home/apt,Entire rental unit,116,30,14,0.58,330,f,t
+932720775859019827,2-story 2/1 Apt under a mile to 161 & 71!,Neighborhood highlights,40.08512,-82.99325,Entire home/apt,Entire townhouse,76,1,46,1.74,259,f,t
+934031622043036425,"Brick & Loft, 5 bed Home, Historic German Village",Neighborhood highlights,39.9521475,-82.9947022,Entire home/apt,Entire home,138,2,85,3.2,87,t,t
+937878995069105160,Brickhaus 5 BED HOME,Neighborhood highlights,39.9521084,-82.9946523,Entire home/apt,Entire home,164,2,95,3.66,79,t,t
+939029791087461992,Comfortable & Roomy - Work & Family Friendly for 7,Neighborhood highlights,40.06347,-83.01564,Entire home/apt,Entire home,136,1,94,3.58,350,t,f
+939330399199054418,Stylish Loft with King Bed - Two Parking Spots,Neighborhood highlights,39.952526787172346,-82.99384798,Entire home/apt,Entire condo,157,2,232,8.92,290,t,f
+940742751283035683,Bamboo Retreat- Private Parking -New Reno -Central,Neighborhood highlights,39.97708,-83.00854,Entire home/apt,Entire home,129,2,103,3.92,171,f,t
+940791821179003946,Cozy Condo On Collins- Walk to High St /Dtown /OSU,Neighborhood highlights,39.97734,-83.00905,Entire home/apt,Entire rental unit,103,2,80,3.03,166,f,t
+941538521675757727,The Schumacher Place - NEW 2 BR,Neighborhood highlights,39.94815,-82.98749,Entire home/apt,Entire rental unit,90,1,24,1.36,329,f,t
+942572391777300138,Northmoor Manor,Neighborhood highlights,40.03526,-83.0167,Entire home/apt,Entire home,424,2,21,0.87,173,t,f
+942731492474298817,Luxury close to Children’s Hospital,Neighborhood highlights,39.94436,-82.99466,Entire home/apt,Entire home,518,1,35,1.34,76,t,f
+943571170965013472,Winterfell Wonderland with dedicated work space,Neighborhood highlights,39.9133,-82.84003,Private room,Private room in home,66,30,17,0.66,357,f,t
+944824864691631646,Big City Living at its Best!,Neighborhood highlights,39.9686936,-82.9664061,Entire home/apt,Entire rental unit,79,1,28,1.07,353,f,t
+945657712977559613,Winterfell - Duplex close to OSU/Short North,Neighborhood highlights,39.99421,-82.99793,Entire home/apt,Entire townhouse,115,2,68,2.6,357,t,f
+946414038990710540,Charming Master Suite,Neighborhood highlights,39.91492,-82.83995,Private room,Private room in home,89,14,12,0.49,363,f,f
+947819719454058769,Cozy Home in Short North! Walk to Downtown & OSU,Neighborhood highlights,39.98307954949509,-83.00525309,Entire home/apt,Entire home,231,1,59,2.51,14,t,f
+949876579577092106,Luxury 3-Bed Near Downtown,Neighborhood highlights,39.9880784,-83.0325291,Entire home/apt,Entire rental unit,141,2,71,2.8,154,f,t
+951641799898716422,Sweet dreams at Moochies,Neighborhood highlights,40.0430287,-82.98756402,Entire home/apt,Entire home,192,2,40,1.62,340,t,f
+953063462062138731,Dublin Columbus Border,Neighborhood highlights,40.0800019,-83.0950923,Entire home/apt,Entire home,144,2,94,3.92,311,t,f
+953870937247740245,Modern 2BR | Driveway Parking | Near Hospitals/OSU,Neighborhood highlights,39.98612,-82.98129,Entire home/apt,Entire rental unit,68,28,7,0.39,88,f,f
+957239844877017510,3-BR patio haven near downtown,Neighborhood highlights,40.0108,-82.98491,Entire home/apt,Entire home,147,1,50,1.99,179,t,t
+957434081965264478,German Village Gem: Steps from Schiller Park!,Neighborhood highlights,39.94433,-82.99117,Entire home/apt,Entire rental unit,84,2,109,4.34,214,t,f
+957467349665434367,The Willem:  Steps from Schiller Park!,Neighborhood highlights,39.945,-82.99073,Entire home/apt,Entire rental unit,121,2,115,4.79,213,t,f
+958007203112979812,The Loft @ Columbus Center 3,Neighborhood highlights,39.96354,-82.97415,Entire home/apt,Entire loft,111,2,9,0.38,0,f,t
+958777052959752322,Modern Luxury in Downtown Cbus,Neighborhood highlights,39.96539775613214,-82.96467198,Entire home/apt,Entire home,843,2,61,2.42,340,f,t
+959235036781400144,Hancock | Near OSU Riverside w Tennis Court & Pool,Neighborhood highlights,40.05063,-83.04672,Entire home/apt,Entire rental unit,56,28,1,0.07,351,f,f
+959487404093717085,"Relax and Recharge! Pet-Friendly, 4 Comfy Units!",Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,938,1,1,0.05,287,f,t
+960901813112339381,"Fire Pit, Fenced-in Yard, Grill: Cozy Ohio Retreat",Neighborhood highlights,40.06455,-82.95921,Entire home/apt,Entire home,161,30,9,0.35,332,f,t
+961532188048835193,3 Bdrm House Near Easton Mall & CMH,Neighborhood highlights,40.01449,-82.94995,Entire home/apt,Entire home,87,30,1,0.05,168,f,f
+962540272674976477,"Home near Easton/Airport, 3BR. Fenced yard.",Neighborhood highlights,40.04401998618901,-82.90110691,Entire home/apt,Entire home,126,2,81,3.18,333,t,f
+962813077514002260,Swim & Stay | Luxury 90 Degree Heated Private Pool,Neighborhood highlights,39.98101647,-83.00732587,Entire home/apt,Entire townhouse,252,2,132,5.4,294,t,f
+964399464031971484,Lovely Blue Boho 1BR Suite - Columbus!,Neighborhood highlights,39.9566145,-82.9941023,Entire home/apt,Entire rental unit,84,1,38,1.51,355,f,t
+965459385920887847,Urban Stay w/Game Room | 15 Min to OSU Stadium,Neighborhood highlights,40.08248,-82.9697,Entire home/apt,Entire home,102,1,59,2.64,235,t,f
+965982977344617939,Schiller Park Cottage!,Neighborhood highlights,39.9403891,-82.9926779,Entire home/apt,Entire home,140,1,103,4.1,329,f,t
+966133844316770426,2 br Cute Cozy 1st floor flat,Neighborhood highlights,39.94298,-82.90565,Entire home/apt,Entire rental unit,60,30,21,0.86,337,f,f
+966540947395448010,"Clintonville Guest Room- Central, Quiet, Parking",Neighborhood highlights,40.04796,-83.0114,Private room,Private room in home,64,2,17,0.75,11,t,f
+968839499173642645,Luxury Home | Walk to OSU | Private Yard | Garage,Neighborhood highlights,39.9859982,-83.0181584,Entire home/apt,Entire home,362,2,65,2.58,337,t,f
+970182752951735803,215B | Welcome Home! Enjoy Onsite Gym +Coffee +Bar,Neighborhood highlights,39.95804,-82.99883,Entire home/apt,Entire rental unit,116,1,16,0.67,0,t,f
+973364499308062113,Room in Historic grand home!{1},Neighborhood highlights,39.97072,-82.97069,Private room,Private room in home,28,30,4,0.28,186,t,t
+973414509698518148,Sams Spot II - Renovated 1915 Home + Porch & Patio,Neighborhood highlights,39.99282,-82.99856,Entire home/apt,Entire home,163,1,57,2.43,226,t,t
+973861723913358454,German Village Haus - Pets Allowed!,Neighborhood highlights,39.94547,-82.99712,Entire home/apt,Entire rental unit,99,1,154,6.31,332,t,t
+973893384059275698,MCM Cottage Bliss,Neighborhood highlights,39.93687,-82.99137,Entire home/apt,Entire home,175,3,84,3.96,331,t,f
+973943887854744080,The Vintage Getaway - 3 Bedrooms - Columbus!,Neighborhood highlights,39.9387028,-82.9877063,Entire home/apt,Entire home,78,30,16,0.69,344,f,t
+974068499677194885,"Downtown, 3 BR, 2 ba, garage, fenced backyard",Neighborhood highlights,39.9503353,-83.0297295,Entire home/apt,Entire home,136,25,105,4.25,266,t,t
+975303568996017786,Oakwood South-3BR|1BA|Townhouse|Near OSU|Downtown,Neighborhood highlights,39.94056,-82.97012,Entire home/apt,Entire townhouse,87,30,3,0.14,31,t,f
+975351118954538482,Spacious 4BR w/ Game Room & Yard Walk to OSU,Neighborhood highlights,39.98884,-82.99685,Entire home/apt,Entire home,209,2,52,2.11,344,t,t
+975916196270361223,Entire Central Columbus Home!,Neighborhood highlights,40.0917754,-82.9797456,Entire home/apt,Entire home,243,2,47,2,244,t,f
+976985760502371914,Satis Sage by TyKen - 5 Mins from CMH/Downtown CO,Neighborhood highlights,40.00043,-82.94305,Entire home/apt,Entire home,179,2,3,0.16,89,t,f
+978432496691750135,Fenced in Private Yard in Harrison West Near OSU,Neighborhood highlights,39.9822,-83.01798,Entire home/apt,Entire home,169,2,57,2.32,66,t,f
+979984900948863617,Secluded Downtown Hideout,Neighborhood highlights,39.96517,-82.9937,Entire home/apt,Entire home,93,30,8,0.38,210,f,f
+981035540987288563,The Dazzling Star! Two minute walk to High Street!,Neighborhood highlights,39.98269,-83.00571,Entire home/apt,Entire rental unit,86,2,76,3.21,239,f,t
+982821976155452928,"The Lola | Walk To Campus, Gym, Massage Chair",Neighborhood highlights,39.98815,-83.01219,Entire home/apt,Entire townhouse,252,1,93,4.37,345,t,f
+983354705101707252,Pinball House | Pet-Friendly | Quiet Neighborhood,Neighborhood highlights,40.06808,-82.98915,Entire home/apt,Entire home,129,2,20,0.97,180,t,f
+984042867215828288,The Short North Star! Two Bed with Free Parking!,Neighborhood highlights,39.98239,-83.00701,Entire home/apt,Entire rental unit,79,1,114,4.72,215,f,f
+985383099252247950,Simple and cozy…,Neighborhood highlights,40.1313622,-82.9816611,Private room,Private room in home,58,1,35,1.62,149,t,f
+985539279495224104,The Polish House - Quiet - Central - 2BR - W/D,Neighborhood highlights,40.05937,-83.00293,Entire home/apt,Entire home,84,2,116,5.45,203,t,t
+985621537560195587,Contemporary Vintage Home (Near Downtown!),Neighborhood highlights,39.9598584,-82.9663518,Entire home/apt,Entire home,99,30,66,2.73,250,f,t
+985662827893320139,Secluded Room Walkable To OSU Campus & Med Center!,Neighborhood highlights,39.9916539,-83.011274,Private room,Private room in home,49,3,91,3.74,275,t,t
+986429670915287438,"Stylish 3BR Near OSU, Downtown, & Fairground",Neighborhood highlights,39.99429,-82.98113,Entire home/apt,Entire home,141,2,68,2.81,31,t,f
+986696522261275729,Excellent Location Downtown! Pet-Friendly!,Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,50028,1,5,0.63,289,f,t
+986696523398010089,Close to Attractions! Near Jack Nicklaus Museum,Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,50028,1,45,1.97,289,f,t
+986696530694898208,"Best Value, Quality Stay! Pets are Welcome",Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,50028,1,3,0.13,289,f,t
+986832328739862184,Room in Historic grand home!{3},Neighborhood highlights,39.9705,-82.97012,Private room,Private room in home,25,30,5,0.21,260,t,t
+986833933947399359,Room in Historic grand home! {2},Neighborhood highlights,39.97253,-82.9724,Private room,Private room in home,26,30,8,0.35,364,t,t
+986872937508140508,219B | The Urban Retreat |  Downtown Columbus,Neighborhood highlights,39.9564,-83.00021,Entire home/apt,Entire rental unit,118,1,47,1.96,0,t,f
+986979705927245677,Schwartz Castle German Village,Neighborhood highlights,39.9523443,-82.9957032,Entire home/apt,Entire home,429,2,21,1.33,278,t,t
+987768539902298256,LUXE Vic Village Townhouse,Neighborhood highlights,39.977873,-83.010399,Entire home/apt,Entire townhouse,225,2,33,1.37,332,t,t
+989038362486288531,Entire Flat | Garage | Fenced Yard | Columbus,Neighborhood highlights,40.06117,-82.98469,Entire home/apt,Entire home,93,30,4,0.22,266,t,f
+990603466708884600,Downtown Columbus Condo | Sleeps 12 + Arcade,Neighborhood highlights,39.94708,-82.9802,Entire home/apt,Entire condo,135,1,109,4.55,356,f,f
+993221707757696262,Downtown Holiday Spree! Pets are Welcome!,Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,235,1,15,0.66,288,f,t
+993225924633790282,2 Posh Pet-Friendly Units! Holiday in Downtown!,Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,469,1,2,0.13,287,f,t
+993229892368136350,3  Pet-Friendly Units With Garden!,Neighborhood highlights,39.96874,-83.00042,Private room,Room in hotel,704,1,1,0.05,287,f,t
+994396974744536316,The Columbus Haven-Near OSU & Downtown,Neighborhood highlights,40.013158,-83.0107582,Entire home/apt,Entire rental unit,124,1,102,4.27,255,f,t
+994933097197827770,Bespoke Short North Oasis-FLAT,Neighborhood highlights,39.97967,-83.00133,Entire home/apt,Entire rental unit,117,1,122,5.39,301,t,f
+994986930531393975,Quiet&Cozy 2 Bed Condo Flat  @N. Cbus/ Worthington,Neighborhood highlights,40.12011,-82.99796,Entire home/apt,Entire condo,85,30,7,0.46,145,t,f
+995459862733845360,3rd Ave Cottage - Close to Short North & Downtown,Neighborhood highlights,39.98237,-82.99889,Entire home/apt,Entire home,146,2,46,2.14,342,t,f
+999904964651182196,Charming One Bedroom Condo,Neighborhood highlights,39.95745,-83.08187,Entire home/apt,Entire condo,104,1,76,3.37,259,t,f
+1000637489089938969,201B | Urban Retreat | Lux Suite Downtown Columbus,Neighborhood highlights,39.95772,-83.00115,Entire home/apt,Entire rental unit,120,1,18,0.77,0,t,f
+1000645092029118307,Jaeger Haus - Amazing Home in German Village!,Neighborhood highlights,39.9391601,-82.9909226,Entire home/apt,Entire home,150,1,35,1.48,350,f,t
+1000668440001376713,212B | The Urban Suite | Downtown Columbus,Neighborhood highlights,39.95766,-83.00111,Entire home/apt,Entire rental unit,117,1,20,0.86,0,t,f
+1000673788459291069,"113B | DT CBUS, Gym, Bar & Coffee Shop Onsite",Neighborhood highlights,39.95617,-82.99885,Entire home/apt,Entire rental unit,121,1,27,1.16,0,t,f
+1000689168190754679,Modern | 2BR | Balcony | Columbus | NCH,Neighborhood highlights,39.95004,-82.96588,Entire home/apt,Entire rental unit,96,30,2,0.1,272,t,f
+1000698440077684219,119B | Luxury Studio Suite | Downtown Columbus,Neighborhood highlights,39.95704,-83.00092,Entire home/apt,Entire rental unit,118,1,45,1.93,0,t,f
+1000707959897804625,217B | Luxury Studio Suite | Downtown Columbus,Neighborhood highlights,39.95751,-83.00047,Entire home/apt,Entire rental unit,116,1,23,0.99,0,t,f
+1002050102537738382,The Grant Cottage | German Village at Nationwide,Neighborhood highlights,39.95253,-82.98912,Entire home/apt,Entire home,133,2,91,3.91,355,t,f
+1004232618213343403,4 Bed Duplex near Goodale Park,Neighborhood highlights,39.97843760000001,-83.0073988,Entire home/apt,Entire home,198,1,21,0.93,323,t,f
+1005143918393424325,Franklin Manor-Columbus Downtown Luxury Estate.,Neighborhood highlights,39.96298,-82.98119,Entire home/apt,Entire home,255,2,34,1.44,28,f,t
+1005159506219920967,Hudson Cottage | Fast WiFi!,Neighborhood highlights,40.01446,-83.01237,Entire home/apt,Entire home,85,2,37,1.62,172,t,f
+1005426283027706943,Modern Luxury in Columbus (Near Downtown & OSU),Neighborhood highlights,40.01316,-83.01076,Entire home/apt,Entire rental unit,100,1,81,3.44,251,f,t
+1006451287253672190,NEW Cozy 1-Bdrm.- Merion/German Village Area,Neighborhood highlights,39.93821,-82.98891,Entire home/apt,Entire rental unit,81,30,6,0.42,303,t,f
+1006566499292229260,Bill Murray - Private Home Near OSU,Neighborhood highlights,40.0137426,-83.0056125,Entire home/apt,Entire home,127,2,67,2.89,349,t,f
+1008747285380530881,Spacious home w/fenced yard & big rooms!,Neighborhood highlights,40.02826,-82.96781,Entire home/apt,Entire home,80,30,3,0.15,139,t,t
+1010072811149643246,Spacious Home| 4 BD | Columbus | Close to NCH,Neighborhood highlights,39.94492293618888,-82.97744542,Entire home/apt,Entire home,122,30,4,0.19,243,t,f
+1010164903879634380,The Buckeye Retreat Mansion,Neighborhood highlights,39.96387,-82.97557,Entire home/apt,Entire home,403,2,45,2,24,f,t
+1010355347225381175,Entire Flat | Fenced Yard | Pet Friendly |OSU,Neighborhood highlights,40.06542,-83.01217,Entire home/apt,Entire rental unit,95,30,1,1,236,t,f
+1010375066101030956,Entire Flat|Fenced Yard|Pet Friendly|Columbus,Neighborhood highlights,40.06495,-83.01256,Entire home/apt,Entire rental unit,107,30,5,0.25,176,t,f
+1010745188662673741,Boho Home | Backyard | Garage | Columbus,Neighborhood highlights,40.04419,-82.99201,Entire home/apt,Entire home,103,30,10,0.46,177,t,f
+1011026079111525894,Historic Home | German Village | Schiller Park,Neighborhood highlights,39.94391,-82.99008,Entire home/apt,Entire home,170,2,91,4.04,340,t,f
+1013071520861370385,3BR Home | Short North | Huge Yard & Free Parking,Neighborhood highlights,39.98033,-83.00094,Entire home/apt,Entire home,206,2,52,2.3,50,t,f
+1013199715209334308,"OSU/High St/Riverside, King Bed C, Memory Foam",Neighborhood highlights,40.012771371552624,-83.00693393,Private room,Private room in home,54,1,80,3.53,261,t,f
+1013593143869389330,Kate’s Quaint Place - near airport!,Neighborhood highlights,39.98243,-82.93251,Private room,Private room in home,45,2,72,4.19,76,t,f
+1013885252416005167,"Cozy Clintonville Cottage-near OSU-sleeps 6, pets!",Neighborhood highlights,40.0242189,-83.0120214,Entire home/apt,Entire home,173,1,74,3.44,339,t,f
+1018254345364473380,Cozy Home: A Modern Luxe Getaway,Neighborhood highlights,39.9450358,-82.9565529,Entire home/apt,Entire home,123,2,54,2.63,107,t,f
+1022352121310169036,"OSU/High St/Riverside, Queen Bed B, Memory Foam",Neighborhood highlights,40.01268350000001,-83.006884,Private room,Private room in home,54,1,74,3.27,270,t,f
+1023247849940036238,Contemporary Downtown Condo,Neighborhood highlights,39.96676,-82.95868,Entire home/apt,Entire condo,95,30,5,0.23,269,t,f
+1023326356984408752,German Village Gem: Cozy Luxury & Hot Tub Haven,Neighborhood highlights,39.95157,-82.9914,Entire home/apt,Entire home,228,1,88,3.87,300,t,f
+1023559857080016093,Private Minimalist Queen Room mins to NCH & OSU,Neighborhood highlights,39.94727,-82.95662,Private room,Private room in home,36,30,17,0.77,365,t,t
+1025587787558580894,"Affordable, Entire Home 2-BR w/ Office space",Neighborhood highlights,39.99395,-82.9643,Entire home/apt,Entire home,83,2,66,2.94,29,f,t
+1026295083694267850,The Maynard Manor,Neighborhood highlights,40.01039,-83.00439,Entire home/apt,Entire home,185,1,24,1.13,350,f,t
+1028299148230061484,Charming 2BR House Near DT Cbus W/Driveway + Patio,Neighborhood highlights,39.96138464739451,-82.97433285,Entire home/apt,Entire home,153,2,129,5.76,260,t,f
+1028499663346119208,Calm Clean Stylish Multi-level House,Neighborhood highlights,39.95105,-82.90528,Entire home/apt,Entire home,221,1,14,0.66,173,t,f
+1030039930904491020,The Bliss Lodge - Large House,Neighborhood highlights,39.9828975,-82.9661809,Entire home/apt,Entire home,117,30,3,0.22,361,f,t
+1031414472613577486,C-bus cozy corner,Neighborhood highlights,39.957935,-82.9658049,Entire home/apt,Entire rental unit,74,2,53,2.47,159,f,f
+1031948067039834799,An Urban Canopy Beautiful Private Short North Stay,Neighborhood highlights,39.97553,-83.01029,Entire home/apt,Entire home,150,30,4,0.36,29,f,f
+1032032233114495990,4 Bedroom | Hosts 10 | Near OSU + Downtown CBUS,Neighborhood highlights,39.98901,-83.04282,Entire home/apt,Entire home,262,2,123,5.6,344,f,t
+1032097923035397796,2 Bedroom | Hosts 7 | Near OSU + Downtown CBUS,Neighborhood highlights,39.98854,-83.04215,Entire home/apt,Entire home,127,2,96,4.47,346,f,t
+1032115738396758169,2 Bedroom | Hosts 5 | Near OSU + Downtown CBUS,Neighborhood highlights,39.98737,-83.04232,Entire home/apt,Entire home,136,2,89,4.02,333,f,t
+1032771043907309654,Shine Retreat - Private parking - Newly Reno - OSU,Neighborhood highlights,39.98851,-83.01416,Entire home/apt,Entire rental unit,113,2,59,2.64,168,f,t
+1032896610708912618,Private Queen Star Room w/Bathroom mins to NCH/OSU,Neighborhood highlights,39.94605,-82.95654,Private room,Private room in home,45,30,22,1.02,365,t,t
+1033928334130904857,The Cozy Italian Village Home : Business & Leisure,Neighborhood highlights,39.98518,-83.00321,Entire home/apt,Entire home,154,2,22,1.06,51,t,t
+1034889928518600446,The Goodale House - 2 Units - 4 BR 5 Bath,Neighborhood highlights,39.9748239,-83.009485,Entire home/apt,Entire home,300,1,13,0.63,347,f,t
+1036955093788118653,Vic Village Townhome,Neighborhood highlights,39.97944,-83.0118,Entire home/apt,Entire home,198,2,42,2.2,357,t,f
+1042001009753226995,Brewery District Backyard Carriage House,Neighborhood highlights,39.94476,-82.99914,Entire home/apt,Entire guesthouse,186,2,33,1.52,335,t,f
+1042946149352993217,OSU - Heart of Short North -STEPS from High ST-OSU,Neighborhood highlights,39.9815,-83.00343,Entire home/apt,Entire rental unit,67,2,69,3.33,173,f,t
+1044241905275430236,Dream Stay on Tulane,Neighborhood highlights,40.0245,-83.01474,Entire home/apt,Entire rental unit,83,2,48,2.61,360,t,t
+1045804234745941340,Bexley Park Modern Retreat House,Neighborhood highlights,39.9594885,-82.9226499,Entire home/apt,Entire home,162,3,66,3.12,236,t,t
+1049321808426470650,Clintonville Ravine Nest - 1Bdrm w. Parking!,Neighborhood highlights,40.02459,-83.01533,Entire home/apt,Entire rental unit,98,2,19,1.05,331,t,t
+1049942339875993839,Private Village Bungalow for 4,Neighborhood highlights,39.93582,-82.99072,Entire home/apt,Entire home,129,30,1,0.06,64,f,f
+1050779434845417289,"Mediterranean Style Home Close to OSU, EXPO, DWNTN",Neighborhood highlights,39.99621,-82.99655,Entire home/apt,Entire townhouse,275,1,56,2.8,344,t,f
+1050891506070222361,I Love Living in the City 4 Bed 2.5 Bathroom,Neighborhood highlights,39.97027,-82.97197,Entire home/apt,Entire home,95,30,1,0.75,286,f,f
+1050943391481121624,Cozy and quiet historic home 1200,Neighborhood highlights,40.0029,-82.97524,Entire home/apt,Entire home,68,30,2,0.11,334,f,f
+1050950163818205288,Jewel in Woodland Park 1630,Neighborhood highlights,39.97773,-82.95823,Entire home/apt,Entire home,88,30,1,0.07,330,f,f
+1050958421410126392,101A 80 Governors place,Neighborhood highlights,39.96857,-82.96781,Entire home/apt,Entire rental unit,65,30,6,0.44,307,f,f
+1051436118610544517,Modern 2 Bed Apartment in the Heart of Columbus,Neighborhood highlights,39.9998213,-82.9996407,Entire home/apt,Entire rental unit,135,1,51,2.54,84,f,t
+1051508716679710617,Extended Stay Elegance for Eight,Neighborhood highlights,39.97094,-82.9733,Entire home/apt,Entire home,97,30,3,1.01,238,f,f
+1052161408967761461,Holtz Häusle | Cozy Apartment in the Woods,Neighborhood highlights,40.04676,-83.01522,Entire home/apt,Entire guesthouse,180,2,91,4.3,318,f,f
+1053696263915202142,Spacious - Pets Welcome- City View- Family Home,Neighborhood highlights,39.9727915,-82.9818493,Entire home/apt,Entire home,156,1,84,3.94,85,t,t
+1055919542031086408,The Modern True Urban Loft—Downtown Columbus,Neighborhood highlights,39.9648135,-82.9982003,Entire home/apt,Entire rental unit,108,30,2,0.12,262,f,f
+1061253621725360803,The Top of the Stairs: Chic Loft on 3rd Ave,Neighborhood highlights,39.98383,-83.00662,Entire home/apt,Entire loft,85,1,37,1.8,358,t,f
+1063180941306645465,The Perfect Perch Over The Short North,Neighborhood highlights,39.97369,-83.00382,Entire home/apt,Entire rental unit,95,2,34,1.67,257,f,f
+1063867934736203162,Secluded Ravine Retreat near OSU & Short North,Neighborhood highlights,40.02862,-83.00193,Entire home/apt,Entire home,240,2,52,2.9,229,t,f
+1065195635345518376,Serenity & the City,Neighborhood highlights,39.96159,-82.9606,Entire home/apt,Entire home,100,2,26,1.28,113,t,f
+1066038263128788988,Fancy retreat near Bridge Park: 3BR/2.5BA/2Car Gar,Neighborhood highlights,40.08412,-83.10871,Entire home/apt,Entire home,201,2,59,3.22,95,t,f
+1067458948620354917,293) Perfect for larger groups!+HotTub!,Neighborhood highlights,39.95193,-82.97161,Entire home/apt,Entire home,206,3,9,0.71,303,f,t
+1068874817068116201,3BR/1BA with Workspace Near Nationwide/Downtown,Neighborhood highlights,39.93343,-82.97081,Entire home/apt,Entire home,69,30,3,0.2,144,t,f
+1069822385199293607,Modern Oasis in Columbus’ Top Neighborhood,Neighborhood highlights,39.93836,-82.99315,Entire home/apt,Entire home,79,1,75,3.87,322,t,f
+1075324744999975064,Luxury 2-Bed in Grandview,Neighborhood highlights,39.9879922,-83.0333359,Entire home/apt,Entire rental unit,111,2,45,2.32,127,f,t
+1075407513838638286,Near OSU 2 bed!,Neighborhood highlights,39.9998213,-82.9996407,Entire home/apt,Entire rental unit,86,2,38,1.99,170,f,t
+1075408644092935137,2 Bedroom on 4th St and 15th Ave,Neighborhood highlights,39.9998213,-82.9996407,Entire home/apt,Entire rental unit,95,2,46,2.41,155,f,t
+1076203600479969646,Chic | Trendy | Short North | Downtown Columbus,Neighborhood highlights,39.98235,-83.00481,Entire home/apt,Entire rental unit,201,2,63,3.14,241,t,t
+1080358827134771209,Just listed! Two bedroom on OSU campus,Neighborhood highlights,39.9998213,-82.9996407,Entire home/apt,Entire rental unit,95,2,31,1.58,154,f,t
+1080365860633776411,Luxury 2-Bed 2-Bath in Grandview,Neighborhood highlights,39.9871072,-83.0341657,Entire home/apt,Entire rental unit,109,2,54,2.8,153,f,t
+1081286947929287594,Merion Village House Near Downtown,Neighborhood highlights,39.92791,-82.98915,Entire home/apt,Entire home,81,30,3,0.17,348,f,f
+1081378780724668071,Independent   Private Bathroom,Neighborhood highlights,40.06213,-82.98454,Private room,Private room in home,45,4,9,0.61,75,t,f
+1082742803974617989,Housepitality - The Mint Julep House,Neighborhood highlights,39.951832,-83.023621,Entire home/apt,Entire home,176,1,10,0.6,356,f,t
+1082816364378752347,The Urban Roost - 2 BR 2 Bath 4 Beds,Neighborhood highlights,39.95372,-83.02169,Entire home/apt,Entire townhouse,156,1,16,0.9,269,f,t
+1086938456692031355,Luxury Rose Manor - Perfect for Bachelorettes!,Neighborhood highlights,39.9789252,-83.0007382,Entire home/apt,Entire home,376,1,53,2.69,325,f,t
+1086971444484268092,Short North Clubhouse w/Hot Tub! Free Parking!,Neighborhood highlights,39.9792205,-83.0016617,Entire home/apt,Entire home,374,1,62,3.13,330,f,t
+1087920044712265035,Modern Luxury 4BR/3.5BA Oasis in Historic Old Town,Neighborhood highlights,39.9650775,-82.9620875,Entire home/apt,Entire home,212,1,17,0.87,108,f,t
+1087932618843031801,Stylish 4BR in Merion Village PD,Neighborhood highlights,39.9345662,-82.9938205,Entire home/apt,Entire home,224,1,27,1.42,329,f,t
+1089235368307641101,1mi to Nationwide | NEW |free parking,Neighborhood highlights,39.94554,-82.98482,Entire home/apt,Entire rental unit,66,30,2,0.11,146,t,f
+1089866577152241887,Mozart Flat with Hot Tub! Free Parking!,Neighborhood highlights,39.9806612,-83.003593,Entire home/apt,Entire home,152,1,50,2.65,353,f,t
+1089876562265305934,Moxie Flat / High Street / Free Parking!,Neighborhood highlights,39.9806612,-83.003593,Entire home/apt,Entire rental unit,121,1,19,1.03,358,f,t
+1090520693342195530,Beautiful renovated ranch in Columbus,Neighborhood highlights,40.04047,-82.97415,Entire home/apt,Entire home,152,1,17,0.89,246,t,f
+1092224182211603531,NEW | 1mi to Nationwide |KingBed,Neighborhood highlights,39.94562,-82.98477,Entire home/apt,Entire home,106,30,3,0.2,146,t,f
+1092818521213610076,Boho Chic Studio by High St w/Parking & Wi-Fi,Neighborhood highlights,39.9978,-83.00415,Entire home/apt,Entire rental unit,77,1,44,2.39,212,f,t
+1094307391940859931,8 Min to Convention Center | Work Travel | Unit A,Neighborhood highlights,39.9629955,-82.9730703,Entire home/apt,Entire townhouse,96,2,92,4.8,249,f,f
+1094979131955261058,4 BD|Private Yard|Across from OSU East Hospital,Neighborhood highlights,39.97133,-82.96382,Entire home/apt,Entire home,134,30,2,0.12,178,t,f
+1095005318117569665,Entire Home | Stylish | Backyard | Garage,Neighborhood highlights,39.93665,-82.9693,Entire home/apt,Entire home,133,30,1,0.42,328,t,f
+1095587144709583406,Old Town East Luxury Escape,Neighborhood highlights,39.96486,-82.97502,Entire home/apt,Entire home,204,2,2,0.45,299,f,f
+1099248356972880580,The Historic Frank Bonnet House | Pool Table!,Neighborhood highlights,39.96077,-82.98536,Entire home/apt,Entire home,163,2,47,2.46,56,t,f
+1100750887807436806,Clintonville Comfort and Class,Neighborhood highlights,40.02224,-83.01169,Entire home/apt,Entire home,287,2,65,3.4,346,t,t
+1101782132026407890,Stately 3BR Columbus Beauty,Neighborhood highlights,39.94993,-82.97141,Entire home/apt,Entire home,115,3,40,2.78,90,t,f
+1106695262791044979,Sycamore I *3 EnSuites *Games *Free Parking *OSU,Neighborhood highlights,39.98421,-83.01204,Entire home/apt,Entire townhouse,246,2,48,2.56,243,t,f
+1108710063946052187,Alexandria - OSU Home SOHUD/Clintonville,Neighborhood highlights,40.01354,-82.99719,Entire home/apt,Entire townhouse,200,2,40,2.22,354,t,f
+1111082687550321260,Large Home with Guesthouse in the Brewery District,Neighborhood highlights,39.94479,-82.99902,Entire home/apt,Entire home,495,4,5,0.4,126,t,f
+1114661656517782963,Patio | Walkable | Historic Area,Neighborhood highlights,39.94621,-82.99445,Entire home/apt,Entire townhouse,209,1,81,4.4,0,t,f
+1115608318573213147,Jewel in Woodland Park 1632,Neighborhood highlights,39.97601,-82.95958,Entire home/apt,Entire home,84,30,3,0.24,330,f,f
+1116576644957754074,Entire Apartment | Modern | Convenient | Columbus,Neighborhood highlights,39.95047,-82.96453,Entire home/apt,Entire rental unit,83,30,1,1,242,t,f
+1118253371974524231,Walk to OSU: Relaxing Retreat with Hot Tub,Neighborhood highlights,39.9898466,-83.0043453,Entire home/apt,Entire home,268,2,58,3.28,308,t,f
+1118253718638871277,Inviting 7 Bed Home with Hot Tub and Fire Pit,Neighborhood highlights,40.0158531,-82.9984294,Entire home/apt,Entire rental unit,326,2,18,1.17,184,t,f
+1118253846571472862,Spacious 5-Bedroom Home with Hot Tub,Neighborhood highlights,40.0158522,-82.9984222,Entire home/apt,Entire rental unit,158,2,22,1.26,189,t,f
+1125774497853637451,Historic Townhome | Private Patio | German Village,Neighborhood highlights,39.94619,-82.99515,Entire home/apt,Entire home,155,2,47,2.96,162,t,t
+1126867157507091142,The Greenhouse,Neighborhood highlights,39.96089,-82.95419,Entire home/apt,Entire home,371,1,8,0.52,270,t,t
+1131129270523786745,Amenity Filled Yard | Near OSU | Private Gym,Neighborhood highlights,39.98838,-83.00721,Entire home/apt,Entire home,199,2,54,3.05,349,t,f
+1133227457017387668,"Ohio Hideaway Escape- Modern, 3BR, 3 TVs, Office",Neighborhood highlights,39.9526865,-82.9715567,Entire home/apt,Entire home,103,2,101,6.39,144,t,f
+1135075225832304520,English Court Barcade,Neighborhood highlights,39.98983,-82.99635,Entire home/apt,Entire townhouse,133,2,29,1.71,353,t,f
+1135741709960020512,French Court Barcade,Neighborhood highlights,39.99039,-82.99692,Entire home/apt,Entire townhouse,147,2,30,1.79,363,t,f
+1142056791280024045,Neil Ave *Game Room *Free Parking *OSU 1/2mi,Neighborhood highlights,39.98494,-83.01269,Entire home/apt,Entire townhouse,457,2,49,2.88,236,t,f
+1143470978415380888,Brand New | Fun Games | Comfy Beds,Neighborhood highlights,39.97047,-82.97477,Entire home/apt,Entire home,200,2,43,2.53,355,t,f
+1146673756021949015,Indoor Fireplace | Smart Home | Private Patio,Neighborhood highlights,39.94435,-82.99604,Entire home/apt,Entire home,194,2,69,4.17,142,t,f
+1146714891454689111,The Columbus Cape Cod Cottage | 1st Floor Beds!,Neighborhood highlights,40.06115,-83.00499,Entire home/apt,Entire home,109,2,17,1.25,113,t,f
+1147278793992593659,Maria's Place - Private Westerville Home,Neighborhood highlights,40.09702,-82.85689,Entire home/apt,Entire home,141,30,4,0.28,276,f,f
+1149349155506808412,"Miller Hideaway- Garage, EV Charging, Pets, Yard",Neighborhood highlights,39.9427983,-82.9619387,Entire home/apt,Entire home,103,2,79,4.98,145,t,f
+1151607496751281412,Large Groups *GameRm *5Queens/1King *High St .2mi,Neighborhood highlights,39.97756,-82.99817,Entire home/apt,Entire home,410,2,23,1.52,194,t,f
+1164735344757222661,338M | Live Like A Local! Gym +Coffee +Bar Onsite,Neighborhood highlights,39.95715,-83.00084,Entire home/apt,Entire rental unit,134,1,6,0.39,57,t,f
+1164758473720244889,629M | Studio Suite w/ balcony | Downtown Columbus,Neighborhood highlights,39.9573,-83.00062,Entire home/apt,Entire rental unit,135,1,11,0.73,57,t,f
+1166692340593595092,216B | Lux Studio Suite | Downtown Columbus,Neighborhood highlights,39.95772,-83.00038,Entire home/apt,Entire rental unit,134,1,5,0.35,57,t,f
+1166754186223645403,"115B | DT Retreat | Onsite Bar, Coffee Shop & Gym!",Neighborhood highlights,39.95644,-82.99897,Entire home/apt,Entire rental unit,135,1,7,0.48,57,t,f
+1167474746997318987,205B | Centrally Located City Escape | Onsite Gym!,Neighborhood highlights,39.95828,-83.00103,Entire home/apt,Entire rental unit,134,1,10,0.64,0,t,f
+1167492925200225867,206B | Luxury Studio Suite | Downtown Columbus,Neighborhood highlights,39.95786,-82.99923,Entire home/apt,Entire rental unit,134,1,14,0.91,0,t,f
+1167581901563187040,Vibrant Spacious BR | 6 mins to OSU-Short North-DT,Neighborhood highlights,40.00232,-82.99947,Private room,Private room in home,214,1,41,3.01,18,t,f
+1167993090992042554,Charming Private Room Near OSU Campus and DT,Neighborhood highlights,40.00244,-82.99783,Private room,Private room in home,207,1,42,3.1,20,t,f
+1168044323112796815,Chic | King Bed | Family Items & Games | Dogs ok,Neighborhood highlights,40.06852,-83.01831,Entire home/apt,Entire home,98,1,27,1.84,346,t,f
+1168090646393992545,Chic Private BR mins from OSU Campus & Short North,Neighborhood highlights,40.0011,-82.99786,Private room,Private room in home,207,1,52,3.8,19,t,f
+1168423093424207062,Urban Oasis: Stylish BR Near DT in Uni District!,Neighborhood highlights,40.00285,-82.99937,Private room,Private room in home,207,1,49,3.63,18,t,f
+1171831744770698978,Fun upscale oasis w/hot tub near OSU & Short North,Neighborhood highlights,39.9898096,-83.0035547,Entire home/apt,Entire home,218,1,53,3.84,296,t,f
+1171921801817699779,"Mins to OSU, Short North & DT | Stylish PVT Room",Neighborhood highlights,40.00219,-82.99747,Private room,Private room in home,207,1,25,1.88,22,t,f
+1173363357848228894,Urban Oasis w/Hot Tub Near Downtown & Arena Dist.,Neighborhood highlights,39.9619749,-83.0430016,Entire home/apt,Entire home,154,1,64,4.64,319,t,f
+1176903962096905557,Townhome | Backyard | Garage | Westerville,Neighborhood highlights,40.09484,-82.94363,Entire home/apt,Entire home,118,30,2,0.15,266,t,f
+1177617872708799327,Columbus Music Box,Neighborhood highlights,39.955048,-82.9695141,Entire home/apt,Entire rental unit,145,1,5,0.55,358,f,t
+1180074793966254053,The Village Townhouse - 3 Bedrooms w/ extra beds,Neighborhood highlights,39.98361,-83.01493,Entire home/apt,Entire townhouse,197,1,11,0.73,112,f,t
+1181804886837937663,337M | Onsite Gym + Restaurant + Coffee Shop,Neighborhood highlights,39.95572,-83.00284,Entire home/apt,Entire rental unit,146,1,7,0.48,57,t,f
+1183340654753793321,Escape 3BR w/ Hot Tub and BBQ,Neighborhood highlights,39.95630389999999,-83.1476251,Entire home/apt,Entire home,365,2,44,2.86,356,t,t
+1184293168517432909,The Columbus Adventure,Neighborhood highlights,39.9912506,-82.9989797,Entire home/apt,Entire home,176,1,5,0.36,345,f,t
+1186222762560291918,The Gahanna Haven | ~Attached Garage~ | No Steps!,Neighborhood highlights,40.06301,-82.84596,Entire home/apt,Entire rental unit,169,30,1,1,365,t,f
+1187615375501011544,"Quiet 2BR House by Zoo, Dublin, Muirfield,",Neighborhood highlights,40.13376,-83.06831,Entire home/apt,Entire home,145,1,38,2.63,180,t,f
+1189277415947391663,202B | Corner Studio Suite | Downtown Columbus,Neighborhood highlights,39.95755,-83.00046,Entire home/apt,Entire rental unit,138,1,10,0.72,0,t,f
+1192354719479426931,Trendy Luxury-2BR-Location-5 Star-Clean-Spacious,Neighborhood highlights,39.97544,-83.00883,Entire home/apt,Entire townhouse,196,2,14,1,325,f,f
+1192366944617552919,The Worthington - 3 BR and Parking,Neighborhood highlights,39.9912259,-83.0127826,Entire home/apt,Entire rental unit,156,1,11,0.79,300,t,t
+1197291479305433521,The Yale Townhouse- 2 BR,Neighborhood highlights,39.9466125,-83.0291201,Entire home/apt,Entire rental unit,94,1,1,0.23,357,f,t
+1197860391719184326,"Columbus Vacation Rental, 7 Mi to Downtown!",Neighborhood highlights,39.9499477,-82.8861638,Entire home/apt,Entire home,130,2,20,1.41,354,f,t
+1203039800446873743,Walk to Football | Parking | Big Yard | Dogs OK!,Neighborhood highlights,39.99548,-82.99861,Entire home/apt,Entire home,344,1,58,4.38,212,t,f
+1207883592502384018,3BR | 1BA | Townhouse | East Columbus,Neighborhood highlights,39.97619,-82.95779,Entire home/apt,Entire townhouse,95,30,1,0.31,363,t,f
+1207952575164148611,Eldridge Echo R - 3BR|1BA|East Columbus,Neighborhood highlights,39.97632,-82.95756,Entire home/apt,Entire townhouse,95,30,1,0.27,268,t,f
+1211084051402531958,Oasis on Ohio,Neighborhood highlights,39.94604,-82.97145,Entire home/apt,Entire home,108,30,1,0.08,332,f,f
+1211633620001067902,Comfortable Stay | Zoo. Free Parking,Neighborhood highlights,40.11470168006489,-83.01533601,Private room,Room in hotel,104,1,244,18.77,177,t,t
+1211633774265270778,Relaxing Journey | Botanical Gardens. Indoor Pool,Neighborhood highlights,40.114698157939934,-83.01534176,Private room,Room in hotel,108,1,94,7.21,169,t,t
+1211789649301047145,Charming Ranch 3BR W/ Hot Tub & Ping Pong & BBQ,Neighborhood highlights,40.08307,-83.099,Entire home/apt,Entire home,408,2,49,3.58,363,t,t
+1216487288725966148,Urban Retreat: Modern BR Close to DT & Short North,Neighborhood highlights,40.00232,-82.9973,Private room,Private room in home,207,1,47,3.39,23,t,f
+1216602875297259508,Stylish BR mins from OSU Campus and Downtown,Neighborhood highlights,40.00294,-82.99933,Private room,Private room in home,207,1,24,1.74,25,t,f
+1216922824790641275,Gleaming Private Bedroom in University District!,Neighborhood highlights,40.00112,-82.99908,Private room,Private room in home,207,1,36,2.62,27,t,f
+1216986543875461169,"Chic Urban Stay: 6 Mins to OSU, Short North & DT",Neighborhood highlights,40.00214,-82.99706,Private room,Private room in home,207,1,36,2.67,22,t,f
+1217290026808589357,6 mins to OSU-Short North-DT| Charming & Cozy BR,Neighborhood highlights,40.00153,-82.99882,Private room,Private room in home,207,1,57,4.16,28,t,f
+1224588459165258772,"Sunny 4BR w/Fire Pit, BBQ, 30+ Day Stays, Near OSU",Neighborhood highlights,40.00913,-82.99738,Entire home/apt,Entire home,144,30,3,0.26,307,t,f
+1227561801365293708,The Northtowne Getaway,Neighborhood highlights,40.0700423,-82.9621456,Entire home/apt,Entire home,136,1,18,1.36,363,f,f
+1230010939284380986,The Artisan - An Atelier in Nature's Canopy,Neighborhood highlights,40.09085,-83.06289,Entire home/apt,Entire rental unit,128,2,53,4.21,342,t,f
+1237665181175440281,The Cove: Wellness Retreat & Haven - Sleeps 10,Neighborhood highlights,39.9682881,-83.1600161,Entire home/apt,Entire home,192,1,40,4,237,t,f
+1242004597386582785,Minutes to Arena District | Foosball + Game Area,Neighborhood highlights,39.9745938,-83.0103086,Entire home/apt,Entire home,204,1,48,3.85,87,t,f
+1244198585672202193,The Pop Fusion Pad in Short North,Neighborhood highlights,39.975604,-83.001833,Entire home/apt,Entire home,149,1,14,1.57,331,f,f
+1245140233983884772,The Indiana Stunner,Neighborhood highlights,40.0122939,-83.0015778,Entire home/apt,Entire home,162,1,13,1.14,355,f,f
+1245684437430111756,*New* Cozy Home Away From Home,Neighborhood highlights,39.98217210903332,-83.09158054,Entire home/apt,Entire home,195,2,12,1.17,41,t,f
+1248636809783094360,The Yellowstone - Private Home Near OSU,Neighborhood highlights,40.00982366038203,-83.00561486,Entire home/apt,Entire home,152,2,40,3.26,345,t,f
+1249486992426739714,Southern Orchards Getaway,Neighborhood highlights,39.9451278,-82.9818776,Entire home/apt,Entire home,87,1,7,1,364,f,t
+1252944433722579541,Wilber B - Victorian Village | Free Parking | OSU,Neighborhood highlights,39.9796456,-83.012582,Entire home/apt,Entire rental unit,100,30,2,0.23,280,t,f
+1253813100537156503,Downtown Columbus | Sleeps 16 | Spacious + Arcades,Neighborhood highlights,39.94805632473943,-82.97987073,Entire home/apt,Entire condo,194,1,68,5.64,329,f,f
+1257533994888718557,The Blue Door Townhouse—Short North/Italian Vill.,Neighborhood highlights,39.9774478,-83.0017023,Entire home/apt,Entire home,109,2,7,1,3,f,f
+1262562023790342380,8 Mi to Downtown: Pet-Friendly Columbus Home,Neighborhood highlights,40.06676921471955,-82.92668072,Entire home/apt,Entire home,176,2,8,0.72,359,f,t
+1262575446765673486,The Mohawk Masterpiece—German Village,Neighborhood highlights,39.9452992,-82.9926093,Entire home/apt,Entire home,88,2,16,1.43,9,f,t
+1267538775362775509,Luxury 2-Bed in Grandview,Neighborhood highlights,39.9879922,-83.0333359,Entire home/apt,Entire townhouse,106,2,21,3.01,211,f,t
+1267546891611835367,Stylish 2 bedroom with Pool and Hot Tub,Neighborhood highlights,39.9880784,-83.0325291,Entire home/apt,Entire rental unit,110,2,35,3.67,148,f,t
+1267563348061515928,Luxury 2 Bed with a loft,Neighborhood highlights,39.9880784,-83.0325291,Entire home/apt,Entire rental unit,107,2,28,3.12,161,f,t
+1268127561700560558,Happily Ever Astor - Modern|Ranch|Patio|Garage,Neighborhood highlights,39.95190138041159,-82.91904344,Entire home/apt,Entire home,120,30,1,0.1,354,t,f
+1268167027898787627,Stylish 2 Bedroom With Pool,Neighborhood highlights,39.9880784,-83.0325291,Entire home/apt,Entire townhouse,105,2,38,4.09,151,f,t
+1273261612848855504,7 Bed - Urban Hot Tub Oasis near OSU & Short North,Neighborhood highlights,39.9887632,-83.0035405,Entire home/apt,Entire home,237,1,35,3.48,321,t,f
+1274022336682983820,Pro Designed | King Bed | Fireplace | Dogs OK,Neighborhood highlights,40.07022,-83.01839,Entire home/apt,Entire home,106,2,30,2.69,360,t,f
+1274957651972422643,Harrison West Brick| 5 BR w/ extra beds,Neighborhood highlights,39.9836772,-83.0149655,Entire home/apt,Entire townhouse,201,1,6,0.57,168,f,t
+1277943254779115217,"Northern Valley - Charming and Cozy, 2BR, 1 BA",Neighborhood highlights,40.09510995741891,-82.94315035,Entire home/apt,Entire townhouse,110,30,1,0.54,222,t,f
+1280084366612259259,The Franklinton Farmhouse- 4 Bedrooms,Neighborhood highlights,39.9583467,-83.0254893,Entire home/apt,Entire home,173,1,15,1.4,365,f,t
+1284279483432386615,The Cozy House Of Columbus,Neighborhood highlights,40.0774688,-83.0553087,Entire home/apt,Entire home,74,1,42,5.65,81,t,f
+1285526733913271096,Spacious four-Level Duplex with 2 Queen- bedrooms,Neighborhood highlights,39.919246,-82.8137074,Entire home/apt,Entire guest suite,49,2,29,2.84,361,t,f
+1290642494278998448,The Orchard Oasis,Neighborhood highlights,40.0334296,-83.018785,Entire home/apt,Entire home,182,1,10,0.98,352,f,f
+1290844444686247182,"Prime Spot! Firepit, 3 Kings, OSU/Short North",Neighborhood highlights,39.9861779,-83.009805,Entire home/apt,Entire home,182,2,36,5.65,347,t,f
+1293638777616046034,"Walk to Convention Center, Secured Apt in Columbus",Neighborhood highlights,39.97467752697899,-83.00346377,Entire home/apt,Entire loft,112,2,20,2.01,335,f,t
+1294366892696725508,Modern Comfort & 2-Car Garage,Neighborhood highlights,39.9451637,-82.9838879,Entire home/apt,Entire home,125,30,14,2.63,147,t,f
+1295117187171752517,The City Cabin - Unique and Historic!,Neighborhood highlights,40.0078098,-83.0082612,Entire home/apt,Entire bungalow,193,1,15,1.49,356,t,t
+1302513431525401652,Spacious Retreat - 3 BR + Parking- German Village,Neighborhood highlights,39.9491886,-82.9843915,Entire home/apt,Entire rental unit,104,1,12,1.23,363,f,t
+1306116348606979612,Housepitality - The City Gateway,Neighborhood highlights,39.950504,-82.9967656,Entire home/apt,Entire rental unit,85,1,7,1.45,364,f,t
+1307470564448660434,Spacious 2-Bed Apt – Steps from Vibrant City Life,Neighborhood highlights,39.9844037,-83.0053851,Entire home/apt,Entire rental unit,121,2,33,3.84,347,t,f
+1309571998005138321,Spacious Historic 8-Bedroom Manor in Short North -,Neighborhood highlights,39.9839998,-83.0041384,Entire home/apt,Entire home,349,1,6,1.07,341,t,t
+1313057741026797620,Columbus GreenHouse-Central Location,Neighborhood highlights,39.93085757405167,-82.97881167,Entire home/apt,Entire home,181,2,19,2.12,156,t,t
+1313200482461222279,Bohemian Home in Dublin,Neighborhood highlights,40.0905974,-83.1021065,Entire home/apt,Entire home,211,1,12,1.72,342,f,f
+1313789680162334502,Beautiful Home with Games & Hot Tub,Neighborhood highlights,39.99270163896258,-83.00414693,Entire home/apt,Entire home,235,2,21,2.36,172,t,t
+1313917832047858469,Modern Oasis I Hot Tub & Views,Neighborhood highlights,39.992413925059765,-83.0036416,Entire home/apt,Entire home,323,2,28,3.01,172,t,t
+1313934276867215789,Columbus Palace w/ Rooftop Hot Tubs & Game Room,Neighborhood highlights,39.99315723640164,-83.00195079,Entire home/apt,Entire home,541,2,9,1.02,172,t,t
+1318440313571436699,Madison House- Updated 4 BR 2.5 BA,Neighborhood highlights,39.964115,-82.973663,Entire home/apt,Entire condo,153,1,4,0.48,354,f,t
+1321934105431016617,Private Patio|Historic Area|German Village,Neighborhood highlights,39.94534,-82.99276,Entire home/apt,Entire townhouse,149,1,55,6.4,332,t,t
+1321940676189189899,Pet Friendly | Modern Touches | Walk to Bars,Neighborhood highlights,39.98475,-83.01121,Entire home/apt,Entire rental unit,141,1,31,3.72,174,t,t
+1321943681754052116,OSU & Crew Stadium | Easy Walk | Great Design,Neighborhood highlights,39.98471,-83.00745,Entire home/apt,Entire rental unit,189,1,32,3.69,173,t,t
+1321943764650251696,Patio | Walkable Neighborhood | Short North,Neighborhood highlights,39.98493,-83.00719,Entire home/apt,Entire rental unit,219,1,24,2.79,43,t,t
+1321944179178641243,Near OSU & Arena | Walkable | Great Eats Nearby,Neighborhood highlights,39.98429,-83.0119,Entire home/apt,Entire rental unit,148,1,9,3.25,165,t,f
+1321944179439820777,OSU & Crew Stadium | Easy Walk | Great Design,Neighborhood highlights,39.98616,-83.01196,Entire home/apt,Entire rental unit,119,1,37,4.27,170,t,t
+1321944892911929784,Free Parking|Walkable to Cafes|Short North,Neighborhood highlights,39.98509,-83.00618,Entire home/apt,Entire rental unit,131,1,37,4.57,31,t,f
+1321946408779173313,FREE Parking | Smart TV | Steps to Everything,Neighborhood highlights,39.98523,-83.0061,Entire home/apt,Entire rental unit,141,1,32,3.82,33,t,t
+1321950214923357863,Balcony with Seating | Pet Friendly | Parking,Neighborhood highlights,39.98316,-83.00558,Entire home/apt,Entire rental unit,140,1,47,5.51,26,t,t
+1321950215859945859,"Eat, Shop, Stroll | Walkable | Modern Comfort",Neighborhood highlights,39.98331,-83.0077,Entire home/apt,Entire rental unit,179,1,35,4.17,178,t,t
+1321950215915792759,Pet Friendly | Modern Touches | Walk to Bars,Neighborhood highlights,39.98456,-83.00623,Entire home/apt,Entire rental unit,143,1,35,4.07,158,t,t
+1328286285857765680,*King bed|Garage|Walking|Fenced backyard*,Neighborhood highlights,39.94475,-82.98432,Entire home/apt,Entire home,131,1,40,5.56,343,t,f
+1329063818199535273,"Historic Short North: Hot Tub, BBQ, Free Parking",Neighborhood highlights,39.98401,-83.00322,Entire home/apt,Entire home,225,2,36,4.29,57,t,t
+1333980693383843775,8 mins to OSU & More! / Queen BR next to Downtown!,Neighborhood highlights,39.96006230482261,-82.98361284,Private room,Private room in home,136,1,28,3.72,29,t,f
+1334097286998227660,Mins to German Village & Downtown | Chic BR Stay,Neighborhood highlights,39.96003121181053,-82.9837202,Private room,Private room in home,136,1,37,4.74,26,t,f
+1334122758560750272,Modern BR near OSU | Dwtn | Short North | Stadium,Neighborhood highlights,39.96019,-82.98442,Private room,Private room in home,136,1,34,4.53,26,t,f
+1335498493527013169,Top Floor Apt near NCH and Downtown | Free Parking,Neighborhood highlights,39.94837279168726,-82.97301151,Entire home/apt,Entire rental unit,75,1,3,0.64,342,t,f
+1343679925418708183,Campus Cottage - 3BD|1BA|Close to OSU Campus,Neighborhood highlights,39.99404304416057,-82.99700361,Entire home/apt,Entire home,116,30,1,0.26,328,t,f
+1344229419178123428,Next to Downtown & close to OSU - Stylish Stay,Neighborhood highlights,39.96013927944276,-82.98344152,Private room,Private room in home,136,1,27,3.6,26,t,f
+1344255673858243321,PVT BR Near OSU & Short North | Next to DT,Neighborhood highlights,39.95992623334313,-82.98471612,Private room,Private room in home,137,1,16,2.13,26,t,f
+1344398795401151937,Bright Spacious 5BR Perfect for Groups or Family,Neighborhood highlights,40.0078031,-83.0003687,Entire home/apt,Entire townhouse,240,30,2,0.33,330,f,t
+1344835484335168677,Near DWTN & OSU Campus - Spacious & Bright BR,Neighborhood highlights,39.96022,-82.98328,Private room,Private room in home,138,1,43,5.71,23,t,f
+1344868029852321782,Explore CBUS! Mins to OSU and DT-Large & Cozy BR,Neighborhood highlights,39.95874130489147,-82.98538418,Private room,Private room in home,137,1,34,4.64,22,t,f
+1344936892786201878,NEW Charming City Park 2-story/Pets OK,Neighborhood highlights,39.947366446557055,-82.99634145,Entire home/apt,Entire rental unit,109,1,35,4.57,325,t,f
+1345069463709407596,4 mins to Downtown!-  Stylish & Cozy Private BD,Neighborhood highlights,39.95973518771138,-82.98403694,Private room,Private room in home,137,1,28,3.61,30,t,f
+1345156572418908083,"Chic 3-BR Home, Steps to Downtown, Fully Equipped!",Neighborhood highlights,39.96009599943913,-82.98358142,Entire home/apt,Entire home,149,1,7,1.04,37,t,t
+1346608876573807917,The Champion Abode,Neighborhood highlights,39.9423858,-82.9709267,Entire home/apt,Entire townhouse,108,1,4,0.54,363,f,t
+1348608909231442319,Historic Gem Perfect for Groups and Long Stays,Neighborhood highlights,39.9967945,-82.999263,Entire home/apt,Entire home,241,30,2,0.33,351,f,t
+1350320758557064418,Luxury Stay in the Heart of Columbus,Neighborhood highlights,39.9845232,-83.005346,Entire home/apt,Entire rental unit,126,2,24,3.14,324,t,t
+1351128761444150320,The Green Door House~Great Location~ Pet Friendly,Neighborhood highlights,40.07568244755781,-83.00379574,Entire home/apt,Entire home,141,3,16,2.3,332,t,f
+1351500475175563735,Northwoods Apt 8091 -2A I 2 Bed 1 Bath,Neighborhood highlights,40.13070056,-83.01992209,Entire home/apt,Entire rental unit,59,30,2,0.35,220,f,t
+1351500555843322302,Northwoods Apt 8208 -3A I 2 bed 1 Bath,Neighborhood highlights,40.12955006,-83.01948902,Entire home/apt,Entire rental unit,83,30,1,0.24,240,f,t
+1351500566005799820,Northwoods Apt 8241 -1A 1 bed 1 Bath,Neighborhood highlights,40.13081,-83.01939,Entire home/apt,Entire rental unit,84,30,1,0.25,201,f,t
+1351500624701944975,Northwoods Apt 8241-2D I 1b ed 1 Bath,Neighborhood highlights,40.13143015124778,-83.019619,Entire home/apt,Entire rental unit,59,30,1,0.33,230,f,t
+1351500628711303424,Northwoods Apt 8241-2A I 1 Bed 1bath,Neighborhood highlights,40.12911578296436,-83.0208941,Entire home/apt,Entire rental unit,59,30,2,0.38,172,f,t
+1351500659734531721,Northwoods Apt 8241-3c I 1 Bed 1 Bath,Neighborhood highlights,40.12993,-83.02103,Entire home/apt,Entire rental unit,59,30,3,0.56,224,f,t
+1351500759593088835,Northwoods Apt 8245-1D I 2 Bed 2 Bath,Neighborhood highlights,40.13091807199655,-83.01974925,Entire home/apt,Entire rental unit,59,30,2,0.76,210,f,t
+1353303886792943919,Comfortable 3 bedroom near OSU,Neighborhood highlights,39.98921641824965,-82.99934582,Entire home/apt,Entire home,100,30,1,0.29,299,f,f
+1354584812649931175,The Nook on Neil Walkable 3BR,Neighborhood highlights,39.9781598,-83.011631,Entire home/apt,Entire rental unit,148,1,4,0.76,363,f,t
+1358762789025087157,Lux Townhome | Rooftop Terrace | 2-Car Att Garage,Neighborhood highlights,39.98280701972073,-83.00691724,Entire home/apt,Entire condo,251,30,2,0.54,323,t,f
+1358954457432620406,Oakwood Charm | Family-Friendly 3BR Getaway,Neighborhood highlights,39.94015768810252,-82.97024074,Entire home/apt,Entire home,93,2,14,2.01,355,f,t
+1365544916943891181,The Barrel House I Hot Tub I Theme Room,Neighborhood highlights,39.9427688,-82.9106191,Entire home/apt,Entire home,305,2,5,0.74,361,f,f
+1367098082165619985,The Yale Townhouse 2 - 2BR,Neighborhood highlights,39.9530725,-83.0307252,Entire home/apt,Entire townhouse,86,1,14,2.32,359,f,t
+1369975147376571812,Great for Traveling Workers- Mins from OSU,Neighborhood highlights,39.94717636,-82.97598021,Entire home/apt,Entire home,165,1,8,1.68,178,f,f
+1371939041107594800,The Norman Rockwell House—Historic German Village,Neighborhood highlights,39.9453773,-82.9936184,Entire home/apt,Entire home,120,2,8,1.49,260,f,f
+1374615017566564941,"3Bed, 1Bath w/ Fenced Backyard",Neighborhood highlights,39.94410562355115,-82.9641834,Entire home/apt,Entire townhouse,70,31,1,0.33,356,f,f
+1374706201888102393,Nightingale Cottage - Near NCH!,Neighborhood highlights,39.9523084,-82.9887658,Entire home/apt,Entire home,100,1,5,0.83,350,f,f
+1375008155200030791,The Cozy Cobblestone In German Village,Neighborhood highlights,39.9403113,-82.9844722,Entire home/apt,Entire home,210,2,28,4.29,327,t,t
+1375239011054132006,10 Mi to Dtwn: Pet-Friendly Retreat in Columbus,Neighborhood highlights,39.9520614,-82.8614753,Entire home/apt,Entire home,160,2,7,1.24,359,f,t
+1375610792851891661,Modern Comfy Rm Mins from Dwntwn,Neighborhood highlights,39.94339578703968,-82.967221,Private room,Private room in home,40,30,3,0.52,157,t,t
+1376383427688683442,The Luminous Loft - Bright and Stylish Retreat,Neighborhood highlights,39.96688528,-82.96881088,Entire home/apt,Entire rental unit,134,2,1,0.37,178,f,t
+1378459566990315633,Breath of Fresh Air House- 3 BR 2BA,Neighborhood highlights,39.950901,-82.961044,Entire home/apt,Entire home,128,1,7,1.18,364,f,t
+1378960883870158056,Townhome|Backyard|Patio|NCH,Neighborhood highlights,39.96762917088967,-82.96768823,Entire home/apt,Entire home,129,30,2,0.4,343,t,f
+1379720105053385863,Updated luxury 1 Bedroom unit with a pool and hot,Neighborhood highlights,39.9869419,-83.0328703,Entire home/apt,Entire rental unit,94,2,12,1.99,167,f,t
+1379775259168761027,Townhome|German Village|Private Patio|Near OSU,Neighborhood highlights,39.9500691,-82.99197913,Entire home/apt,Entire home,81,30,1,0.33,276,t,f
+1379804447020398261,Updated Flat|Columbus|OSU|NCH,Neighborhood highlights,40.05374198850501,-83.03593194,Entire home/apt,Entire rental unit,86,30,2,0.52,329,t,f
+1384962899339283452,Updated 2-Bedroom with a pool and hot tub,Neighborhood highlights,39.9873323,-83.0337252,Entire home/apt,Entire rental unit,110,2,24,5.22,151,f,t
+1387339980166434243,Gahanna Dreaming - 5Br 2 Ba  INTEL,Neighborhood highlights,40.0647689,-82.9145002,Entire home/apt,Entire home,212,1,8,1.36,333,f,t
+1389540067281331342,The Urban Oasis - 3 BR - Great Location,Neighborhood highlights,39.9839998,-83.0041384,Entire home/apt,Entire rental unit,229,1,6,1.53,342,f,t
+1392299847417234035,The Mohawk Masterpiece,Neighborhood highlights,39.9482969,-82.9933496,Entire home/apt,Entire home,270,1,10,1.72,336,f,t
+1392586161415690524,Cute Columbus Getaway! Downtown Luxury Flat,Neighborhood highlights,39.9649954,-82.9745528,Entire home/apt,Entire rental unit,76,30,3,1.01,347,t,t
+1394486721074743253,Wilber A - First Floor Apt|Victorian Village|OSU,Neighborhood highlights,39.97932,-83.01192,Entire home/apt,Entire rental unit,89,30,2,0.61,289,t,f
+1404453537287517010,"3 bed, 2.5 bath near downtown",Neighborhood highlights,39.92937425376326,-82.99200419,Entire home/apt,Entire townhouse,72,31,1,1,301,f,f
+1406001281322231228,Cozy Retreat Near Fairgrounds,Neighborhood highlights,39.99958915329471,-82.97935545,Entire home/apt,Entire home,74,1,16,7.38,107,f,f
+1406581046730677235,Northwoods 124-2B I Comfy 1 Bed 1 Bath,Neighborhood highlights,40.12996,-83.0206,Entire home/apt,Entire rental unit,48,30,1,0.61,257,f,t
+1406581069276091840,Northwoods 8083-2D I 2 Bed 2 Bath,Neighborhood highlights,40.127949808361855,-83.01956979,Entire home/apt,Entire rental unit,59,30,1,0.48,245,f,t
+1406581125411617694,Northwoods 140-2B I Comfy 1 Bed 1 Bath,Neighborhood highlights,40.13127400995352,-83.02198411,Entire home/apt,Entire rental unit,48,30,1,0.25,258,f,t
+1406581161932941059,Northwoods 8122-3B I Comfy 1 Bed 1 Bath,Neighborhood highlights,40.12825643453128,-83.02051654,Entire home/apt,Entire rental unit,48,30,1,0.27,178,f,t
+1406581217610384102,Northwoods 8204 -2A I Comfy 2 Bed 1 Bth,Neighborhood highlights,40.129135831582055,-83.02065247,Entire home/apt,Entire rental unit,59,30,2,0.51,206,f,t
+1406581286594564698,Northwoods 8208-2B I 2 Bed 1 Bath,Neighborhood highlights,40.13111528191504,-83.02129155,Entire home/apt,Entire rental unit,48,30,1,0.7,232,f,t
+1407354953658590053,The Highline - Downtown Rooftop Escape,Neighborhood highlights,39.9596194,-82.9844784,Entire home/apt,Entire home,386,1,5,1.03,339,f,t
+1416648626415707041,"Modern Retreat with Free Parking, Wifi, Pool & Gym",Neighborhood highlights,39.98385688555874,-82.99728604,Entire home/apt,Entire condo,116,2,18,4.25,290,t,f
+1417478040794843552,Columbus Surfside Escape + Gym l Hot Tub l Bocce,Neighborhood highlights,39.937853,-82.9632692,Entire home/apt,Entire home,233,1,7,2.16,359,f,t
+1421190359184828437,NEWLY Built LUX APT w/Parking+LNDRY+GYM+Balcony,Neighborhood highlights,39.95791497933349,-82.96829234,Entire home/apt,Entire rental unit,91,1,11,2.64,328,f,t
+1421195754121848491,Fresh Built Lux APT w/GYM+On-Site Parking+Balcony,Neighborhood highlights,39.95675794942164,-82.96892304,Entire home/apt,Entire rental unit,101,1,29,7.25,322,f,t
+1421197959008380579,New Built Clean APT w/On-Site Parking+GYM+Balcony,Neighborhood highlights,39.95754630770141,-82.96681809,Entire home/apt,Entire rental unit,110,1,35,8.4,338,f,t
+1421244816523585883,Housepitality - The Urban Roost 2,Neighborhood highlights,39.9536986,-83.0216117,Entire home/apt,Entire townhouse,96,1,5,1.49,363,f,t
+1424712913501721488,Modern Apt | Parking | Near German Village + Dtwn,Neighborhood highlights,39.94710918281839,-82.98514869,Entire home/apt,Entire rental unit,66,30,2,0.68,316,t,f
+1424712915348026171,Modern Apt | Parking | Near German Village + Dtwn,Neighborhood highlights,39.94596631168676,-82.98500887,Entire home/apt,Entire rental unit,66,30,1,1,285,t,f
+1426149744689637346,The Goodale Park Modern | 2-Car Garage,Neighborhood highlights,39.9749169,-83.0096159,Entire home/apt,Entire home,194,2,16,3.87,334,t,f
+1435572482250349590,"Landing | Stylish 2BD, Game Room, Gym",Neighborhood highlights,40.06555347230384,-82.84438079,Entire home/apt,Entire rental unit,103,30,1,1,330,f,t
+1437928647301361945,7 Min to Arena District | Work Friendly | Unit C,Neighborhood highlights,39.96299560170097,-82.97307037,Entire home/apt,Entire townhouse,86,1,16,4.66,354,f,t
+1440001285718154195,Modern Loft Located near OSU Campus,Neighborhood highlights,40.0038753,-83.0085703,Entire home/apt,Entire rental unit,78,30,1,0.91,215,f,t
+1440154328696145386,Vintage Comfort near OSU-Short North-CBUS Downtown,Neighborhood highlights,39.992979,-83.00124,Entire home/apt,Entire home,253,1,5,1.63,232,f,t
+1440588217942148471,The Buckeye Haus,Neighborhood highlights,39.94668,-82.97059,Entire home/apt,Entire home,307,1,13,3.79,348,t,t
+1443475328322463412,Cozy Modern Boho Retreat “The Perfect Pause”,Neighborhood highlights,39.90932,-83.10677,Entire home/apt,Entire home,232,1,2,2,268,f,f
+1445189648796120499,2BR Urban Nook | DWTN | Free Parking  | Sleeps 4,Neighborhood highlights,39.96025,-82.9846,Private room,Private room in home,169,1,8,2.89,343,t,f
+1445703592072176258,Stylish Urban Escape Next to DWTN | Cozy Pvt BR,Neighborhood highlights,39.95904,-82.9835,Private room,Private room in home,143,1,16,6.67,0,t,f
+1445858592013845854,Bright Modern PVT BR mins to DT-OSU-Short North,Neighborhood highlights,39.95887,-82.98331,Private room,Private room in home,143,1,11,4.18,341,t,f
+1445885355594180808,DWTN Haus | 4BR Boho Retreat Near OSU | Sleeps 8,Neighborhood highlights,39.95851,-82.98464,Entire home/apt,Entire home,206,1,3,2.25,339,t,t
+1446628525864045973,Exquisite Home for Group + FirePit and Backyard!,Neighborhood highlights,39.995068,-82.997131,Entire home/apt,Entire home,180,1,3,1.45,329,f,t
+1450908044430086272,Mins to OSU + Short North + King Bed,Neighborhood highlights,39.98742,-83.01097,Entire home/apt,Entire guesthouse,89,30,1,1,268,t,t
+1451354589662747010,*Walk* to OSU/Short North~FREE Parking~Fire Pit,Neighborhood highlights,39.98867,-83.00948,Entire home/apt,Entire home,160,1,6,2.9,347,t,f
+1451642915717792988,Hot Tub + Fire Pit • Walk to German Village,Neighborhood highlights,39.9451666,-82.9837958,Entire home/apt,Entire home,215,1,8,6.67,280,f,f
+1452376144736976511,"The Haven ""Jewel"" townhome in Columbus, Ohio",Neighborhood highlights,39.9811257,-83.0140441,Entire home/apt,Entire home,218,1,30,12,316,f,f
+1452847663854941816,"The Haven “Jade” Townhome in Columbus, Ohio",Neighborhood highlights,39.9812174,-83.0140756,Entire home/apt,Entire home,205,30,14,5.32,320,f,f
+1460454761605802262,"Luxury Experience | Bar, Restaurant + Spa",Neighborhood highlights,39.97197,-83.00226,Private room,Room in hotel,363,1,8,4.9,171,f,t
+1460455541761060061,Heart of Short North Arts District | Luxury Stay,Neighborhood highlights,39.97337,-83.00358,Private room,Room in hotel,368,1,3,1.88,157,f,t
+1467589201055035357,Amazing Location! The Village Dreamer,Neighborhood highlights,39.984898,-82.999496,Entire home/apt,Entire bungalow,99,1,4,1.97,96,f,t
+1467709673099127034,3 King Beds | Free Parking | Fenced Yard | OSU,Neighborhood highlights,39.98576,-83.01285,Entire home/apt,Entire home,401,1,1,1,351,t,f
+1469606255861903864,"New Build, Sleeps 4 & Close to Everything!",Neighborhood highlights,39.991030047456384,-83.05025791,Entire home/apt,Entire guesthouse,161,1,15,15,0,f,f
+1475568446594536023,Hanford House: Hot Tub|Sauna|Bar|Sleeps 8,Neighborhood highlights,39.93703,-82.98232,Entire home/apt,Entire home,208,1,1,1,326,t,t
+1477174271605618907,Home to Unwind,Neighborhood highlights,40.02375,-83.03412,Entire home/apt,Entire home,119,1,2,2,214,f,f
+1479740736442882425,1 -Bedroom Charming Downtown Columbus Escape,Neighborhood highlights,40.02280033363939,-83.0265539,Entire home/apt,Entire rental unit,74,1,4,2.79,353,f,f
+1480595303231776176,Chic Columbus Retreat with Reserved Parking,Neighborhood highlights,39.9488711,-82.9830083,Entire home/apt,Entire townhouse,134,1,4,3.16,365,f,t
+1481966604422377438,Minnesota Game Availability + FREE Parking,Neighborhood highlights,39.98185,-82.99845,Entire home/apt,Entire condo,228,1,1,1,184,t,t
+1482060362698044315,*NEW* HotTub+Rooftop Deck | Steps to Short North,Neighborhood highlights,39.97515,-83.00023,Entire home/apt,Entire home,210,1,6,4.19,327,t,f
+1482895524257880534,The Southwestern 4BD/2BA,Neighborhood highlights,39.9576358,-83.0270116,Entire home/apt,Entire home,155,1,2,1.67,333,f,t
+1482913210240723931,Cozy 2 BR in Short North Convenient Parking,Neighborhood highlights,39.9838267,-83.0074017,Entire home/apt,Entire rental unit,129,1,2,1.25,357,t,t
+1483654686708676002,Housepitality The Bungalow 2 BR 1BA,Neighborhood highlights,40.019943,-82.993164,Entire home/apt,Entire bungalow,94,1,2,2,365,t,t
+1486305212030034797,Modern Loft In the Heart of OSU Campus,Neighborhood highlights,40.0038753,-83.0085703,Entire home/apt,Entire rental unit,89,2,9,7.5,214,f,t
+1487132221805047241,Studio apartment in the heart of OSU campus,Neighborhood highlights,40.0038753,-83.0085703,Entire home/apt,Entire rental unit,83,2,1,1,215,f,t
+1487132522817458276,Campus Studio in the Heart of OSU Campus,Neighborhood highlights,40.00388,-83.00857,Entire home/apt,Entire rental unit,79,2,1,0.77,243,f,t
+1487132802233633143,Modern Studio in the heart of OSU campus,Neighborhood highlights,40.0038753,-83.0085703,Entire home/apt,Entire rental unit,79,2,2,2,244,f,t
+1490758200612081700,Spacious Studio with pool view,Neighborhood highlights,39.9880864,-83.0325284,Entire home/apt,Entire rental unit,85,2,2,1.76,348,f,t
+1493539507823983298,6 Mi to Ohio State: Walkable Home in S Columbus!,Neighborhood highlights,39.94516,-82.98177,Entire home/apt,Entire home,129,2,1,1,364,f,t
+1497307905276246200,Stay in the Palazzo in OSU! 10 BEDS!,Neighborhood highlights,39.999695,-82.995789,Entire home/apt,Entire home,195,1,1,1,334,f,t
+1497338277264204949,*NEW* MCM Gem | Mins to OSU | Dogs OK | EZ Parking,Neighborhood highlights,40.07072,-83.01606,Entire home/apt,Entire home,125,1,3,3,356,t,f
+1501775621676638607,Stunning 2 BR - Parking and Walk to Park,Neighborhood highlights,40.041458,-83.0180493,Entire home/apt,Entire rental unit,179,1,2,2,350,f,t
+1503213662797773857,The Southern Orchards Cottage - 2 BR,Neighborhood highlights,39.937485,-82.978317,Entire home/apt,Entire bungalow,85,1,2,2,365,f,t
+1506576064596714424,*NEW* Hot Tub | EZ Parking | 2BR by German Village,Neighborhood highlights,39.92717,-82.99467,Entire home/apt,Entire home,118,1,1,1,355,t,f
+1507536047427207387,Spacious home by CMH,Neighborhood highlights,39.99679,-82.78194,Entire home/apt,Entire home,289,1,1,1,179,f,f
