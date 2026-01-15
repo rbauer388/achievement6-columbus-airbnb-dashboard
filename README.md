@@ -6,7 +6,7 @@ It was completed as part of CareerFoundry’s Data Analytics Program (Achievemen
 ## 📊 Interactive Tableau Dashboard
 
 👉 **View the live interactive dashboard here:**  
-🔗 **[Open Interactive Tableau Dashboard](https://public.tableau.com/views/A6FinalProject/FinalResultsandStrategicPricingRecommendations)**
+🔗 **[Open Interactive Tableau Dashboard](https://public.tableau.com/views/RyanBauer-ColumbusAirbnb-FinalStoryboard/ColumbusAirbnb-FinalStoryboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 This dashboard allows you to explore pricing trends, distance-to-downtown effects, room type differences, and strategic pricing insights across the Columbus Airbnb market.
 
