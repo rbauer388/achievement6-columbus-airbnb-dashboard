@@ -3,6 +3,13 @@
 This project analyzes the Columbus, Ohio Airbnb market using clustering, regression, and time-series modeling to identify pricing patterns, market segments, and booking behavior.
 It was completed as part of CareerFoundry’s Data Analytics Program (Achievement 6).
 
+## 📊 Interactive Tableau Dashboard
+
+👉 **View the live interactive dashboard here:**  
+🔗 **[Open Interactive Tableau Dashboard](https://public.tableau.com/views/A6FinalProject/FinalResultsandStrategicPricingRecommendations)**
+
+This dashboard allows you to explore pricing trends, distance-to-downtown effects, room type differences, and strategic pricing insights across the Columbus Airbnb market.
+
 📊 Project Objectives
 
 Analyze pricing behavior in the Columbus Airbnb market
